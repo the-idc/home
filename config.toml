@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "IDC"
+
+[outputs]
+section = ["HTML", "RSS", "Calendar"]

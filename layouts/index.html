@@ -1,0 +1,14 @@
+{{partial "header.html" .}}
+<main>
+  <h1>Nice. It's looking good already.</h1>
+  <ul>
+    {{ range (where .Pages "Section" "blog") }}
+    <li>
+      <a href="{{ .RelPermalink }}">
+        {{ .Title }}
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</main>
+{{partial "footer.html" .}}
