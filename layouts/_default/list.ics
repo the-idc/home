@@ -3,18 +3,20 @@ VERSION:2.0
 PRODID:-//elm-conf//speaker calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-{{/*
 {{range .Pages -}}
+{{ if .Params.event_date }}
 BEGIN:VEVENT
-DTSTAMP:{{ dateFormat "20060102T150405Z" ((.Params.event_date).Format "2020-01-01T01:01:01-07:00")}}
-DTSTART;TZID={{ .Params.timezone }}:{{ dateFormat "20060102T150405 MST" .Params.event_date }}
-DTEND;TZID=UTC:{{ add (time .Params.event_date).Unix (mul 60 60) | dateFormat "20060102T150405" }}
+{{ if .Params.date }}
+DTSTAMP:{{ dateFormat "20060102T150405Z" .Params.date }}
+{{ end }}
+DTSTART;TZID={{ .Params.timezone }}:{{ printf "%sT%s:00" .Params.event_date .Params.start | time | dateFormat "20060102T150405"  }}
+DTEND;TZID={{ .Params.timezone }}:{{ printf "%sT%s:00" .Params.event_date .Params.end | time | dateFormat "20060102T150405"  }}
 SUMMARY:{{.Title}}
 UID:{{ .Permalink }}
 STATUS:CONFIRMED
 LOCATION:{{.Params.location}}
 URL:{{ .Permalink }}
 END:VEVENT
+{{ end }}
 {{end -}}
-*/}}
 END:VCALENDAR

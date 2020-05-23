@@ -1,23 +1,21 @@
 <nav>
-  IDC
+  <a href="/">IDC</a>
   <input type="checkbox" id="nav-toggle">
   <label for="nav-toggle" id="burger-menu">
     <img src="/menu.png" alt="">
   </label>
   <ol id="nav-menu">
-    <li><a href="/">Home</a></li>
-    <li><a href="/news">News</a></li>
-    <li><a href="/actions">Take Action</a></li>
     <li><a href="/organizations">Organizations</a></li>
+    <li><a href="/events">Events</a></li>
   </ol>
 </nav>
 
-<header>
 {{ if .Parent }}
-  {{ template "breadcrumb" .Parent }}
-   {{ .Title }}
+  <header>
+    {{ template "breadcrumb" .Parent }}
+     {{ .Title }}
+  </header>
 {{ end }}
-</header>
 
 {{define "breadcrumb"}}
   {{ if . }}

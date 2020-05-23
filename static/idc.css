@@ -4,14 +4,13 @@ body {
 
 header {
   max-width: 38rem;
-  padding: 2rem;
+  padding: 1rem;
   margin: auto;
 }
 
 main {
   max-width: 38rem;
-  padding: 2rem;
-  margin: auto;
+  margin: 1rem auto 0;
 }
 
 #nav-toggle, #burger-menu {
@@ -27,9 +26,16 @@ main {
   width: 100%;
 }
 
+header {
+  color: #555;
+  background-color: #eee;
+  margin-top: 1rem;
+}
+
+
 nav {
   max-width: 1720px;
-  padding: 0.5rem 1rem;
+  padding: 0 1rem;
 
   display: grid;
   grid-template-columns: auto 1fr;
@@ -37,9 +43,15 @@ nav {
   background: #dc1010;
   color: black;
 
-  font-size: 1.6rem;
+  font-size: 1.2rem;
   font-weight: 300;
   letter-spacing: 0.5px;
+  padding: 1rem;
+}
+
+nav ol {
+  margin: 0;
+  padding: 0;
 }
 
 #nav-menu {
@@ -50,12 +62,13 @@ nav {
   display: inline-block;
 }
 
-#nav-menu a {
+nav a {
   color: black;
-  text-decoration: none;
-  padding: 0 3rem;
-  margin-left: 15px;
+  padding-right: 1rem;
+}
 
+nav a:visited {
+  color: black;
 }
 
 @media only screen and (max-width: 1025px) {
@@ -77,3 +90,12 @@ nav {
   }
 }
 
+
+a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+a:visited {
+  color: #007bff;
+}
