@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//elm-conf//speaker calendar//EN
+PRODID:-//idc//{{ .Title }}//EN
+NAME:{{ .Title }}
+X-WR-CALNAME:{{ .Title }}
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 {{range .Pages -}}
 {{ if .Params.event_date }}
 BEGIN:VEVENT
-{{ if .Params.date }}
-DTSTAMP:{{ dateFormat "20060102T150405Z" .Params.date }}
-{{ end }}
+DTSTAMP:{{ now.Format "20060102T150405Z" }}
 DTSTART;TZID={{ .Params.timezone }}:{{ printf "%sT%s:00" .Params.event_date .Params.start | time | dateFormat "20060102T150405"  }}
 DTEND;TZID={{ .Params.timezone }}:{{ printf "%sT%s:00" .Params.event_date .Params.end | time | dateFormat "20060102T150405"  }}
 SUMMARY:{{.Title}}
