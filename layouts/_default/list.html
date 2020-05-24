@@ -3,7 +3,7 @@
 <main>
   <h1>{{ .Title }}</h1>
   <ul>
-  {{ range (.Pages.ByParam "position") }}
+  {{ range (.Pages.ByParam "position").ByParam "title" }}
     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
   {{ end }}
   </ul>

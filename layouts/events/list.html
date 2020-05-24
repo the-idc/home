@@ -1,0 +1,12 @@
+{{partial "header.html" .}}
+
+<main>
+  <h1>{{ .Title }}</h1>
+  <ul>
+  {{ range (.Pages.ByParam "event_date").ByParam "title" }}
+    <li>[{{ .Params.event_date }}] <a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ end }}
+  </ul>
+</main>
+
+{{partial "footer.html" .}}
