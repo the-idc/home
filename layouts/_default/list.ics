@@ -11,6 +11,7 @@ BEGIN:VEVENT
 DTSTAMP:{{ now.Format "20060102T150405Z" }}
 DTSTART;TZID={{ .Params.timezone }}:{{ printf "%sT%s:00" .Params.event_date .Params.start | time | dateFormat "20060102T150405"  }}
 DTEND;TZID={{ .Params.timezone }}:{{ printf "%sT%s:00" .Params.event_date .Params.end | time | dateFormat "20060102T150405"  }}
+{{ if .Params.freq }}RRULE:FREQ={{ .Params.freq | upper }}{{ end}}
 SUMMARY:{{.Title}}
 UID:{{ .Permalink }}
 STATUS:CONFIRMED

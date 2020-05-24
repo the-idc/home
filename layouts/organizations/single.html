@@ -1,0 +1,27 @@
+{{partial "header.html" .}}
+
+<main>
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <hr>
+  <h3>
+    Location : {{.Params.location}}
+    <br>
+    <br>
+    <a href="{{.Params.website}}">{{.Params.website}}</a>
+    <br>
+    <a href="mailto:{{.Params.email}}">{{.Params.email}}</a>
+    <br>
+
+  </h3>
+  {{if .Params.social_media}}
+    <h4>Social Media</h4>
+    {{range .Params.social_media}}
+      <a href="{{ . }}">{{ . }}</a>
+      <br>
+    {{ end }}
+  {{ end }}
+</main>
+
+{{partial "footer.html" .}}

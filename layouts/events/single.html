@@ -1,0 +1,16 @@
+{{partial "header.html" .}}
+
+<main>
+  <h1>{{ .Title }}</h1>
+  <h3>
+  {{ if .Params.freq }} Starting {{ end }}
+  {{ .Params.event_date }}
+  {{ if .Params.freq }} {{ .Params.freq }} {{ end }}
+  {{ .Params.start }} - {{ .Params.end }} {{ .Params.timezone }}
+  <br>
+  {{ .Params.location }}
+  </h3>
+  {{ .Content }}
+</main>
+
+{{partial "footer.html" .}}
