@@ -3,8 +3,8 @@
 <main>
   <h1>{{ .Title }}</h1>
   <ul>
-  {{ range (.Pages.ByParam "event_date").ByParam "title" }}
-    <li>[{{ .Params.event_date }}] <a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ range (.Pages.ByParam "title").ByParam "event_date" }}
+  <li>{{ if .Params.event_date }}[{{ .Params.event_date }}] {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a></li>
   {{ end }}
   </ul>
 </main>
