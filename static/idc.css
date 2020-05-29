@@ -11,6 +11,7 @@ header {
 main {
   max-width: 38rem;
   margin: 1rem auto 0;
+  padding: 0 1rem;
 }
 
 #nav-toggle, #burger-menu {
@@ -63,12 +64,12 @@ nav ol {
 }
 
 nav a {
-  color: black;
+  color: white;
   padding-right: 1rem;
 }
 
 nav a:visited {
-  color: black;
+  color: white;
 }
 
 @media only screen and (max-width: 1025px) {
