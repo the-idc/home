@@ -15,17 +15,17 @@
   </ol>
 </nav>
 
-{{ if .Parent }}
+{{ if and .Parent (ne .Parent .Site.Home) }}
   <header>
-    {{ template "breadcrumb" .Parent }}
+    {{ template "breadcrumb" dict "e" .Parent "h" .Site.Home}}
      {{ .Title }}
   </header>
 {{ end }}
 
 {{define "breadcrumb"}}
-  {{ if . }}
-    {{ template "breadcrumb" .Parent }}
-    <a href="{{.Permalink}}">{{ .Title }}</a> &gt;
+  {{ if and (.e) (ne .e .h) }}
+    {{ template "breadcrumb" dict "e" .e.Parent "h" .h }}
+    <a href="{{.e.Permalink}}">{{ .e.Title }}</a> &gt;
   {{end}}
 {{end}}
 

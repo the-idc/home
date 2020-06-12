@@ -3,15 +3,15 @@ body {
 }
 
 header {
-  max-width: 38rem;
+  max-width: 80ch;
   padding: 1rem;
   margin: auto;
 }
 
 main {
-  max-width: 38rem;
-  margin: 1rem auto 0;
-  padding: 0 1rem;
+  max-width: 80ch;
+  padding: 1rem;
+  margin: auto;
 }
 
 #nav-toggle, #burger-menu {
@@ -41,8 +41,9 @@ nav {
   display: grid;
   grid-template-columns: auto 1fr;
   align-items: center;
-  background: #dc1010;
+  background: rgb(56, 71, 78);
   color: black;
+  box-shadow: 0 2px 1px black;
 
   font-size: 1.2rem;
   font-weight: 300;
@@ -85,12 +86,7 @@ nav a:visited {
     display: grid;
     grid-row: 2;
   }
-
-  #nav-menu a {
-    padding: 1rem 0;
-  }
 }
-
 
 a {
   text-decoration: none;
