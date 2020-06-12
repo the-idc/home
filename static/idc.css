@@ -100,3 +100,18 @@ a {
 a:visited {
   color: #007bff;
 }
+
+.tag {
+  display: inline-block;
+  background-color: brown;
+  color: white;
+  border-radius: 3px;
+  padding: 2px;
+  font-size: smaller;
+  box-shadow: black 1px 1px 2px;
+}
+
+.moreinfo {
+  color: black;
+  font-size: smaller;
+}
