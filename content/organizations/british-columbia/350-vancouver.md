@@ -1,5 +1,7 @@
 ---
 title: "350 Vancouver"
+region: british-columbia
+admin_include: true
 website: https://350vancouver.org/350vancouver/
 email: 350Vancouver@350Vancouver.org
 location: Metro Vancouver

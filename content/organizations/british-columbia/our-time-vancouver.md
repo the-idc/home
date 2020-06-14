@@ -1,5 +1,7 @@
 ---
 title: "Our Time Vancouver"
+region: british-columbia
+admin_include: true
 website: https://our-time.ca/
 email: 
 location: Metro Vancouver

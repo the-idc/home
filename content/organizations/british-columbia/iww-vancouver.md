@@ -1,5 +1,7 @@
 ---
 title: "IWW Vancouver"
+region: british-columbia
+admin_include: true
 website: https://www.vancouveriww.org/
 email: contact@vancouveriww.org
 location: Metro Vancouver

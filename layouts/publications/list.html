@@ -5,7 +5,7 @@
   <ul>
   {{ range ((.Pages.ByParam "title").ByParam "date").Reverse }}
   <li>
-    <a href="{{ .Params.link }}">{{ .Title }}</a>
+    <a href="{{ or .Params.link .Params.file }}">{{ .Title }}</a>
     {{ if .Params.license }}
       <span class="tag">{{ .Params.license }}</span>
     {{ end }}

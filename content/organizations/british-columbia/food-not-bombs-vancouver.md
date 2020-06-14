@@ -1,5 +1,7 @@
 ---
 title: "Food Not Bombs Vancouver"
+region: british-columbia
+admin_include: true
 website: http://foodnotbombs.net/?fbclid=IwAR33p5tz9UV9WjczeO5GJdhDOhA34ajM_xlw8Tr34tEA8eMrNcP3wd1XKKs
 email: vancouverfnb@protonmail.com
 location: Metro Vancouver

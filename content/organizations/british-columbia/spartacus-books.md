@@ -1,5 +1,7 @@
 ---
 title: "Spartacus Books"
+region: british-columbia
+admin_include: true
 website: https://spartacusbooks.net/get-involved/
 email: info@spartacusbooks.net
 location: Metro Vancouver

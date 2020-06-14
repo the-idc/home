@@ -1,5 +1,7 @@
 ---
 title: "People For Peace London Ontario"
+region: ontario
+admin_include: true
 website: 
 email: 
 location: London

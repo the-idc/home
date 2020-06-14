@@ -1,5 +1,7 @@
 ---
 title: "International Socialists Vancouver"
+region: british-columbia
+admin_include: true
 website: www.socialist.ca
 email: vancouver.socialists@gmail.com
 location: Metro Vancouver

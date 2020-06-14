@@ -1,5 +1,7 @@
 ---
 title: "Metro Vancouver Regional Parks Ecological Restoration Team"
+region: british-columbia
+admin_include: true
 website: https://www.meetup.com/Regional-Parks-Connect-Metro-Vancouver
 email: 
 location: Metro Vancouver

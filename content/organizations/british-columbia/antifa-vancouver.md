@@ -1,5 +1,7 @@
 ---
 title: "Antifa Vancouver"
+region: british-columbia
+admin_include: true
 website: https://www.facebook.com/VanAntifa/
 email: 
 location: Metro Vancouver

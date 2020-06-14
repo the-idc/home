@@ -1,5 +1,7 @@
 ---
 title: "Extinction Rebellion Vancouver"
+region: british-columbia
+admin_include: true
 website: https://xrvancouver.ca/
 email: xr_vancouver@riseup.net
 location: Metro Vancouver

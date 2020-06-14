@@ -1,5 +1,7 @@
 ---
 title: "West Coast Prison Justice Society"
+region: british-columbia
+admin_include: true
 website: https://prisonjustice.org/about/services-offered/
 email: info@pls-bc.ca
 location: Province Wide

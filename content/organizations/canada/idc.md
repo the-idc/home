@@ -1,5 +1,7 @@
 ---
 title: The International Department of Citizenship
+region: canada
+admin_include: true
 short_name: IDC1
 location: Nationwide
 min_time:

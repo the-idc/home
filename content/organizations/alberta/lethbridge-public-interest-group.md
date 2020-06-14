@@ -1,5 +1,7 @@
 ---
 title: "Lethbridge Public Interest Group"
+region: alberta
+admin_include: true
 website: https://www.lpirg.org/
 email: pirg@uleth.ca
 location: Lethbridge

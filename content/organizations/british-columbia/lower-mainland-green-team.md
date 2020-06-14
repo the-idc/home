@@ -1,5 +1,7 @@
 ---
 title: "Lower Mainland Green Team"
+region: british-columbia
+admin_include: true
 website: https://www.meetup.com/the-lower-mainland-green-team/
 email: lowermainlandgreenteam@gmail.com
 location: Metro Vancouver

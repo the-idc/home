@@ -1,5 +1,7 @@
 ---
 title: "Halifax Against Hate"
+region: maritimes
+admin_include: true
 website: 
 email: halifaxagainsthate@riseup.net
 location: Halifax, Nova Scotia

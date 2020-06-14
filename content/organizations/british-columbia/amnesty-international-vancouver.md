@@ -1,5 +1,7 @@
 ---
 title: "Amnesty International Vancouver"
+region: british-columbia
+admin_include: true
 website: https://www.amnesty.ca/category/keywords/vancouver
 email: dwright@amnesty.ca
 location: Metro Vancouver

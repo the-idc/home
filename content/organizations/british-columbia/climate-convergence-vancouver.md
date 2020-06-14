@@ -1,5 +1,7 @@
 ---
 title: "Climate Convergence Vancouver"
+region: british-columbia
+admin_include: true
 website: http://www.climateconvergence.ca/
 email: climateconvergence604@gmail.com
 location: Metro Vancouver

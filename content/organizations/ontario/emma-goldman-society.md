@@ -1,5 +1,7 @@
 ---
 title: "Emma Goldman Society"
+region: ontario
+admin_include: true
 website: http://www.democraticsocialists.ca
 email: 
 location: London

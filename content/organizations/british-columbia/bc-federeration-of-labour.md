@@ -1,5 +1,7 @@
 ---
 title: "BC Federeration of Labour"
+region: british-columbia
+admin_include: true
 website: https://bcfed.ca/
 email: bcfed@bcfed.ca
 location: Province Wide

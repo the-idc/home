@@ -55,6 +55,8 @@ for (province, sheetname, title) in sheets:
       yaml_text += "---\n"
       #_yaml_text += "draft: false\n"
       yaml_text += "title: \"" + row.get("Organization Name").replace('"', '\\"') + "\"\n"
+      yaml_text += "region: " + province + "\n"
+      yaml_text += "admin_include: true\n"
       yaml_text += "website: " + row.get("Website") + "\n"
       yaml_text += "email: " + row.get("Email") + "\n"
       yaml_text += "location: " + row.get("Location") + "\n"

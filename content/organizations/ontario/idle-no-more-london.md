@@ -1,5 +1,7 @@
 ---
 title: "Idle No More London"
+region: ontario
+admin_include: true
 website: http://idlenomore.ca
 email: 
 location: London

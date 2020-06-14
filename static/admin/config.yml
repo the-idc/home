@@ -10,6 +10,49 @@ publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 collections:
+  - name: "publications"
+    label: "Publication"
+    folder: "content/publications"
+    slug: "{{slug}}"
+    create: true
+    fields:
+      - {label: "Name", name: "title", widget: "string", required: true}
+      - {label: "File", name: "file", widget: "file"}
+      - {label: "Link", name: "link", widget: "string"}
+      - {label: "Summary", name: "body", widget: "markdown"}
+  - name: "organizations"
+    label: "Organization"
+    folder: "content/organizations"
+    slug: "{{slug}}"
+    path: "{{region}}/{{slug}}"
+    preview_path: "organizations/{{region}}/{{slug}}"
+    filter: {field: "admin_include", value: true}
+    create: true
+    fields:
+      - {label: "Organization Name", name: "title", widget: "string", required: true}
+      - label: "Region"
+        name: "type"
+        widget: "select"
+        required: true
+        options:
+          - "canada"
+          - "british-columbia"
+          - "alberta"
+          - "saskatchewan"
+          - "manitoba"
+          - "ontario"
+          - "quebec"
+          - "maritimes"
+          - "territories"
+      - {label: "admin_include", name: "admin_include", widget: "hidden", default: true}
+      - {label: "Abbreviation", name: "short_name", widget: "string"}
+      - {label: "Location", name: "location", widget: "string", required: true}
+      - {label: "Minimum Time Commitment", name: "min_time", widget: "string"}
+      - {label: "Website", name: "website", widget: "string"}
+      - {label: "Social Media", name: "social_media", widget: "list"}
+      - {label: "Email", name: "email", widget: "string"}
+      - {label: "Phone", name: "phone", widget: "string"}
+      - {label: "Description", name: "body", widget: "markdown"}
   - name: "events"
     label: "Event"
     folder: "content/events"

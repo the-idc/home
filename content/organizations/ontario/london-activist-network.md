@@ -1,5 +1,7 @@
 ---
 title: "London Activist Network"
+region: ontario
+admin_include: true
 website: https://masses.tao.ca/mailman/listinfo/lan
 email: 
 location: London

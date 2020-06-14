@@ -1,5 +1,7 @@
 ---
 title: "Socialist Fightback Vancouver"
+region: british-columbia
+admin_include: true
 website: http://www.marxist.ca
 email: socialistfightbackvan@gmail.com
 location: Metro Vancouver

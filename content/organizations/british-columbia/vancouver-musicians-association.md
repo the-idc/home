@@ -1,5 +1,7 @@
 ---
 title: "Vancouver Musicians' Association"
+region: british-columbia
+admin_include: true
 website: https://www.vma145.ca/
 email: office@vma145.ca
 location: Metro Vancouver

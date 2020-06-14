@@ -1,7 +1,7 @@
 ---
 title: "Driver Solidarity Printables"
 date: 2020-06-11T22:35:57-06:00
-link: /publications/driver-solidarity-printable.png
+file: /publications/driver-solidarity-printable.png
 draft: false
 ---
 

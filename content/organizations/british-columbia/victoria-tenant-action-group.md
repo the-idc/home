@@ -1,5 +1,7 @@
 ---
 title: "Victoria Tenant Action Group"
+region: british-columbia
+admin_include: true
 website: https://www.victoriatenants.com/
 email: tenants.victoria@gmail.com
 location: Capital Regional District

@@ -1,5 +1,7 @@
 ---
 title: "London Common Front"
+region: ontario
+admin_include: true
 website: https://sites.google.com/site/londoncommonfront
 email: londoncommonfront@gmail.com
 location: London

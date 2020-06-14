@@ -1,5 +1,7 @@
 ---
 title: "Vancouver Tenants Union"
+region: british-columbia
+admin_include: true
 website: https://www.vancouvertenantsunion.ca/
 email: https://www.vancouvertenantsunion.ca/contact
 location: Metro Vancouver

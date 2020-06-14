@@ -1,7 +1,7 @@
 ---
 title: "The IDC Guide to Online Pipelines"
 date: 2020-06-11T22:54:09-06:00
-link: /publications/TheLeftistPipeline.pdf
+file: /publications/TheLeftistPipeline.pdf
 contributors:
  - jonkle
 license: CC BY

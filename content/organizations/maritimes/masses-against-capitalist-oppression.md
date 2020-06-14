@@ -1,5 +1,7 @@
 ---
 title: "Masses Against Capitalist Oppression"
+region: maritimes
+admin_include: true
 website: 
 email: 
 location: Charlottetown, PEI

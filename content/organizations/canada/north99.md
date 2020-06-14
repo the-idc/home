@@ -1,5 +1,7 @@
 ---
 title: North 99
+region: canada
+admin_include: true
 short_name:
 location: Nationwide
 min_time:

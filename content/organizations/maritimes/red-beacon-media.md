@@ -1,5 +1,7 @@
 ---
 title: "Red Beacon Media"
+region: maritimes
+admin_include: true
 website: https://peiredbeacon.wordpress.com/
 email: https://peiredbeacon.wordpress.com/contact/
 location: Charlottetown, PEI

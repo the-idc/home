@@ -1,5 +1,7 @@
 ---
 title: "Food Not Bombs London Ontario"
+region: ontario
+admin_include: true
 website: http://www.foodnotbombs.net
 email: 
 location: London

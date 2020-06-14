@@ -1,5 +1,7 @@
 ---
 title: "London Tenants"
+region: ontario
+admin_include: true
 website: 
 email: info@londontenants.ca
 location: London

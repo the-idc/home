@@ -1,5 +1,7 @@
 ---
 title: r/CanadaLeft
+region: canada
+admin_include: true
 short_name: canadaleft
 location: Nationwide
 min_time:

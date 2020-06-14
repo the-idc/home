@@ -1,5 +1,7 @@
 ---
 title: "QMUNITY"
+region: british-columbia
+admin_include: true
 website: https://qmunity.ca/
 email: reception@qmunity.ca
 location: Metro Vancouver

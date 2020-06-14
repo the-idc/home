@@ -1,5 +1,7 @@
 ---
 title: "Cities for Everyone"
+region: british-columbia
+admin_include: true
 website: https://citiesforeveryone.org
 email: info@citiesforeveryone.org
 location: Capital Regional District

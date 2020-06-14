@@ -1,5 +1,7 @@
 ---
 title: "Black Flag Anarchist Free School"
+region: ontario
+admin_include: true
 website: 
 email: 
 location: London

@@ -1,5 +1,7 @@
 ---
 title: "Cooper Institute"
+region: maritimes
+admin_include: true
 website: https://www.cooperinstitute.ca/
 email: https://www.cooperinstitute.ca/Contact-Us
 location: Charlottetown, PEI

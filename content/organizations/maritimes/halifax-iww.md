@@ -1,5 +1,7 @@
 ---
 title: "Halifax IWW"
+region: maritimes
+admin_include: true
 website: https://iww.org/
 email: halifax@iww.org
 location: Halifax, Nova Scotia

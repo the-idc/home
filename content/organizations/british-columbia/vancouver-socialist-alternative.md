@@ -1,5 +1,7 @@
 ---
 title: "Vancouver Socialist Alternative"
+region: british-columbia
+admin_include: true
 website: http://socialistalternative.ca
 email: 
 location: Metro Vancouver

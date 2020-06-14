@@ -1,5 +1,7 @@
 ---
 title: "Climate Justice Toronto"
+region: ontario
+admin_include: true
 website: https://linktr.ee/climatejusticeto
 email: climatejusticeto.on@gmail.com
 location: Toronto
