@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//idc//{{ .Parent.Title}}/{{ .Title }}//EN
+NAME:{{ .Title }}
+X-WR-CALNAME:{{ .Title }}
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+{{ if .Params.event_date }}
+BEGIN:VEVENT
+DTSTAMP:{{ now.Format "20060102T150405Z" }}
+DTSTART;TZID={{ .Params.timezone }}:{{ printf "%sT%s:00" .Params.event_date .Params.start | time | dateFormat "20060102T150405"  }}
+DTEND;TZID={{ .Params.timezone }}:{{ printf "%sT%s:00" .Params.event_date .Params.end | time | dateFormat "20060102T150405"  }}
+{{ if .Params.freq }}RRULE:FREQ={{ .Params.freq | upper }}{{ end}}
+SUMMARY:{{.Title}}
+UID:{{ .Permalink }}
+STATUS:CONFIRMED
+LOCATION:{{.Params.location}}
+URL:{{ .Permalink }}
+END:VEVENT
+{{ end }}
+END:VCALENDAR

@@ -11,6 +11,28 @@
   {{ .Params.location }}
   </h3>
   {{ .Content }}
+
+  <hr>
+  <div>
+    {{ with  .OutputFormats.Get "calendar" -}}
+    <a href="{{ .Permalink | safeURL }}">Sync to your calendar</a>
+    <span> - or - </span>
+    <button id="copywebcal">Copy calendar URL</button>
+    <script>
+      document.querySelector("#copywebcal").addEventListener("click", function() {
+        const el = document.createElement('textarea');
+        el.value = "{{ .Permalink | safeURL }}";
+        el.setAttribute('readonly', '');
+        el.style.position = 'absolute';
+        el.style.left = '-9999px';
+        document.body.appendChild(el);
+        el.select();
+        document.execCommand('copy');
+        document.body.removeChild(el);
+      });
+    </script>
+    {{- end }}
+  </div>
 </main>
 
 {{partial "footer.html" .}}

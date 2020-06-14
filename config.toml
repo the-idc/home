@@ -4,3 +4,4 @@ title = "IDC1"
 
 [outputs]
 section = ["HTML", "RSS", "Calendar"]
+page = ["HTML", "Calendar"]
