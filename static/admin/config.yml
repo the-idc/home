@@ -1,0 +1,76 @@
+backend:
+  name: github
+  repo: "the-idc/home"
+  branch: master
+  api_root: "https://api.github.com"
+  base_url: "https://api.netlify.com"
+  auth_endpoint: auth
+  open_authoring: true
+publish_mode: editorial_workflow
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+collections:
+  - name: "events"
+    label: "Event"
+    folder: "content/events"
+    slug: "{{slug}}"
+    path: "{{type}}/{{slug}}"
+    preview_path: "events/{{type}}/{{slug}}"
+    filter: {field: "admin_include", value: true}
+    create: true
+    fields:
+      - {label: "Type", name: "type", widget: "select", required: true, options: ["idc"]}
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Event Date", name: "event_date", widget: "date", required: true}
+      - {label: "admin_include", name: "admin_include", widget: "hidden", default: true}
+      - label: "Start Time"
+        name: "start"
+        widget: "string"
+        hint: "e.g. 00:00"
+        pattern: ["^([0[0-9]|1[0-9]|2[0-3]):[0-5][0-9]$", "Invalid time"]
+        required: true
+      - label: "End Time"
+        name: "end"
+        widget: "string"
+        hint: "e.g. 23:59"
+        pattern: ["^([0[0-9]|1[0-9]|2[0-3]):[0-5][0-9]$", "Invalid time"]
+        required: true
+      - label: "Timezone"
+        required: true
+        name: "timezone"
+        widget: "select"
+        options:
+          - America/Vancouver
+          - America/Edmonton
+          - America/Regina
+          - America/Winnipeg
+          - America/Toronto
+          - America/Halifax
+          - America/St_Johns
+          - America/Cambridge_Bay
+          - America/Creston
+          - America/Dawson
+          - America/Dawson_Creek
+          - America/Fort_Nelson
+          - America/Inuvik
+          - America/Whitehorse
+          - America/Yellowknife
+          - America/Rainy_River
+          - America/Rankin_Inlet
+          - America/Resolute
+          - America/Swift_Current
+          - America/Atikokan
+          - America/Iqaluit
+          - America/Nipigon
+          - America/Pangnirtung
+          - America/Thunder_Bay
+          - America/Blanc-Sablon
+          - America/Glace_Bay
+          - America/Goose_Bay
+          - America/Moncton
+      - label: "Freq"
+        name: "freq"
+        widget: "string"
+        required: false
+        hint: "Leave blank for one-time events. Some examples: `weekly`, `weekly;interval=2`, `daily` see https://www.textmagic.com/free-tools/rrule-generator"
+      - {label: "Body", name: "body", widget: "markdown"}
