@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//idc//{{ .Parent.Title}}/{{ .Title }}//EN
-NAME:{{ .Title }}
-X-WR-CALNAME:{{ .Title }}
+NAME:{{ .Parent.Title }} : {{ .Title }}
+X-WR-CALNAME:{{ .Parent.Title }} : {{ .Title }}
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 {{ if .Params.event_date }}
