@@ -4,7 +4,7 @@ date: 2020-06-23T00:30:22-00:00
 draft: true
 ---
 
-Back in 1964 [Arthur C. Clarke](https://www.youtube.com/watch?v=KT_8-pjuctM&t=294) predicted that by the year 2000 cities as we know them would no longer exist. We would live in a world of instant communication where we could contact anyone on Earth without leaving our home. This technology would make it possible for many people to conduct business without having to be present at a specific physical location. Today, we know the technology Clarke was talking about as the Internet. And whilte his technological predictions could not have been more correct, he severely underesitmated the pace of social progress.
+Back in 1964 Arthur C. Clarke [predicted](https://www.youtube.com/watch?v=KT_8-pjuctM&t=294) that by the year 2000 cities as we know them would no longer exist. We would live in a world of instant communication where we could contact anyone on Earth without leaving our home. This technology would make it possible for many people to conduct business without having to be present at a specific physical location. Today, we know the technology Clarke was talking about as the Internet. And whilte his technological predictions could not have been more correct, he severely underesitmated the pace of social progress.
 
 Despite modern office jobs are done entirely on a computer, most workers are still expected to get up in the morning, battle the daily commute, and physically congregate at the office to work. Companies have given innumerable arguments for why this must be so, and until recently there wasn't an empirical way to test any of them.
 
