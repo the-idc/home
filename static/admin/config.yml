@@ -10,6 +10,15 @@ publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 collections:
+  - name: "newsletters"
+    label: "Newsletters"
+    folder: "content/newsletters"
+    slug: "{{slug}}"
+    create: true
+    fields:
+      - {label: "Name", name: "title", widget: "string", required: true}
+      - {label: "Publication Date", name: "date", widget: "date", required: true}
+      - {label: "Content", name: "body", widget: "markdown", required: true}
   - name: "publications"
     label: "Publication"
     folder: "content/publications"
