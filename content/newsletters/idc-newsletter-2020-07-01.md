@@ -47,7 +47,7 @@ Although some health authorities have given advice on precautions to take while 
 
 For those who decide to attend protests, the recommendations from health experts have basically been the same as for anyone leaving their home during the outbreak: [wear a mask, try and stay 2 meters away from others and regularly wash your hands or use hand sanitizer.](https://www.huffingtonpost.ca/entry/protest-coronavirus-safety-health-advice_ca_5ed6b6d5c5b6aeffb9d28b0a) The difficulty comes when COVID precautions conflict with precautions taken against the police. Keeping 2 meters between you and everyone else is already practically impossible in any crowd, and becomes even more difficult when you're trying to 'fill in' space to avoid a police flank. Contingencies like these will likely have to be worked out *ad hoc*, on-the-ground. 
 
-## <a href="#"means-testing-is-mean>Means-testing is mean</a>
+## <a href="#means-testing-is-mean">Means-testing is mean</a>
 
 With COVID came the CERB, and now we all get a real-time reminder of why means-testing is dumb and universal support is cool:
 
