@@ -21,7 +21,7 @@ Explicit racism was sanctioned by the Canadian government [until 1960](https://l
 The historical recency of this policy is a key motivator of racial inequality across Canada.
 
 > |                              | Indigenous Peoples | Canadian Average |
-> | ---------------------------- | ------------------ | ---------------- |
+> | ---------------------------- | :----------------: | :--------------: |
 > | Unemployment                 | 15%                | 7%               |
 > | Median income                | $23,600            | $61,400          |
 > | Rate of non-spousal violence | 12%                | 5%               |
