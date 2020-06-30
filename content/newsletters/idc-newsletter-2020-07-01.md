@@ -12,7 +12,7 @@ We also have two articles reflecting on what the ongoing COVID crisis means for 
 
 If these topics interest you, check out 'What is the IDC?' to learn more about our organization and ways you can get involved.
 
-----
+- - -
 
 ## Canada is racist too
 
@@ -21,22 +21,23 @@ Explicit racism was sanctioned by the Canadian government [until 1960](https://l
 The historical recency of this policy is a key motivator of racial inequality across Canada.
 
 > |                                  | Indigenous Peoples | Canadian Average |
-> | -------------------------------- | :----------------: | :--------------: |
+> | -------------------------------- | ------------------ | ---------------- |
 > | **Unemployment**                 | 15%                | 7%               |
 > | **Median income**                | $23,600            | $61,400          |
 > | **Rate of non-spousal violence** | 12%                | 5%               |
 > | **Incarceration per 100,000**    | 1,400              | 114              |
 > | **Highschool dropout rate**      | 23%                | 9.3%             |
 
-This graph doesn't take into account the less tangible but even more disturbing facts, such as the crisis of Missing and Murdered Indigenous Women and Girls, or Canadian police's grim history of "starlight tours," a practice in which police would drop Indigenous people outside city limits on freezing cold nights to [let them die of exposure](https://www.hrw.org/sites/default/files/supporting_resources/canada_saskatchewan_submission_june_2017.pdf).
+This graph doesn't take into account less tangible but even more disturbing facts, such as the crisis of Missing and Murdered Indigenous Women and Girls, or Canadian police's grim history of "starlight tours," a practice in which police would drop Indigenous people outside city limits on freezing cold nights to [let them die of exposure](https://www.hrw.org/sites/default/files/supporting_resources/canada_saskatchewan_submission_june_2017.pdf).
 
-Slavery in Canada was abolished in the late 1800s, right? Sorry, but no. Japanese Canadians were [used as slave labour in the 40s](https://humanrights.ca/story/japanese-canadian-internment-and-the-struggle-for-redress#:~:text=Approximately%2012%2C000%20people%20were%20forced,of%20war%20camps%20in%20Ontario.) while imprisoned in internment camps as POWs. And Chinese immigrants were brought to Canada to work on the railroad, but [paid barely enough to cover the railway’s cost of room and board](https://www2.gov.bc.ca/gov/content/governments/multiculturalism-anti-racism/chinese-legacy-bc/history/building-the-railway),  trapping them into a cycle of perpetual servitude.
+Slavery in Canada was abolished in the late 1800s, right? Sorry, but no. Japanese Canadians were [used as slave labour in the 1940s](https://humanrights.ca/story/japanese-canadian-internment-and-the-struggle-for-redress#:~:text=Approximately%2012%2C000%20people%20were%20forced,of%20war%20camps%20in%20Ontario.) while imprisoned in internment camps as POWs. And Chinese immigrants were brought to Canada to work on the railroad, but [paid barely enough to cover the railway’s cost of room and board](https://www2.gov.bc.ca/gov/content/governments/multiculturalism-anti-racism/chinese-legacy-bc/history/building-the-railway), trapping them in a cycle of perpetual servitude.
 
 It's hard to tell ourselves that these practices aren't still being used when you consider that prison labour earns inmates a maximum of $6.90 per day, often amounting to [as little as $1.95](https://business.financialpost.com/news/court-challenge-to-inmate-pay-places-prison-labour-program-in-the-crosshairs) after deductions.
 
 This thinly veiled subjugation of people of colour is generally the main thrust of the argument that Canada isn't racist. Since Canada has made an attempt to hide its racist intentions, those arguing in bad faith, or denying their position out of guilt, can choose to not see past this façade. A veneer of politeness does not make our material condition better, it just makes it harder to argue against, but armed with proper information this myth is easily dispelled.
 
-----
+- - -
+
 ## How to protest safely
 
 The aspiring protester in 2020 must find ways to keep themselves safe from the twin dangers of COVID and the police. COVID is merely an errant strand of RNA that can have no conception of the havoc it's causing humanity. The police, on the other hand - are another matter. 
@@ -53,7 +54,8 @@ Although some health authorities have given advice on precautions to take while 
 
 For those who decide to attend protests, the recommendations from health experts have basically been the same as for anyone leaving their home during the outbreak: [wear a mask, try and stay 2 meters away from others and regularly wash your hands or use hand sanitizer.](https://www.huffingtonpost.ca/entry/protest-coronavirus-safety-health-advice_ca_5ed6b6d5c5b6aeffb9d28b0a) The difficulty comes when COVID precautions conflict with precautions taken against the police. Keeping 2 meters between you and everyone else is already practically impossible in any crowd, and becomes even more difficult when you're trying to 'fill in' space to avoid a police flank. Contingencies like these will likely have to be worked out *ad hoc*, on-the-ground. 
 
-----
+- - -
+
 ## Means-testing is mean
 
 With COVID came the CERB, and now we all get a real-time reminder of why means-testing is dumb and universal support is cool:
@@ -66,7 +68,8 @@ With COVID came the CERB, and now we all get a real-time reminder of why means-t
 
 Yeah. So you’d be covered. You’d be fine. You’d be safe.
 
-----
+- - -
+
 ## Work in the age of pandemic
 
 Back in 1964 Arthur C. Clarke [predicted](https://www.youtube.com/watch?v=KT_8-pjuctM&t=294) that by the year 2000 cities as we know them would no longer exist. We would live in a world of instant communication where we could contact anyone on Earth without leaving our home. This technology would make it possible for many people to conduct business without having to be present at a specific physical location. Today, we know the technology Clarke was talking about as the Internet. And while his technological predictions could not have been more correct, he severely underestimated the pace of social progress.
@@ -77,7 +80,8 @@ Unfortunately, it's often difficult to tell whether an argument holds water with
 
 As we start coming out of the pandemic, workers should demand the ability to continue working remotely. There is no longer any justification to keep up the daily commute.
 
-----
+- - -
+
 ## What is the IDC?
 
 The International Department of Citizenship (IDC) is an organizing body dedicated to empowering citizen projects which lay the groundwork for revolution and allow workers to control the means of production in a democratic and decentralized world. 
