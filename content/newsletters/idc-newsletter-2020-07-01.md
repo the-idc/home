@@ -20,13 +20,13 @@ Explicit racism was sanctioned by the Canadian government [until 1960](https://l
 
 The historical recency of this policy is a key motivator of racial inequality across Canada.
 
-> |                              | Indigenous Peoples | Canadian Average |
-> | ---------------------------- | :----------------: | :--------------: |
-> | Unemployment                 | 15%                | 7%               |
-> | Median income                | $23,600            | $61,400          |
-> | Rate of non-spousal violence | 12%                | 5%               |
-> | Incarceration per 100,000    | 1,400              | 114              |
-> | Highschool dropout rate      | 23%                | 9.3%             |
+> |                                  | Indigenous Peoples | Canadian Average |
+> | -------------------------------- | :----------------: | :--------------: |
+> | **Unemployment**                 | 15%                | 7%               |
+> | **Median income**                | $23,600            | $61,400          |
+> | **Rate of non-spousal violence** | 12%                | 5%               |
+> | **Incarceration per 100,000**    | 1,400              | 114              |
+> | **Highschool dropout rate**      | 23%                | 9.3%             |
 
 This graph doesn't take into account the less tangible but even more disturbing facts, such as the crisis of Missing and Murdered Indigenous Women and Girls, or Canadian police's grim history of "starlight tours," a practice in which police would drop Indigenous people outside city limits on freezing cold nights to [let them die of exposure](https://www.hrw.org/sites/default/files/supporting_resources/canada_saskatchewan_submission_june_2017.pdf).
 
