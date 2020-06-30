@@ -12,6 +12,8 @@ We also have two articles reflecting on what the ongoing COVID crisis means for 
 
 If these topics interest you, check out 'What is the IDC?' to learn more about our organization and ways you can get involved.
 
+----
+
 ## Canada is racist too
 
 Explicit racism was sanctioned by the Canadian government [until 1960](https://laws-lois.justice.gc.ca/eng/acts/c-12.3/page-1.html), after discrimination from employers, labour unions, landlords, and schools was [declared legal in 1939](https://www.crrf-fcrr.ca/images/stories/pdf/ePubFaShLegRac.pdf). Because of this, people of colour are overrepresented in precarious job markets. Despite Black Canadians being [more likely to achieve post-secondary education](https://www150.statcan.gc.ca/n1/pub/89-657-x/89-657-x2020002-eng.htm) than white Canadians, [44% of Canadian Black children live in poverty](https://minorityrights.org/minorities/african-and-caribbean-canadians/).
@@ -34,6 +36,7 @@ It's hard to tell ourselves that these practices aren't still being used when yo
 
 This thinly veiled subjugation of people of colour is generally the main thrust of the argument that Canada isn't racist. Since Canada has made an attempt to hide its racist intentions, those arguing in bad faith, or denying their position out of guilt, can choose to not see past this façade. A veneer of politeness does not make our material condition better, it just makes it harder to argue against, but armed with proper information this myth is easily dispelled.
 
+----
 ## How to protest safely
 
 The aspiring protester in 2020 must find ways to keep themselves safe from the twin dangers of COVID and the police. COVID is merely an errant strand of RNA that can have no conception of the havoc it's causing humanity. The police, on the other hand - are another matter. 
@@ -50,6 +53,7 @@ Although some health authorities have given advice on precautions to take while 
 
 For those who decide to attend protests, the recommendations from health experts have basically been the same as for anyone leaving their home during the outbreak: [wear a mask, try and stay 2 meters away from others and regularly wash your hands or use hand sanitizer.](https://www.huffingtonpost.ca/entry/protest-coronavirus-safety-health-advice_ca_5ed6b6d5c5b6aeffb9d28b0a) The difficulty comes when COVID precautions conflict with precautions taken against the police. Keeping 2 meters between you and everyone else is already practically impossible in any crowd, and becomes even more difficult when you're trying to 'fill in' space to avoid a police flank. Contingencies like these will likely have to be worked out *ad hoc*, on-the-ground. 
 
+----
 ## Means-testing is mean
 
 With COVID came the CERB, and now we all get a real-time reminder of why means-testing is dumb and universal support is cool:
@@ -62,6 +66,7 @@ With COVID came the CERB, and now we all get a real-time reminder of why means-t
 
 Yeah. So you’d be covered. You’d be fine. You’d be safe.
 
+----
 ## Work in the age of pandemic
 
 Back in 1964 Arthur C. Clarke [predicted](https://www.youtube.com/watch?v=KT_8-pjuctM&t=294) that by the year 2000 cities as we know them would no longer exist. We would live in a world of instant communication where we could contact anyone on Earth without leaving our home. This technology would make it possible for many people to conduct business without having to be present at a specific physical location. Today, we know the technology Clarke was talking about as the Internet. And while his technological predictions could not have been more correct, he severely underestimated the pace of social progress.
@@ -72,6 +77,7 @@ Unfortunately, it's often difficult to tell whether an argument holds water with
 
 As we start coming out of the pandemic, workers should demand the ability to continue working remotely. There is no longer any justification to keep up the daily commute.
 
+----
 ## What is the IDC?
 
 The International Department of Citizenship (IDC) is an organizing body dedicated to empowering citizen projects which lay the groundwork for revolution and allow workers to control the means of production in a democratic and decentralized world. 
