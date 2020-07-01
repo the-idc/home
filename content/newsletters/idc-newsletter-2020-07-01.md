@@ -2,9 +2,7 @@
 title: IDC Newsletter 2020-07-01
 date: 2020-06-29T21:37:02.673Z
 ---
-![](/images/uploads/idc-logo.png)
-
-
+* ![](/images/uploads/idc-logo.png)
 
 # IDC Newsletter 2020-07-01
 
@@ -95,8 +93,12 @@ To learn more about the IDC, or to submit an application to join, visit: https:/
 ## Credits
 
 * Yes, Canada is racist too - UnionDog
+
+  * Image credit: [@Canadapoast](https://www.instagram.com/canadapoast/)
 * How to protest safely - loljapes
 * Mean-testing is mean - jonkle
+
+  * Image credit: [u/MidnightTokr](https://www.reddit.com/r/canadaleft/comments/ge4bkq/14_million_unemployed_canadians_do_not_qualify/)
 * Working in the age of pandemic - yogthos
 * What is the IDC? - loljapes, mattjdan
 * Web support - snoe, yogthos
