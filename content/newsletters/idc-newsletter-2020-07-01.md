@@ -2,7 +2,9 @@
 title: IDC Newsletter 2020-07-01
 date: 2020-06-29T21:37:02.673Z
 ---
-* ![](/images/uploads/idc-logo.png)
+
+
+![](/images/uploads/idc-logo.png)
 
 # IDC Newsletter 2020-07-01
 
