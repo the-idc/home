@@ -2,7 +2,7 @@
 title: IDC Newsletter 2020-07-01
 date: 2020-06-29T21:37:02.673Z
 ---
-![](/images/uploads/idc-logo.png)
+* ![](/images/uploads/idc-logo.png)
 
 # IDC Newsletter 2020-07-01
 
@@ -87,3 +87,14 @@ The IDC was created in April 2020 as a response to a ['State of the left' survey
 A central goal of the IDC is to provide people the direction they need to get involved in causes that are important to them. The initial plan for the IDC was for there to be a number of geographically-based chapters that were formally autonomous from one another but collaborated on shared interests and pooled resources. However, due to the COVID-19 outbreak, the first IDC chapter was instead organized online. We hope to begin setting up regionally-based chapters once pandemic precautions have been loosened. 
 
 To learn more about the IDC, or to submit an application to join, visit: https://1.joinidc.co/
+
+- - -
+
+## Credits
+
+* Yes, Canada is racist too - UnionDog
+* How to protest safely - loljapes
+* Mean-testing is mean - jonkle
+* Working in the age of pandemic - yogthos
+* What is the IDC? - loljapes, mattjdan
+* Web support - snoe, yogthos
