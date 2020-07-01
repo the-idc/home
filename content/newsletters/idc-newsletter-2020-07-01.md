@@ -6,7 +6,7 @@ date: 2020-06-29T21:37:02.673Z
 
 # IDC Newsletter 2020-07-01
 
-Welcome the inaugural IDC newsletter. In this issue we have two articles responding to the wave of protests that have been triggered by the killing of George Floyd. 'Canada is racist too' explores the history of discrimination against people of color in Canada while 'How to protest safely' gives some tips for people thinking about participating in protests themselves. 
+Welcome the inaugural IDC newsletter. In this issue we have two articles responding to the wave of protests that have been triggered by the killing of George Floyd. 'Yes, Canada is racist too' explores the history of discrimination against people of color in Canada while 'How to protest safely' gives some tips for people thinking about participating in protests themselves. 
 
 We also have two articles reflecting on what the ongoing COVID crisis means for Canada and the world. 'Means-testing is mean' critiques the Canadian government's obsession with limiting access to emergency response benefits while 'Work in the age of pandemic' reflects on the elements of work that are truly essential, and what elements COVID has shown we can discard. 
 
@@ -14,19 +14,13 @@ If these topics interest you, check out 'What is the IDC?' to learn more about o
 
 - - -
 
-## Canada is racist too
+## Yes, Canada is racist too
 
 Explicit racism was sanctioned by the Canadian government [until 1960](https://laws-lois.justice.gc.ca/eng/acts/c-12.3/page-1.html), after discrimination from employers, labour unions, landlords, and schools was [declared legal in 1939](https://www.crrf-fcrr.ca/images/stories/pdf/ePubFaShLegRac.pdf). Because of this, people of colour are overrepresented in precarious job markets. Despite Black Canadians being [more likely to achieve post-secondary education](https://www150.statcan.gc.ca/n1/pub/89-657-x/89-657-x2020002-eng.htm) than white Canadians, [44% of Canadian Black children live in poverty](https://minorityrights.org/minorities/african-and-caribbean-canadians/).
 
-The historical recency of this policy is a key motivator of racial inequality across Canada.
+The historical recency of this policy is a key motivator of racial inequality across Canada, and the effects reach nearly every aspect of life.
 
-> |                                  | Indigenous Peoples | Canadian Average |
-> | -------------------------------- | ------------------ | ---------------- |
-> | **Unemployment**                 | 15%                | 7%               |
-> | **Median income**                | $23,600            | $61,400          |
-> | **Rate of non-spousal violence** | 12%                | 5%               |
-> | **Incarceration per 100,000**    | 1,400              | 114              |
-> | **Highschool dropout rate**      | 23%                | 9.3%             |
+![](/images/uploads/things-are-bad.png)
 
 This graph doesn't take into account less tangible but even more disturbing facts, such as the crisis of Missing and Murdered Indigenous Women and Girls, or Canadian police's grim history of "starlight tours," a practice in which police would drop Indigenous people outside city limits on freezing cold nights to [let them die of exposure](https://www.hrw.org/sites/default/files/supporting_resources/canada_saskatchewan_submission_june_2017.pdf).
 
@@ -34,7 +28,9 @@ Slavery in Canada was abolished in the late 1800s, right? Sorry, but no. Japanes
 
 It's hard to tell ourselves that these practices aren't still being used when you consider that prison labour earns inmates a maximum of $6.90 per day, often amounting to [as little as $1.95](https://business.financialpost.com/news/court-challenge-to-inmate-pay-places-prison-labour-program-in-the-crosshairs) after deductions.
 
-This thinly veiled subjugation of people of colour is generally the main thrust of the argument that Canada isn't racist. Since Canada has made an attempt to hide its racist intentions, those arguing in bad faith, or denying their position out of guilt, can choose to not see past this façade. A veneer of politeness does not make our material condition better, it just makes it harder to argue against, but armed with proper information this myth is easily dispelled.
+The fact that the Canadian government has made an *attempt* to hide its racist intentions gives those arguing in bad faith, or denying their position out of guilt, an easy out by comparing us to our Southern neighbours. This veneer of politeness does not make our material conditions any better, it just makes it harder to argue against, but armed with the proper information the myth that "Canada isn't racist" is easily dispelled.
+
+![](/images/uploads/uprising-by-lotus.png)
 
 - - -
 
