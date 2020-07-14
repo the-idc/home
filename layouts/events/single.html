@@ -2,14 +2,15 @@
 
 <main>
   <h1>{{ .Title }}</h1>
-  <h3>
-  {{ if .Params.freq }} Starting {{ end }}
-  {{ .Params.event_date }}
-  {{ if .Params.freq }} {{ .Params.freq }} {{ end }}
-  {{ .Params.start }} - {{ .Params.end }} {{ .Params.timezone }}
-  <br>
-  {{ .Params.location }}
-  </h3>
+  {{ if .Params.event_date }}
+  <div><strong>Next:</strong> <span id="next">{{ .Params.event_date }}</span></div>
+  {{ end }}
+  {{ if .Params.freq }}
+  <div><strong>Frequency:</strong> <span id="recur">{{ .Params.freq }}</span></div>
+  {{ end }}
+  <div><strong>Where:</strong> {{ .Params.location }} </div>
+  <hr>
+
   {{ .Content }}
 
   <hr>
@@ -33,6 +34,29 @@
     </script>
     {{- end }}
   </div>
+    <script>
+      addEventListener("load", function () {
+        const rule = rrule.RRule.fromString(
+          "DTSTART;TZID={{ .Params.timezone }}:{{ printf "%sT%s:00" .Params.event_date .Params.start | time | dateFormat "20060102T150405"  }}\n" +
+          "RRULE:FREQ={{ if .Params.freq}}{{ .Params.freq | upper }}{{ else }}WEEKLY;COUNT=1{{ end }}");
+        const d = rule.after(new Date(), true)
+
+        var when;
+        var freq;
+
+        if (d) {
+          const dl = luxon.DateTime.fromJSDate(d)
+            .toUTC()
+            .setZone('local', { keepLocalTime: true })
+          .toFormat("DDDD ttt")
+
+          {{ if .Params.freq }}
+          document.querySelector("#recur").innerHTML = rule.toText();
+          {{ end }}
+          document.querySelector("#next").innerHTML = dl;
+        }
+      });
+    </script>
 </main>
 
 {{partial "footer.html" .}}
