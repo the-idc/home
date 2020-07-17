@@ -19,3 +19,11 @@ Most jobs in Canada are offered by the private sector, and exist for the sole pu
 It's easy to see how this system resulted in massive wealth concentration with a mere [hundred people having accumulated more wealth than bottom 6 million families combined](https://north99.org/2019/12/20/richest-100-canadians-have-more-wealth-than-bottom-6-million-families-combined-thats-a-serious-problem/) by exploiting the labour of the working class.
 
 We can now arrive the core problem with the idea of job creators. Having affluent individuals being in charge of handing out jobs results in work being largely allocated towards increasing the wealth of these individuals as opposed to the needs of the society at large.
+
+Millions of Canadians are working hard every day, but they're not the ultimate beneficiaries of the wealth that they're producing. Instead, the wealth ends up being hoarded by a small minority while [46% of Canadians are $200 or less away from not being able to pay their bills](https://globalnews.ca/news/4870779/canadians-financial-insolvency-2019-mnp-ipsos-poll/).
+
+We might also ask how this reflects on our democracy. Surely, Canadian workers should be the primary beneficiaries of the work that they're doing day in and day out. It is clear that this is not the case when the workers have to rely on job creators for jobs.
+
+There are several different steps we could take to address this problem. Canada could create more jobs in the public sector. As we saw earlier, these jobs directly improve the quality of life for all citizens of Canada. 
+
+We could also encourage more cooperative ownership in Canada where the workers own their own businesses, and thus become direct beneficiaries of their own labour without a business owner skimming surplus value off top.
