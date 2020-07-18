@@ -20,9 +20,9 @@ It's easy to see how this system resulted in massive wealth concentration with a
 
 We can now arrive the core problem with the idea of job creators. Having affluent individuals being in charge of handing out jobs results in work being largely allocated towards increasing the wealth of these individuals as opposed to the needs of the society at large.
 
-Millions of Canadians are working hard every day, but they're not the ultimate beneficiaries of the wealth that they're producing. Instead, the wealth ends up being hoarded by a small minority while [46% of Canadians are $200 or less away from not being able to pay their bills](https://globalnews.ca/news/4870779/canadians-financial-insolvency-2019-mnp-ipsos-poll/).
+Millions of Canadians are working hard every day, but they're not the ultimate beneficiaries of the wealth that they're producing since the jobs often have low pay, poor benefits, and long hours. The wealth ends up being hoarded by a small minority while [46% of Canadians are $200 or less away from not being able to pay their bills](https://globalnews.ca/news/4870779/canadians-financial-insolvency-2019-mnp-ipsos-poll/).
 
-We might also ask how this reflects on our democracy. Surely, Canadian workers should be the primary beneficiaries of the work that they're doing day in and day out. It is clear that this is not the case when the workers have to rely on job creators for jobs.
+Surely, Canadian workers should be the primary beneficiaries of the hard work that they're doing. Yet, that is clearly not the case when they are being exploited for profit. Nor does the work performed at these jobs appear to have any inherent value to society. When the labour is primarily allocated towards needs of the few, then it is not being allocated in a way that benefits majority of Canadians.
 
 There are several different steps we could take to address this problem. Canada could create more jobs in the public sector. As we saw earlier, these jobs directly improve the quality of life for all citizens of Canada. 
 
