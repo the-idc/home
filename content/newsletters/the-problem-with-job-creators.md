@@ -36,7 +36,7 @@ Furthermore, studies show cooperatives to be more robust in dealing with demand 
 
 >This overview of the empirical evidence on the performance of worker cooperatives suggests both that worker cooperatives perform well in comparison with conventional firms, and that the features that make them special – worker participation and unusual arrangements for the ownership of capital – are part of their strength.
 
->Contrary to popular thinking and to the pessimistic predictions of some theorists, solid, consistent evidence across countries, systems, and time periods shows that worker cooperatives are at least as productive as conventional firms, and more productive in some areas. The more participatory cooperatives are, the more productive they tend to be. 
+>Contrary to popular thinking and to the pessimistic predictions of some theorists, solid, consistent evidence across countries, systems, and time periods shows that worker cooperatives are at least as productive as conventional firms, and more productive in some areas. The more participatory cooperatives are, the more productive they tend to be.
 
 >Among the possible solutions are measures like asset locks and collective accumulation of capital that have been looked at with suspicion by generations of economists. Such measures do not seem to hamper productivity by dampening incentives – some of **the same cooperatives that have adopted these particular measures are found to be more productive (as the French cooperatives) or to preserve jobs better (as the Italian cooperatives) than conventional firms.**
 
