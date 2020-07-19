@@ -44,5 +44,7 @@ Furthermore, studies show cooperatives to be more robust in dealing with demand 
 
 >management decisions over investment, strategy, or even human resource policies. This may explain why participation in governance is so important to the performance of workers’ cooperatives (though these results have to be updated) rather than the monetary incentives we have focused on for so long. **It is also a fact that workers’ participation in profit and in decisions makes it possible for worker cooperatives to adjust pay rather than employment in response to demand shocks**.
 
-Clearly, increased cooperative ownership would strengthen Canadian economy against unexpected events, such as the current pandemics, going forward. 
+Clearly, increased cooperative ownership would strengthen Canadian economy against unexpected events, such as the current pandemics, going forward.
+
+To sum up, not only shouldn't we worry about job creators leaving Canada, but we should actively strive to get rid of job creators as a role in our society.
 
