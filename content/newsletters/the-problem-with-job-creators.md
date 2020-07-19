@@ -46,5 +46,5 @@ Furthermore, studies show cooperatives to be more robust in dealing with demand 
 
 Clearly, increased cooperative ownership would strengthen Canadian economy against unexpected events, such as the current pandemics, going forward.
 
-To sum up, not only shouldn't we worry about job creators leaving Canada, but we should actively strive to get rid of job creators as a role in our society.
+To sum up, not only shouldn't we worry about job creators leaving Canada, but we should actively strive to get rid of job creators as a role in our society. People doing the work are in the best position to make decisions about how that work should be performed, and they deserve to be the primary beneficiaries of their work.
 
