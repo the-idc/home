@@ -16,7 +16,7 @@ Meanwhile, the goal of jobs created by the private sector is to generate wealth 
 
 Most jobs in Canada are offered by the private sector, and exist for the sole purpose of generating wealth for the capital owning class. The value generated through the labour of the workers is appropriated by the business owners with the workers being paid a small portion of the value they produce in form of wages.
 
-It's easy to see how this system resulted in massive wealth concentration with a mere [hundred families accumulated more wealth than bottom six million families combined](https://north99.org/2019/12/20/richest-100-canadians-have-more-wealth-than-bottom-6-million-families-combined-thats-a-serious-problem/) by exploiting the labour of the working class.
+It's easy to see how this system resulted in massive wealth concentration with a mere [hundred families accumulated more wealth than bottom six million families combined](https://north99.org/2019/12/20/richest-100-canadians-have-more-wealth-than-bottom-6-million-families-combined-thats-a-serious-problem/) through relentless exploitation of the working class.
 
 We now arrive the core problem with the idea of job creators. Having affluent individuals being in charge of handing out jobs results in work being largely allocated towards increasing the wealth of these individuals as opposed to the needs of the society at large.
 
