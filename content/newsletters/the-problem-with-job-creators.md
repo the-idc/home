@@ -26,7 +26,7 @@ Surely, Canadian workers should be the primary beneficiaries of the hard work th
 
 Now that we've discussed why the role of job creators is inherently problematic, let's take a look at a couple of concrete steps we could take to remedy this problem.
 
-The first step would be to create more jobs in the public sector. As we saw earlier, these jobs directly improve the quality of life for all citizens of Canada. Strengthening our public sector helps ensure long term stability of essential services that we all rely on.
+First step would be to create more jobs in the public sector. As we saw earlier, these jobs directly improve the quality of life for all citizens of Canada. Strengthening our public sector helps ensure long term stability of essential services that we all rely on. Public sector work should be celebrated and encouraged because of its inherent social value.
 
 Second step would be to encourage cooperative ownership in the private sector. When the workers own their business they become direct beneficiaries of their own labour without anybody skimming surplus value off top.
 
