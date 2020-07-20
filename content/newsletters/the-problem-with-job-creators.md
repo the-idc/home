@@ -18,7 +18,7 @@ Most jobs in Canada are offered by the private sector, and exist for the sole pu
 
 It's easy to see how this system resulted in massive wealth concentration with a mere [hundred families accumulated more wealth than bottom six million families combined](https://north99.org/2019/12/20/richest-100-canadians-have-more-wealth-than-bottom-6-million-families-combined-thats-a-serious-problem/) through relentless exploitation of the working class.
 
-We now arrive at the core problem with the idea of job creators. Having affluent individuals being in charge of handing out jobs results in work being largely allocated towards increasing the wealth of these individuals as opposed to the needs of the society at large.
+We now arrive at the core problem with the idea of job creators. Having affluent individuals being in charge of handing out jobs results in work being largely allocated towards increasing the wealth of these individuals as opposed to the needs of our society.
 
 Millions of Canadians are working hard every day, but they're not the ultimate beneficiaries of the wealth that they're producing since the jobs often have low pay, poor benefits, and long hours. The wealth ends up being hoarded by a small minority while [46% of Canadians are $200 or less away from not being able to pay their bills](https://globalnews.ca/news/4870779/canadians-financial-insolvency-2019-mnp-ipsos-poll/).
 
