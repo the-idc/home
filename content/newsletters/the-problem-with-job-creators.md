@@ -14,7 +14,7 @@ Public sector jobs are offered by the government and largely fill functions need
 
 Meanwhile, the goal of jobs created by the private sector is to generate wealth for the business owners. Many of these jobs don't have any clear benefit to the society at large, and some are actually harmful. For example, fossil fuel lobbyists are actively facilitating the destruction of our environment, and we would all be better off without them.
 
-Most jobs in Canada are offered by the private sector, and exist for the sole purpose of generating wealth for the business owning class. The value generated through the labour of the workers is appropriated by the business owners with the workers being paid a small portion of the value they produce in form of wages.
+Most jobs in Canada are offered by the private sector, and exist for the sole purpose of generating wealth for the capital owning class. The value generated through the labour of the workers is appropriated by the business owners with the workers being paid a small portion of the value they produce in form of wages.
 
 It's easy to see how this system resulted in massive wealth concentration with a mere [hundred families accumulated more wealth than bottom six million families combined](https://north99.org/2019/12/20/richest-100-canadians-have-more-wealth-than-bottom-6-million-families-combined-thats-a-serious-problem/) by exploiting the labour of the working class.
 
