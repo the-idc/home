@@ -24,7 +24,7 @@ Millions of Canadians are working hard every day, but they're not the ultimate b
 
 Surely, Canadian workers should be the primary beneficiaries of the hard work that they're doing. Yet, that is clearly not the case when they are being exploited for profit. Nor does the work performed at many of these jobs appear to have any inherent value beyond enriching the business owners. When the labour is primarily allocated towards needs of the few, then it is not being allocated in a way that benefits majority of Canadians.
 
-There are a couple of concrete steps we could take to address this problem.
+Now that we've discussed why the role of job creators is inherently problematic, let's take a look at a couple of concrete steps we could take to remedy this problem.
 
 The first step would be to create more jobs in the public sector. As we saw earlier, these jobs directly improve the quality of life for all citizens of Canada. Strengthening our public sector helps ensure long term stability of essential services that we all rely on.
 
