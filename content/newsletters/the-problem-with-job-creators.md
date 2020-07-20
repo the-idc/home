@@ -12,7 +12,7 @@ To find the answer we'll first need to take a look at how jobs are created in ou
 
 Public sector jobs are offered by the government and largely fill functions needed to make our society function. Some examples of public sector jobs include education, healthcare, and sanitation. Many of these jobs are what we refer to as essential work during the pandemic.
 
-Meanwhile, the goal of jobs created by the private sector is to generate wealth for the business owners with their usefulness to society being entirely incidental. Many of these jobs don't have any clear benefit to the society at large, and some are actually harmful. For example, fossil fuel lobbyists are actively facilitating the destruction of our environment, and we would all be better off without them.
+Meanwhile, the goal of jobs created by the private sector is to generate wealth for the business owners. Many of these jobs don't have any clear benefit to the society at large, and some are actually harmful. For example, fossil fuel lobbyists are actively facilitating the destruction of our environment, and we would all be better off without them.
 
 Most jobs in Canada are offered by the private sector, and exist for the sole purpose of generating wealth for the business owning class. The value generated through the labour of the workers is appropriated by the business owners with the workers being paid a small portion of the value they produce in form of wages.
 
