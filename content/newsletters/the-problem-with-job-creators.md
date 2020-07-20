@@ -28,11 +28,11 @@ Now that we've discussed why the role of job creators is inherently problematic,
 
 First step would be to create more jobs in the public sector. As we saw earlier, these jobs directly improve the quality of life for all citizens of Canada. Strengthening our public sector helps ensure long term stability of essential services that we all rely on. Public sector work should be celebrated and encouraged because of its inherent social value.
 
-Second step would be to encourage cooperative ownership in the private sector. When the workers own their business they become direct beneficiaries of their own labour without anybody skimming surplus value off top.
+Second step would be to encourage cooperative ownership in the private sector in form of government loans and subsidies. When the workers own their business they become direct beneficiaries of their own labour without anybody skimming surplus value off top.
 
 Cooperatives directly help combat wealth concentration by ensuring that the profits are split fairly as opposed to being hoarded. Currently, around [240 billion dollars](https://www.cbc.ca/news/business/cra-tax-gap-foreign-holdings-1.4726983) is being stashed away in offshore accounts. However, with a cooperative model this money would be distributed to regular Canadian workers who would spend the money and circulate it back into our economy.
 
-Furthermore, studies show cooperatives to be more robust in dealing with demand shocks such as pandemics. One [study](https://www.researchgate.net/publication/285356456_The_performance_of_worker_cooperatives) found the following when comparing cooperatives to traditional style companies.
+Furthermore, studies show cooperatives to be more robust in dealing with demand shocks such as pandemics. One [study](https://www.researchgate.net/publication/285356456_The_performance_of_worker_cooperatives) found the following when comparing cooperatives to traditional style companies:
 
 >This overview of the empirical evidence on the performance of worker cooperatives suggests both that worker cooperatives perform well in comparison with conventional firms, and that the features that make them special – worker participation and unusual arrangements for the ownership of capital – are part of their strength.
 
@@ -44,7 +44,7 @@ Furthermore, studies show cooperatives to be more robust in dealing with demand 
 
 >management decisions over investment, strategy, or even human resource policies. This may explain why participation in governance is so important to the performance of workers’ cooperatives (though these results have to be updated) rather than the monetary incentives we have focused on for so long. **It is also a fact that workers’ participation in profit and in decisions makes it possible for worker cooperatives to adjust pay rather than employment in response to demand shocks**.
 
-Clearly, increased cooperative ownership would strengthen Canadian economy against unexpected events, such as the current pandemics, going forward.
+The research suggests that increased cooperative ownership would strengthen Canadian economy against unexpected events, such as the current pandemics, going forward.
 
 Not only shouldn't we worry about job creators leaving Canada, but we should actively strive to get rid of job creators as a role in our society. People doing the work are in the best position to make decisions about how that work should be performed, and they deserve to be the primary beneficiaries of their work.
 
