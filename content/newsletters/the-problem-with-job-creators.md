@@ -4,7 +4,7 @@ date: 2020-07-16T20:08:04.893Z
 ---
 A common argument against implementing a wealth tax or closing tax loopholes is that the rich are job creators and if we didn't bend over backwards to accommodate them they might leave taking all the jobs they offer with them.
 
-Of course, it can be easily shown that such line of argument amounts to absurdity. As long as the business is filling a useful niche there is profit to be made. All that would happen if the original owner left is be that the business would pass to a different owner who is willing to accept the lower profit margin.
+Of course, it can be easily shown that such line of argument amounts to absurdity. As long as the business is filling a useful niche there is profit to be made. All that would happen if the original owner left is that the business would pass to a different owner who is willing to accept the lower profit margin.
 
 However, there is a more fundamental problem with the notion of job creators that warrants discussion. The question we need to ask is how we ended up in a scenario where jobs are handed out by a small number of people who are able to hold the rest of us hostage to their whims.
 
