@@ -26,9 +26,9 @@ Surely, Canadian workers should be the primary beneficiaries of the hard work th
 
 Now that we've discussed why the role of job creators is inherently problematic, let's take a look at a couple of concrete steps we could take to remedy this problem.
 
-First step would be to create more jobs in the public sector. As we saw earlier, these jobs directly improve the quality of life for all citizens of Canada. Strengthening our public sector helps ensure long term stability of essential services that we all rely on. Public sector work should be celebrated and encouraged because of its inherent social value.
+A first step would be to create more jobs in the public sector. As we saw earlier, these jobs directly improve the quality of life for all citizens of Canada. Strengthening our public sector helps ensure long term stability of essential services that we all rely on. Public sector work should be celebrated and encouraged because of its inherent social value.
 
-Second step would be to encourage cooperative ownership in the private sector in form of government loans and subsidies. When the workers own their business they become direct beneficiaries of their own labour without anybody skimming surplus value off top.
+A second step would be to encourage cooperative ownership in the private sector in form of government loans and subsidies. When the workers own their business they become direct beneficiaries of their own labour without anybody skimming surplus value off top.
 
 Cooperatives directly help combat wealth concentration by ensuring that the profits are split fairly as opposed to being hoarded. Currently, around [240 billion dollars](https://www.cbc.ca/news/business/cra-tax-gap-foreign-holdings-1.4726983) is being stashed away in offshore accounts. However, with a cooperative model this money would be distributed to regular Canadian workers who would spend the money and circulate it back into our economy.
 
