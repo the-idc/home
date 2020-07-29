@@ -24,11 +24,11 @@ Surely, Canadian workers should be the primary beneficiaries of the hard work th
 
 Now that we've discussed why the role of job creators is inherently problematic, let's take a look at a couple of concrete steps we could take to remedy this problem.
 
-A first step would be to create more jobs in the public sector. As we saw earlier, these jobs directly improve the quality of life for all citizens of Canada. Strengthening our public sector helps ensure long term stability of essential services that we all rely on. Public sector work should be celebrated and encouraged because of its inherent social value.
+A first step would be to create more jobs in the public sector. As we saw earlier, these jobs directly improve the quality of life for all citizens of Canada. Strengthening our public sector helps ensure long term stability of essential services that we all rely on. Therefore, this type of work should be encouraged and celebrated because of its inherent social value.
 
 A second step would be to encourage cooperative ownership in the private sector in the form of government loans and subsidies. When the workers own their business they become direct beneficiaries of their own labour without anybody skimming surplus value off top.
 
-Cooperatives directly help combat wealth concentration by ensuring that the profits are split fairly as opposed to being hoarded. Currently, around [240 billion dollars](https://www.cbc.ca/news/business/cra-tax-gap-foreign-holdings-1.4726983) is being stashed away in offshore accounts. However, with a cooperative model this money would be distributed to regular Canadian workers who would spend the money and circulate it back into our economy.
+Cooperatives directly help combat the problem of wealth concentration by ensuring that the profits are split fairly as opposed to being hoarded. Currently, around [240 billion dollars](https://www.cbc.ca/news/business/cra-tax-gap-foreign-holdings-1.4726983) is being stashed away in offshore accounts. However, with a cooperative model this money would be distributed to regular Canadian workers who would spend the money and circulate it back into our economy.
 
 Furthermore, studies show cooperatives to be more robust in dealing with demand shocks such as pandemics. One [study](https://www.researchgate.net/publication/285356456_The_performance_of_worker_cooperatives) found the following when comparing cooperatives to traditional style companies:
 
