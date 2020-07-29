@@ -20,7 +20,7 @@ We now arrive at the core problem with the idea of job creators. Having affluent
 
 Millions of Canadians are working hard every day, but they're not the ultimate beneficiaries of the wealth that they're producing since their jobs often have low pay, poor benefits, and long hours. The wealth ends up being hoarded by a small minority while [48% of Canadians are $200 or less away from not being able to pay their bills](https://www.ipsos.com/en-ca/news-polls/Canadians-and-Bankruptcy-Oct-2019).
 
-Surely, Canadian workers should be the primary beneficiaries of the hard work that they're doing. Yet, that is clearly not the case when they are being exploited for profit. Nor does the work performed at many of these jobs appear to have any inherent value beyond enriching the business owners. The labour in Canada is primarily allocated towards the whims of the capital owning minority at the expense of the majority.
+Surely, Canadian workers should be the primary beneficiaries of the hard work that they're doing. Yet, that is clearly not the case when they are being exploited for profit. Nor does the work performed at many of these jobs appear to have any inherent value beyond enriching the business owners. Labour in Canada is primarily allocated towards the whims of the capital owning minority at the expense of the majority.
 
 Now that we've discussed why the role of job creators is inherently problematic, let's take a look at a couple of concrete steps we could take to remedy this problem.
 
