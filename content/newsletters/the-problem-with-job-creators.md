@@ -14,15 +14,13 @@ Public sector jobs are offered by the government and largely fill functions need
 
 Meanwhile, the principal goal of jobs created by the private sector is to generate wealth for the business owners. Many of these jobs don't have any clear benefit to the society at large. Some jobs created in this fashion, such as fossil fuel lobbyists, can even be considered harmful.
 
-Most jobs in Canada are offered by the private sector, and exist for the sole purpose of generating wealth for the capital owning class. The value generated through the labour of the workers is appropriated by the business owners with the workers being paid a small portion of the value they produce in form of wages.
-
-It's easy to see how this system resulted in massive wealth concentration with a mere [hundred families accumulated more wealth than bottom six million families combined](https://north99.org/2019/12/20/richest-100-canadians-have-more-wealth-than-bottom-6-million-families-combined-thats-a-serious-problem/) through relentless exploitation of the working class.
+Most jobs in Canada are offered by the private sector, and exist for the sole purpose of generating wealth for the capital owning class. The value generated through the labour of the workers is appropriated by the business owners with the workers being paid a small portion of the value they produce in form of wages. It's easy to see how this system resulted in massive wealth concentration with a mere [hundred families accumulated more wealth than bottom six million families combined](https://north99.org/2019/12/20/richest-100-canadians-have-more-wealth-than-bottom-6-million-families-combined-thats-a-serious-problem/) through relentless exploitation of the working class.
 
 We now arrive at the core problem with the idea of job creators. Having affluent individuals being in charge of handing out jobs results in work being largely allocated towards increasing the wealth of these individuals as opposed to the needs of our society.
 
 Millions of Canadians are working hard every day, but they're not the ultimate beneficiaries of the wealth that they're producing since their jobs often have low pay, poor benefits, and long hours. The wealth ends up being hoarded by a small minority while [48% of Canadians are $200 or less away from not being able to pay their bills](https://www.ipsos.com/en-ca/news-polls/Canadians-and-Bankruptcy-Oct-2019).
 
-Surely, Canadian workers should be the primary beneficiaries of the hard work that they're doing. Yet, that is clearly not the case when they are being exploited for profit. Nor does the work performed at many of these jobs appear to have any inherent value beyond enriching the business owners. When the labour is primarily allocated towards needs of the few, then it is not being allocated in a way that benefits majority of Canadians.
+Surely, Canadian workers should be the primary beneficiaries of the hard work that they're doing. Yet, that is clearly not the case when they are being exploited for profit. Nor does the work performed at many of these jobs appear to have any inherent value beyond enriching the business owners. When the labour is primarily allocated towards needs of the few, then it is necessarily not being allocated in a way that benefits majority of Canadians.
 
 Now that we've discussed why the role of job creators is inherently problematic, let's take a look at a couple of concrete steps we could take to remedy this problem.
 
