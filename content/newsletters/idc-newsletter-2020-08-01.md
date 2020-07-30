@@ -171,10 +171,6 @@ difficult if not impossible. I think both have a future beyond capitalism.
 
 - - -
 
-## A conclusion.
-
-- - -
-
 ## Credits
 
 * Sorry, Not Sorry - LolJapes
