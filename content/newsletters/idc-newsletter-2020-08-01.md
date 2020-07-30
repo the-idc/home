@@ -116,7 +116,7 @@ Not only should we not worry about job creators leaving Canada, but we should ac
 - - -
 ## The Woorker Meme: an Interview with Lotuswrench
 
-![](home/content/woorkermeme.png)
+![](/images/uploads/woorkermeme.png)
 
 **To start, how long have you been making memes for?**
 
