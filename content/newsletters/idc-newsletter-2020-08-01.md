@@ -102,7 +102,9 @@ improve the quality of life for all citizens of Canada. We could also encourage 
 thus become direct beneficiaries of their own labour without a business owner skimming surplus value off the top.
 
 - - -
-## (The Woorker Meme)[https://i.redd.it/wm7wohgahf651.png]: an Interview with Lotuswrench
+## The Woorker Meme: an Interview with Lotuswrench
+
+![](home/content/woorkermeme.png)
 
 **To start, how long have you been making memes for?**
 
