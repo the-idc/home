@@ -57,7 +57,6 @@ Trudeau will apologize for Canada's historical wrongs (to liberal applause) as m
 but I don't see why this is such a big deal'.
 
 
-
 \* (1) An apology to victims of Newfoundland and Labrador residential schools on 2017-11-24 (2) An apology for the execution of indiginous chiefs during the Chilcotin war on 2018-03-26 (3) An
 apology for the treatment of Inuit TB victims in the mid-20th century on 2018-11-02 (4) An apology for the conviction of Chief Poundmaker on 2019-04-23
 
