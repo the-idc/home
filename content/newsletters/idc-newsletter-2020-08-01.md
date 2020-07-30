@@ -2,7 +2,6 @@
 title: IDC Newsletter 2020-08-01
 date: 2020-07-27T14:06
 ---
-
 ![](/images/uploads/idc-logo.png)
 
 # IDC Newsletter 2020-08-01
@@ -14,6 +13,7 @@ of [@canadapoast](https://www.instagram.com/canadapoast/) and the Woorker series
 valuable insight into the mechanics and mindset of producing content for the internet.
 
 - - -
+
 ## Sorry, Not Sorry
 
 Justin Trudeau was only six months into his prime ministership when the jokes about his apologies began. The earliest commentary I can find is a [Last Week Tonight segment](https://www.youtube.com/watch?v=gMrWRWVqaYI) 
@@ -24,18 +24,18 @@ facial expressions) behind our masks.
 
 Although Trudeau's apologies tend to get covered with an air of humor, there's a pretty sophisticated communications strategy behind a lot of the apologies he gives. There are actually
 two types of Trudeau apology; the broad apologies he gives for misdeeds committed by Canada (usually before he was born) and the much narrower apologies he gives when caught in one of 
-his ethical imbroglios *du jour*. 
+his own ethical imbroglios. 
 
-Trudeau has delivered seven official apologies on behalf of the Canadian state, four of these concern actions taken against various First Nations groups*, two were related to Canadian
-refusal to accept refugees during the world wars** and one addressed persecution of LGBTQ2 Canadians by the state. Each of these apologies have been exquisitely stage-managed affairs.
+Trudeau has delivered seven official apologies on behalf of the Canadian state, four of these concern actions taken against various First Nations groups\*, two were related to Canadian
+refusal to accept refugees during the world wars\** and one addressed persecution of LGBTQ2 Canadians by the state. Each of these apologies have been exquisitely stage-managed affairs.
 (When Trudeau apologized to the Tsilhqot'in National Government for the execution of chiefs during the Chilcotin war, he rode to the event on a black horse). Additionally, these 
-apologies usually involve the delivery of an expansive speech by Trudeau where gives the historical context behind the apology and explains the damage caused to the victims of the 
+apologies usually involve the delivery of an expansive speech by Trudeau where he gives the historical context behind the apology and explains the damage caused to the victims of the 
 event under discussion. As a bonus to the generally good press Trudeau gets for delivering these apologies, these events also serve to distract from negative news that Trudeau is 
 arguably more accountable for as prime minister. For example, Trudeau's apology for [Canada's refusal to accept immigrants from the Komagata Maru during WWI](https://www.cbc.ca/news/politics/komagata-maru-live-apology-1.3587827) completely overshadowed 
 news that came out the same day that the [RCMP had been extra-legally spying on journalists in Quebec](https://nationalpost.com/news/politics/here-are-the-five-justin-trudeau-apologies-from-the-past-24-hours-three-of-them-were-for-himself).
 
 These official apologies can be contrasted with the numerous personal apologies Trudeau has had to give for his own behavior. These *mea culpas* have a completely different character. 
-They are usually only issued under duress as and act of damage control. For example, it wasn't until a report from the ethics commissioner found Trudeau in violation of the Conflict 
+They are usually only issued under duress as an act of damage control. For example, it wasn't until a report from the ethics commissioner found Trudeau in violation of the Conflict 
 of Interest Act that he apologized for visiting Aga Khan's private island for vacation. Unlike Trudeau's official apologies, which demonstrate an understanding of the systemic effects 
 bad decisions by powerful people can have on a society, Trudeau's personal apologies usually seek to de-emphasize the power he has as Prime Minister of Canada. After a second ethics 
 investigation found Trudeau in contravention of the Conflict of Interest Act again, for actions he took during the SNC-Lavalin affair, Trudeau issued a limited apology to Jody 
@@ -56,15 +56,14 @@ apology that expresses abstract regret but rejects the idea Trudeau had any agen
 Trudeau will apologize for Canada's historical wrongs (to liberal applause) as much as you like, but when it comes to his own actions the only apology he seems able to muster is – 'I'm sorry,
 but I don't see why this is such a big deal'.
 
-
 \* (1) An apology to victims of Newfoundland and Labrador residential schools on 2017-11-24 (2) An apology for the execution of indiginous chiefs during the Chilcotin war on 2018-03-26 (3) An
 apology for the treatment of Inuit TB victims in the mid-20th century on 2018-11-02 (4) An apology for the conviction of Chief Poundmaker on 2019-04-23
 
 \*\* (1) An apology to Indian immigrants aboard the Komogata Maru who were denied entry to Canada during WWI on 2016-04-18 (2) An apology to Jewish refugees aboard the M.S. St Louis denied 
 entry to Canada during WWII on 2018-11-07
 
-
 - - -
+
 ## The Problem with Job Creators
 
 A common argument against implementing a wealth tax or closing tax loopholes is that the rich are job creators and if we didn't bend over backwards to accommodate them they might leave taking all the jobs they offer with them.
@@ -97,23 +96,22 @@ Cooperatives directly help combat the problem of wealth concentration by ensurin
 
 Furthermore, studies show cooperatives to be more robust in dealing with demand shocks. One [study](https://www.researchgate.net/publication/285356456_The_performance_of_worker_cooperatives) found the following when comparing cooperatives to traditional style companies:
 
->This overview of the empirical evidence on the performance of worker cooperatives suggests both that worker cooperatives perform well in comparison with conventional firms, and that the features that make them special – worker participation and unusual arrangements for the ownership of capital – are part of their strength.
-
->Contrary to popular thinking and to the pessimistic predictions of some theorists, solid, consistent evidence across countries, systems, and time periods shows that worker cooperatives are at least as productive as conventional firms, and more productive in some areas. The more participatory cooperatives are, the more productive they tend to be.
-
->Among the possible solutions are measures like asset locks and collective accumulation of capital that have been looked at with suspicion by generations of economists. Such measures do not seem to hamper productivity by dampening incentives – some of **the same cooperatives that have adopted these particular measures are found to be more productive (as the French cooperatives) or to preserve jobs better (as the Italian cooperatives) than conventional firms.**
-
->In a labor-managed firm, members participate in the decisions that affect their unemployment and income risks. They are considerably better protected against the moral hazard potentially attached to.
-
->management decisions over investment, strategy, or even human resource policies. This may explain why participation in governance is so important to the performance of workers’ cooperatives (though these results have to be updated) rather than the monetary incentives we have focused on for so long. **It is also a fact that workers’ participation in profit and in decisions makes it possible for worker cooperatives to adjust pay rather than employment in response to demand shocks**.
+> This overview of the empirical evidence on the performance of worker cooperatives suggests both that worker cooperatives perform well in comparison with conventional firms, and that the features that make them special – worker participation and unusual arrangements for the ownership of capital – are part of their strength.
+>
+> Contrary to popular thinking and to the pessimistic predictions of some theorists, solid, consistent evidence across countries, systems, and time periods shows that worker cooperatives are at least as productive as conventional firms, and more productive in some areas. The more participatory cooperatives are, the more productive they tend to be.
+>
+> Among the possible solutions are measures like asset locks and collective accumulation of capital that have been looked at with suspicion by generations of economists. Such measures do not seem to hamper productivity by dampening incentives – some of **the same cooperatives that have adopted these particular measures are found to be more productive (as the French cooperatives) or to preserve jobs better (as the Italian cooperatives) than conventional firms.**
+>
+> In a labor-managed firm, members participate in the decisions that affect their unemployment and income risks. They are considerably better protected against the moral hazard potentially attached to.
+>
+> management decisions over investment, strategy, or even human resource policies. This may explain why participation in governance is so important to the performance of workers’ cooperatives (though these results have to be updated) rather than the monetary incentives we have focused on for so long. **It is also a fact that workers’ participation in profit and in decisions makes it possible for worker cooperatives to adjust pay rather than employment in response to demand shocks**.
 
 The research suggests that increased cooperative ownership would strengthen the Canadian economy against unexpected events, such as the current pandemic, going forward.
 
-Not only should we not worry about job creators leaving Canada, but we should actively strive to get rid of 'job creators' as a role in our society. People doing the work are in the best position to make decisions about how that work should be performed, and they deserve to be the primary beneficiaries of their work.
-
-
+Not only should we not worry about job creators leaving Canada, but we should actively strive to get rid of job creators as a role in our society. People doing the work are in the best position to make decisions about how that work should be performed, and they deserve to be the primary beneficiaries of their work.
 
 - - -
+
 ## The Woorker Meme: an Interview with Lotuswrench
 
 ![](/images/uploads/woorkermeme.png)
@@ -186,11 +184,10 @@ difficult if not impossible. I think both have a future beyond capitalism.
 
 ## Credits
 
-* Sorry, Not Sorry - LolJapes
+* Sorry, Not Sorry - loljapes
 * The Problem with Job Creators - yogthos
 * The Woorker Meme: an Interview with Lotuswrench - jonkle
+
   * Image credit: [@Canadapoast](https://www.instagram.com/canadapoast/)
-
-
 * Image credit: [@canadapoast](https://www.instagram.com/canadapoast/)
 * Web support - snoe, yogthos
