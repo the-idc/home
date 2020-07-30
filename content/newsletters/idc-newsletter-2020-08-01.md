@@ -144,7 +144,7 @@ around with the filters.
 **What’s the most important skill that comes with making a meme, in your opinion? Is there a sort of design craft aspect to it, or is it mostly just knowing how to
 translate a feeling of the moment into a concentrated image?**
 
-Lol, lately I’ve been trying to really learn from a couple of the real heavy hitters like @TeenageStepDad and @MemeIndustria l who both have a pretty keen eye for
+Lol, lately I’ve been trying to really learn from a couple of the real heavy hitters like @TeenageStepDad and @MemeIndustrial who both have a pretty keen eye for
 commercial design but being able to quickly represent a mood is really useful
 
 **For my own part I’ve rarely felt like the internet is an actual thing I can interact with. Or that if I did interact with it by posting the big flood of voices 
