@@ -123,14 +123,14 @@ I got started around the same time I started taking a serious interest in leftis
 **What got you into making and posting memes? Do you just find it fun, or have you always been trying to make some kind of propaganda with the memes you make?**
 
 It’s always just been about making funny things to post online to me lol. I mean in the beginning I was mostly dunking on trump as a #resister (I know, cringe) but 
-as I watched the real energy of the movement sapped off by die hard centrists and starting connecting with more staunchly left leaning people, having some of their 
+as I watched the real energy of the movement sapped off by die-hard centrists and starting connecting with more staunchly left-leaning people, having some of their 
 ideas rub off on me, I’ve been trying to more effectively use my work to push revolutionary ideas and highlight social problems.  
 
 **What were the influences that developed the Woorker idea? Was it just the Wojak format itself that caught your eye, or was there a developing trend of memes that 
 you thought the Woorker would fit into?**
 
 There was a conversation in the discord about unionizing entry level workers, and I just thought about some of the experiences I had in my late teens/early 20s 
-working in kitchens and how universal the stress of low paying entry level work is. Everyone’s gone through it at some point. I picked Wojak though because it’s an
+working in kitchens and how universal the stress of low paying entry-level work is. Everyone’s gone through it at some point. I picked Wojak though because it’s an
 easy template to work with and subverting some of the tools used by the alt-right is kinda interesting to me. They’re really good at getting through to people and 
 we on the left could probably take a few notes.  
 
@@ -138,9 +138,9 @@ we on the left could probably take a few notes.
 you learn how to get better at memes?**
 
 The Woorker meme was pretty low effort and I made it specifically for ICD1 to use, so outside of occasional updates through the discord I haven’t been paying too 
-much attention to it. I’m glad people are liking it and it’s been adapted to fit other professions especially be @gv4et (on twitter & instagram). I’ve also noticed
+much attention to it. I’m glad people are liking it and it’s been adapted to fit other professions especially by @gv4et (on twitter & instagram). I’ve also noticed
 my “4/20/69 work week ” meme has been blowing up by other people posting it on twitter and reddit, with one post getting engagements in the low thousands and kinda 
-regret not watermarking it lol, but if it’s got people talking about the ridiculousness of the lack of a liveable wage that’s pretty cool
+regret not watermarking it lol, but if it’s got people talking about the ridiculousness of the lack of a livable wage that’s pretty cool
 
 **Do you do many drafts or polishing of a meme, or do they usually come out about as good as they’ll get?**
 
