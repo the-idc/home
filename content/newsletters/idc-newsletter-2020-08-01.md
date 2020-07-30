@@ -176,7 +176,5 @@ difficult if not impossible. I think both have a future beyond capitalism.
 * Sorry, Not Sorry - loljapes
 * The Problem with Job Creators - yogthos
 * The Woorker Meme: an Interview with Lotuswrench - jonkle
-
-  * Image credit: [@Canadapoast](https://www.instagram.com/canadapoast/)
-* Image credit: [@canadapoast](https://www.instagram.com/canadapoast/)
+  * Image credit: [@canadapoast](https://www.instagram.com/canadapoast/)
 * Web support - snoe, yogthos
