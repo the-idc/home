@@ -1,32 +1,77 @@
-<nav>
-  <a href="/">IDC1</a>
-  <input type="checkbox" id="nav-toggle">
-  <label for="nav-toggle" id="burger-menu">
-    <svg viewBox="0 0 100 80" width="30" height="30" style="fill: white">
-      <rect width="100" height="16" rx="8"></rect>
-      <rect y="26" width="100" height="16" rx="8"></rect>
-      <rect y="52" width="100" height="16" rx="8"></rect>
-    </svg>
-  </label>
-  <ol id="nav-menu">
-    <li><a href="/organizations">Organizations</a></li>
-    <li><a href="/publications">Publications</a></li>
-    <li><a href="/events">Events</a></li>
-    <li><a href="/newsletters">Newsletters</a></li>
-  </ol>
-</nav>
+<!-- Start Preloader Area -->
+<div class="preloader">
+  <div class="preloader">
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<!-- End Preloader Area -->
 
-{{ if and .Parent (ne .Parent .Site.Home) }}
-  <header>
-    {{ template "breadcrumb" dict "e" .Parent "h" .Site.Home}}
-     {{ .Title }}
-  </header>
+<div class="navbar-area">
+  <div class="fria-responsive-nav">
+    <div class="container">
+      <div class="fria-responsive-menu">
+        <div class="logo">
+          <a href="index.html">
+            <img src="assets/img/logo.png" alt="logo">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="fria-nav">
+    <div class="container">
+      <nav class="navbar navbar-expand-md navbar-light">
+        <a class="navbar-brand" href="/">
+          <img src="/logo.png" alt="logo">
+        </a>
+
+        <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+          <ul class="navbar-nav">
+            <li class="nav-item"><a href="/organizations" class="nav-link">Organizations</a></li>
+            <li class="nav-item"><a href="/publications" class="nav-link">Publications</a></li>
+            <!-- <li class="nav-item"><a href="/events" class="nav-link">Events</a></li> -->
+            <li class="nav-item"><a href="/newsletters" class="nav-link">Newsletters</a></li>
+          </ul>
+
+          <div class="others-options">
+            <div class="burger-menu">
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </div>
+</div>
+
+{{ if and .Parent  }}
+  <div class="page-title-area item-bg-1">
+      <div class="d-table">
+          <div class="d-table-cell">
+              <div class="container">
+                  <div class="page-title-content">
+                    <h2>{{ .Title }}</h2>
+                      <ul>
+                          <li><a href="index.html">Home</a></li>
+
+                          {{ template "breadcrumb" dict "e" .Parent "h" .Site.Home}}
+                          <li>{{ .Title }}</li>
+                      </ul>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
 {{ end }}
 
 {{define "breadcrumb"}}
   {{ if and (.e) (ne .e .h) }}
     {{ template "breadcrumb" dict "e" .e.Parent "h" .h }}
-    <a href="{{.e.Permalink}}">{{ .e.Title }}</a> &gt;
+    <li><a href="{{.e.Permalink}}">{{ .e.Title }}</a></li>
   {{end}}
 {{end}}
 

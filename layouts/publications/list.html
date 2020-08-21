@@ -1,28 +1,62 @@
 {{partial "header.html" .}}
 
 <main>
-  <h1>{{ .Title }}</h1>
-  <ul>
-  {{ range ((.Pages.ByParam "title").ByParam "date").Reverse }}
-  <li>
-    <a href="{{ or .Params.link .Params.file }}">{{ .Title }}</a>
-    {{ if .Params.license }}
-      <span class="tag">{{ .Params.license }}</span>
-    {{ end }}
+  <section class="services-section pt-100 pb-100">
+    <div class="container">
+      <div class="row">
+        {{ range ((.Pages.ByParam "title").ByParam "date").Reverse }}
+        <div class="col-lg-4 col-md-6">
+          <a href="{{ or .Params.link .Params.file }}">
+            <div class="single-services">
+              <div class="icon">
+                <i class="flaticon-promotion"></i>
+              </div>
+              <h3>{{ .Title }} </h3>
+              <p>
 
-    {{ if .Content }}
-    <div class="moreinfo">
-      {{ .Content }}
-    {{ if .Params.contributors }}
-      <p>
-      Contributors: {{ delimit .Params.contributors ", " ", and "}}
-      </p>
-    {{ end }}
+              {{ if .Content }}
+              {{ .Content }}
+              {{ if .Params.contributors }}
+              <p>
+              Contributors: {{ delimit .Params.contributors ", " ", and "}}
+              </p>
+              {{ end }}
+
+              {{ if .Params.license }}
+              <span class="tag">{{ .Params.license }}</span>
+              {{ end }}
+
+              {{ end }}
+              </p>
+            </div>
+          </a>
+        </div>
+        {{ end }}
+      </div>
     </div>
-    {{ end }}
-  </li>
-  {{ end }}
-  </ul>
+
+    <div class="default-shape">
+      <div class="shape-1">
+        <img src="assets/img/shape/4.png" alt="image">
+      </div>
+
+      <div class="shape-2 rotateme">
+        <img src="assets/img/shape/5.svg" alt="image">
+      </div>
+
+      <div class="shape-3">
+        <img src="assets/img/shape/6.svg" alt="image">
+      </div>
+
+      <div class="shape-4">
+        <img src="assets/img/shape/7.png" alt="image">
+      </div>
+
+      <div class="shape-5">
+        <img src="assets/img/shape/8.png" alt="image">
+      </div>
+    </div>
+  </section>
 </main>
 
 {{partial "footer.html" .}}

@@ -1,27 +1,43 @@
 {{partial "header.html" .}}
 
 <main>
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+  <section class="project-details-area ptb-100">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 col-md-12">
 
-  <hr>
-  <h3>
-    Location : {{.Params.location}}
-    <br>
-    <br>
-    <a href="{{.Params.website}}">{{.Params.website}}</a>
-    <br>
-    <a href="mailto:{{.Params.email}}">{{.Params.email}}</a>
-    <br>
+          <div class="text">
+            <p>{{ .Content }}</p>
+          </div>
+          <div class="section-title">
+            <div class="bar"></div>
+          </div>
+          <dl>
+            <dt>Location</dt>
+            <dd>{{.Params.location}}</dd>
 
-  </h3>
-  {{if .Params.social_media}}
-    <h4>Social Media</h4>
-    {{range .Params.social_media}}
-      <a href="{{ . }}">{{ . }}</a>
-      <br>
-    {{ end }}
-  {{ end }}
+            <dt>Website</dt>
+            <dd><a href="{{.Params.website}}">{{.Params.website}}</a></dd>
+
+            {{ if .Params.email }}
+            <dt>Email</dt>
+            <dd><a href="mailto:{{.Params.email}}">{{.Params.email}}</a></dd>
+            {{ end }}
+
+            {{if .Params.social_media}}
+            <dt>Social Media</dt>
+            <dd>
+            {{range .Params.social_media}}
+            <a href="{{ . }}">{{ . }}</a>
+            <br>
+            {{ end }}
+            </dd>
+            {{ end }}
+          </dl>
+        </div>
+      </div>
+    </div>
+  </section>
 </main>
 
 {{partial "footer.html" .}}

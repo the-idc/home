@@ -1,62 +1,75 @@
 {{partial "header.html" .}}
 
 <main>
-  <h1>{{ .Title }}</h1>
-  {{ if .Params.event_date }}
-  <div><strong>Next:</strong> <span id="next">{{ .Params.event_date }}</span></div>
-  {{ end }}
-  {{ if .Params.freq }}
-  <div><strong>Frequency:</strong> <span id="recur">{{ .Params.freq }}</span></div>
-  {{ end }}
-  <div><strong>Where:</strong> {{ .Params.location }} </div>
-  <hr>
+  <section class="project-details-area ptb-100">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 col-md-12">
 
-  {{ .Content }}
+          <div class="text">
+            {{ if .Params.event_date }}
+            <div><strong>Next:</strong> <span id="next">{{ .Params.event_date }}</span></div>
+            {{ end }}
+            {{ if .Params.freq }}
+            <div><strong>Frequency:</strong> <span id="recur">{{ .Params.freq }}</span></div>
+            {{ end }}
+            <div><strong>Where:</strong> {{ .Params.location }} </div>
+            </p>
 
-  <hr>
-  <div>
-    {{ with  .OutputFormats.Get "calendar" -}}
-    <a href="{{ .Permalink | safeURL }}">Sync to your calendar</a>
-    <span> - or - </span>
-    <button id="copywebcal">Copy calendar URL</button>
-    <script>
-      document.querySelector("#copywebcal").addEventListener("click", function() {
-        const el = document.createElement('textarea');
-        el.value = "{{ .Permalink | safeURL }}";
-        el.setAttribute('readonly', '');
-        el.style.position = 'absolute';
-        el.style.left = '-9999px';
-        document.body.appendChild(el);
-        el.select();
-        document.execCommand('copy');
-        document.body.removeChild(el);
-      });
-    </script>
-    {{- end }}
-  </div>
-    <script>
-      addEventListener("load", function () {
-        const rule = rrule.RRule.fromString(
-          "DTSTART;TZID={{ .Params.timezone }}:{{ printf "%sT%s:00" .Params.event_date .Params.start | time | dateFormat "20060102T150405"  }}\n" +
-          "RRULE:FREQ={{ if .Params.freq}}{{ .Params.freq | upper }}{{ else }}WEEKLY;COUNT=1{{ end }}");
-        const d = rule.after(new Date(), true)
+          </div>
+          <div class="section-title">
+            <div class="bar"></div>
+          </div>
+          <p>{{ .Content }}</p>
+          <hr>
+          <div>
+            {{ with  .OutputFormats.Get "calendar" -}}
+            <a href="{{ .Permalink | safeURL }}">Sync to your calendar</a>
+            <span> - or - </span>
+            <button id="copywebcal">Copy calendar URL</button>
+            <script>
+              document.querySelector("#copywebcal").addEventListener("click", function() {
+                const el = document.createElement('textarea');
+                el.value = "{{ .Permalink | safeURL }}";
+                el.setAttribute('readonly', '');
+                el.style.position = 'absolute';
+                el.style.left = '-9999px';
+                document.body.appendChild(el);
+                el.select();
+                document.execCommand('copy');
+                document.body.removeChild(el);
+              });
+            </script>
+            {{- end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
-        var when;
-        var freq;
+  <script>
+    addEventListener("load", function () {
+      const rule = rrule.RRule.fromString(
+        "DTSTART;TZID={{ .Params.timezone }}:{{ printf "%sT%s:00" .Params.event_date .Params.start | time | dateFormat "20060102T150405"  }}\n" +
+        "RRULE:FREQ={{ if .Params.freq}}{{ .Params.freq | upper }}{{ else }}WEEKLY;COUNT=1{{ end }}");
+      const d = rule.after(new Date(), true)
 
-        if (d) {
-          const dl = luxon.DateTime.fromJSDate(d)
-            .toUTC()
-            .setZone('local', { keepLocalTime: true })
+      var when;
+      var freq;
+
+      if (d) {
+        const dl = luxon.DateTime.fromJSDate(d)
+          .toUTC()
+          .setZone('local', { keepLocalTime: true })
           .toFormat("DDDD ttt")
 
-          {{ if .Params.freq }}
-          document.querySelector("#recur").innerHTML = rule.toText();
-          {{ end }}
-          document.querySelector("#next").innerHTML = dl;
-        }
-      });
-    </script>
+        {{ if .Params.freq }}
+        document.querySelector("#recur").innerHTML = rule.toText();
+        {{ end }}
+        document.querySelector("#next").innerHTML = dl;
+      }
+    });
+  </script>
 </main>
 
 {{partial "footer.html" .}}
