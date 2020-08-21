@@ -24,7 +24,7 @@
     <div class="container">
       <nav class="navbar navbar-expand-md navbar-light">
         <a class="navbar-brand" href="/">
-          <img src="/logo.png" alt="logo">
+          <img src="/assets/img/logo.png" alt="logo">
         </a>
 
         <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
@@ -57,7 +57,6 @@
                     <h2>{{ .Title }}</h2>
                       <ul>
                           <li><a href="index.html">Home</a></li>
-
                           {{ template "breadcrumb" dict "e" .Parent "h" .Site.Home}}
                           <li>{{ .Title }}</li>
                       </ul>
