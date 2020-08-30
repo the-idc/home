@@ -1,5 +1,5 @@
 ---
-title: Examining Canadian Freedom
+title: How Free Are We?
 date: 2020-08-27T21:43:55.071Z
 ---
 Freedom can be seen as a measure of personal agency an individual enjoys within the framework of society. It would appear that Canadians enjoy a high degree of freedom since we place very few restrictions on personal rights. However, there there is a distinction between having theoretical freedoms and being able to exercise these freedoms in practice.
