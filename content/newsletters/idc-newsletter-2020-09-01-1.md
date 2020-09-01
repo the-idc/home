@@ -54,7 +54,7 @@ Providing universal guaranteed income is another policy that Canadians should de
 
 Reducing the cost of higher education, or making it free, should be another demand that we put to our politicians. Every Canadian should have the ability to develop their interests without having to worry about incurring a financial burden.
 
-It's time Canadians started thinking about freedom in practical terms, and that start with having the freedom to choose how we spend our time.
+It's time Canadians started thinking about freedom in practical terms, and that starts with having the freedom to choose how we spend our time.
 
 ## Credits
 
