@@ -69,7 +69,6 @@ It's time Canadians started thinking about freedom in practical terms, and that 
 * What can we learn from the WE scandal? - jonkle
 * Singh proffers NDP votes for a song - loljapes
 * How free are we? - yogthos
-
   * Image credit - [Wikipedia](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs#/media/File:Maslow's_Hierarchy_of_Needs2.svg)
 * Web support - snoe, yogthos
 * Typesetting - loljapes
