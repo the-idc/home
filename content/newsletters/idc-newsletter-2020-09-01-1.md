@@ -8,6 +8,8 @@ date: 2020-09-01T15:24:46.892Z
 
 Welcome to the September issue of the IDC newsletter. In this issue, Jonkle issues a broadside against the Liberals, Loljapes issues a broadside against the NDP and Yogthos issues a broadside against the concept of freedom itself. 
 
+---
+
 ## What can we learn from the WE scandal?
 
 A whole mess has happened between the end of July and today. [The Trudeau government got caught handing over a $900 million cookie jar to WE Charity](https://www.cbc.ca/news/politics/wecharity-trudeau-mario-dion-probe-1.5637195) in the middle of a pandemic and responded by [replacing Finance Minister Bill Morneau](https://globalnews.ca/news/7282904/bill-morneau-steps-down/), a guy most of us have probably never heard of, [in favour of Deputy Prime Minister and former Foreign Affairs Minister Chrystia Freeland](https://www.cbc.ca/news/politics/trudeau-cabinet-finance-minister-1.5690404), a woman we’re all [starting to hear an awful lot about](https://globalnews.ca/news/7291527/chrystia-freeland-finance-portfolio/). Then the Liberals [turned the government off until September 23rd](https://www.cbc.ca/news/politics/liberal-government-trudeau-prorogue-government-1.5690515).
@@ -22,6 +24,8 @@ The exception to this rule is the [Wet’suwet’en solidarity protests in early
 
 So perhaps it’s better to say that the Liberals keep getting away with these scandals not because they’re slippery, but because we let them. They’ll perform theatrics that shift blame to scapegoats like Morneau, or prevent investigation through the Parliamentary legerdemain of prorogation, all the while preparing new cast members like Freeland to keep the show going, because they know we won't do anything about it. When we settle for the symbolic hand-wringing apologies, Cabinet shuffling, and some performed shame, the Liberals are more or less invincible. But when our response is material—when we show our frustration by directly affecting the country’s ability to function—then we force the government’s response to be material as well.
 
+---
+
 ## Singh proffers NDP votes for a song
 
 Facing a grand total of [four parliamentary committee investigations](https://globalnews.ca/news/7283553/justin-trudeau-prorogation-coronavirus/) into government misconduct in the WE charity saga, Justin Trudeau followed a time-honored strategy, beloved by all Canadian Prime Ministers embroiled in scandal, and prorogued parliament on August 18 until September 23. Smelling blood (or at the very least, votes) the Bloc Quebecois leader Yves-Francois Blanchet had already [threatened to force a confidence vote](https://nationalpost.com/news/politics/senate-meets-to-vote-on-bill-on-wage-subsidy-disability-payments-for-covid-19) against the minority Liberal government this fall unless Bloc demands for the resignation of Trudeau, Bill Morneau and Katie Telford were met. The resignation of Morneau on August 17 means the Bloc can cross one name off their hit-list. But without the departure of Trudeau it's unlikely this will make a difference, meaning, come September, the Liberals will most likely have to rely on NDP votes to avoid triggering a new election. 
@@ -29,6 +33,8 @@ Facing a grand total of [four parliamentary committee investigations](https://gl
 Jagmeet Singh has already laid out some demands he expects the Liberals to address if they want NDP support in the upcoming confidence vote: The first is a demand for $10 billion over 4 years for childcare provision and the second is a demand to extend CERB payouts and permanently increase the scope of the EI system. While there's nothing wrong with these goals in themselves, their lack of ambition does suggest that the NDP doesn't fully understand the leverage it currently possesses with the Liberals. The Bloc Quebecois have already said that nothing short of the departure of Trudeau would compel them to support a throne speech and the Conservatives, with their newly minted leader Erin O'Toole spoiling for a fight, are even more unlikely to come to the Liberals' aid. The NDP wishlist seems particularly pathetic because the Liberals already promised a childcare fix in their [last party platform in 2019](https://www2.liberal.ca/wp-content/uploads/sites/292/2019/09/Forward-A-real-plan-for-the-middle-class.pdf), and employment minister Carla Qualtrough has recently signaled there will be some movement on [EI benefits for the self-employed and women](https://www.cbc.ca/radio/thehouse/jagmeet-singh-tallies-up-the-price-for-ndp-to-support-fall-throne-speech-chris-hall-1.5695293) in the upcoming throne speech. 
 
 Do the NDP regard themselves as a mere ombudsman of the Liberal party—making sure Trudeau delivers on promises he's already made? Or does the NDP have a unique vision of how Canada could look after its people, a vision better than what the Liberals offer? If the latter, why doesn't Singh use this moment to highlight the differences between NDP and Liberal visions of the future? The NDP has exciting ideas to reduce inequality with a wealth tax, replace Canada's patchwork healthcare system with truly universal coverage, strengthen democracy through electoral reform and more. Through their own parliamentary meddling the Liberals have gifted the NDP an opportunity to push to get some of these ideas enacted, or at the very least, to highlight to Canadians that it is the Liberal party that stands in the way of getting these progressive policies adopted. When Singh declines to make these policies a part of his opening bid in the negotiation with the Liberals to prop up Trudeau's administration he fails both the NDP and Canada's left more broadly.
+
+---
 
 ## How free are we?
 
@@ -56,12 +62,13 @@ Reducing the cost of higher education, or making it free, should be another dema
 
 It's time Canadians started thinking about freedom in practical terms, and that starts with having the freedom to choose how we spend our time.
 
+---
+
 ## Credits
 
 * What can we learn from the WE scandal? - jonkle
 * Singh proffers NDP votes for a song - loljapes
 * How free are we? - yogthos
-
   * Image credit - [Wikipedia](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs#/media/File:Maslow's_Hierarchy_of_Needs2.svg)
 * Web support - snoe, yogthos
 * Typesetting - loljapes
