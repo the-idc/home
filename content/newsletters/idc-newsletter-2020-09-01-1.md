@@ -58,7 +58,7 @@ There are several ways we could combat this problem. The number of hours in the 
 
 Providing universal guaranteed income is another policy that Canadians should demand. Creating a stronger social safety net would dramatically lower the risk associated with switching careers, starting a businesses, or getting higher education. This would directly lead to increased freedoms for Canadians by creating more opportunities for self-actualization.
 
-Reducing the cost of higher education, or making it free, should be another demand that we put to our politicians. Every Canadian should have the ability to develop their interests without having to worry about incurring a financial burden.
+Reducing the cost of higher education, or making it free, is another demand that we must put to our politicians. Every Canadian should have the ability to develop their interests without having to worry about incurring a financial burden.
 
 It's time Canadians started thinking about freedom in practical terms, and that starts with having the freedom to choose how we spend our time.
 
