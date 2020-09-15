@@ -184,6 +184,11 @@ img {
   color: #ffffff;
 }
 
+.default-btn:focus {
+  background-color: #10dce8;
+  color: #ffffff;
+}
+
 .optional-btn {
   display: inline-block;
   padding: 14px 35px;
@@ -196,6 +201,11 @@ img {
 }
 
 .optional-btn:hover {
+  background-color: #086AD8;
+  color: #ffffff;
+}
+
+.optional-btn:focus {
   background-color: #086AD8;
   color: #ffffff;
 }
