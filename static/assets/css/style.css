@@ -3049,6 +3049,10 @@ Banner Area Six CSS
   margin-top: 30px;
 }
 
+.main-banner-area-six .main-banner-content .banner-btn a {
+  margin-top: 5px;
+}
+
 .main-banner-area-six .banner-image {
   margin-top: 0;
   text-align: right;
