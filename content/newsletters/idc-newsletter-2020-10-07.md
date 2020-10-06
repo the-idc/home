@@ -10,14 +10,24 @@ Welcome to the October issue of the IDC newsletter. We missed the usual first-da
 
 ## Super Dialecticacular Spectacular – Day 1
 
+**James Wilt – Author of ['Do Androids Dream of Electric Cars?'](https://btlbooks.com/book/do-androids-dream-of-electric-cars)** 
 
-**James Wilt – Author of ['Do Androids Dream of Electric Cars?'](https://btlbooks.com/book/do-androids-dream-of-electric-cars) **
+Wilt began his talk by saying that, although he was here to promote the idea of free transit, in the real world we need a push on all fronts in order to create a more just society. Whether this was a touching call for solidarity or a polite way for Wilt to say he rejected the very premise of the super dialecticacular spectacular we will leave for the reader to decide. 
 
-**Mumilaaq Qaqqaq – [MP for Nunavut](https://www.ourcommons.ca/Members/en/mumilaaq-qaqqaq(105927)) **
+Wilt's proposal is that the government should make public transport of all types free at the point of use. He pointed out that transit fees are an incredibly regressive way to fund transportation services and critiqued more generally the current model of funding transportation where the federal government is responsible for splashy capital infrastructure investment while municipalities get stuck with day-to-day operating costs. 
+
+Wilt pointed out the following benefits of free transit: 
+
+* It increases ridership and efficiency of transport (in terms of energy use per person). 
+* It allows even the most marginalized people to participate in transit services, which can fail to happen when fares are levied, even if the amount charged is nominal 
+* Removing the need to collect fares increases the speed of service for certain forms of transport (especially busses)
+* Removing fare collection also decreases the number of unpleasant confrontations between transit workers and members of the public as fare collection often creates flash-points between these two groups. 
+
+**Mumilaaq Qaqqaq – [MP for Nunavut](https://www.ourcommons.ca/Members/en/mumilaaq-qaqqaq(105927))** 
 
 **Aidan Jonah – Co-founder, [The Canada Files](https://www.thecanadafiles.com/)**
 
-**Christo Avialis – Writer and [Youtuber](https://www.youtube.com/c/ChristoAivalisPolitics/videos) **
+**Christo Avialis – Writer and [Youtuber](https://www.youtube.com/c/ChristoAivalisPolitics/videos)** 
 
 **Shawn Vulliez – Co-host, [SRSLY Wrong Podcast](https://srslywrong.com/)**
 
@@ -27,7 +37,7 @@ Welcome to the October issue of the IDC newsletter. We missed the usual first-da
 
 **[Semir Bulle](https://twitter.com/SemirBulle) – Co-founder, [Doctors for Defunding the Police](http://doctorsfordefundingpolice.com/)**
 
-We need for police abolition and the way law enforcement forces the vast majority of non-white and well-off people into far more dangerous lifestyles than they deserve. It’s important to organize around these issues not just in at-risk communities, but also in those white and well-of areas, because of how much more attention institutions and authorities will give to voices coming from the latter communities. Essentially, the system’s racist, so we’ve got to use that to our advantage.
+We need police abolition and an end to the way law enforcement forces the vast majority of non-white and well-off people into far more dangerous lifestyles than they deserve. It’s important to organize around these issues not just in at-risk communities, but also in those white and well-of areas, because of how much more attention institutions and authorities will give to voices coming from the latter communities. Essentially, the system’s racist, so we’ve got to use that to our advantage.
 
 At a viewer’s request Semir also described the contradictions between healthcare rhetoric and working conditions. While doctors’ classroom years insist students are connected to a community, their rotations and residency grind that messaging away in favour of extracting as much cheap labour from them as possible. It is a very difficult environment to get by in due to it being illegal for healthcare workers to strike, and desperately needs organization.
 
@@ -57,16 +67,15 @@ The Canadian left is severely lacking in the field of media. There’s not enoug
 
 The very first Super Dialectacular Spectacular was a rousing success. At time of writing we’re still uploading and editing the panel videos, but the information and advice they provide is absolutely incredible. Overall the message seemed to boil down to three main ideas:
 
-<!--\\\[if !supportLists]-->- <!--\\\[endif]-->We have to understand our history, and the history of others, and move past binary black-and-white thinking when tackling issues or having conversations.
+<!--\\\\[if !supportLists]-->- <!--\\\\[endif]-->We have to understand our history, and the history of others, and move past binary black-and-white thinking when tackling issues or having conversations.
 
-<!--\\\[if !supportLists]-->- <!--\\\[endif]-->We need to get off the internet and go outside and talk to people. To be good at that, we have to stop trying to turn everyone into perfect socialists and instead form community solidarity—where we act as per our ability, and request as per our need.
+<!--\\\\[if !supportLists]-->- <!--\\\\[endif]-->We need to get off the internet and go outside and talk to people. To be good at that, we have to stop trying to turn everyone into perfect socialists and instead form community solidarity—where we act as per our ability, and request as per our need.
 
-<!--\\\[if !supportLists]-->- <!--\\\[endif]-->We need to collaborate and amplify each other. We are a community united in common cause, and can’t keep going on in insular communities across the country.
+<!--\\\\[if !supportLists]-->- <!--\\\\[endif]-->We need to collaborate and amplify each other. We are a community united in common cause, and can’t keep going on in insular communities across the country.
 
 Alongside these tenets there were a number of initiatives proposed and suggested, and we need **your** help to decide which one to focus on first. Watch the panels yourselves as they become available, and then go to **[joinidc.co/vote](joinidc.co/vote)** to cast your vote for which idea you thought the best.
 
 ## Why 'moderate livelihood' may never mean anything
-
 
 On September 17, 2020 a Mik’maw community in Nova Scotia [launched its own moderate livelihood lobster fishery](https://www.cbc.ca/news/canada/nova-scotia/mikmaw-fishermen-self-regulated-fishery-lower-saulnierville-1.5727920), as is their proven treaty right under [R v Marshall (1999)](https://www.rcaanc-cirnac.gc.ca/eng/1100100028614/1539611557572). The fishery launched outside of the typical Nova Scotian lobster season, which starts on the last Monday of November, and under the excuse of conservation Nova Scotian lobster fishers blockaded Mik’maw boats, stole their traps and gear, and threatened anyone who was suspected of buying their lobster by sending mobs to their houses, and most recently [set a Mik’maw boat on fire](https://ca.news.yahoo.com/mikmaw-fishing-vessel-damaged-suspicious-162054610.html?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8_dD1mZmFiJnE9bWlrbWF3K2JvYXQrYnVybmVkJmlhPXdlYg&guce_referrer_sig=AQAAAL-HO1XRpzlSGcXr0981eMLcJJEh17VwdrO-BTfYKu321a_vO7m5J6P9mklu7M408OV3NpsAA_76zYpHKPcN5B_Z6l1cilDfWm6oY2zHwNZJFsOD-8bfx9iPT6u7O-M0AlDkHKs9eJcbIVekJUC06SjM4_8PCJUtsTpF2FacRcLq). Gas stations also refused to service Mik’maw customers. [The Mik’maw Chiefs declared a state of emergency.](https://nsadvocate.org/2020/09/18/media-release-mikmaw-chiefs-declare-a-state-of-emergency/)
 
@@ -92,6 +101,4 @@ Anyone following the management of the pandemic in Ontario might have had doubts
 
 While it's fun to skewer the Ford government for its contradictory and ascientific COVID policy, I think there's a deeper issue with how society has been able to respond to the COVID crisis. The truth of the matter is that 'the science' only gets you so far. Scientific investigation can answer narrow questions about, for example, the usefulness of mask wearing, or the efficacy of a vaccine. But pandemic management is not simply about collating lists of interventions that work and don't work. Almost every intervention has some cost associated with it and the cost of any given intervention may not be borne by all people equally. I think its possible that one society, looking at the costs associated with keeping children out of school for upwards of a year, might decide they were willing to tolerate the greater risk of transmission associated with class cohorts of 15. Another society might value safety and education equally highly and decide to bear the extra cost associated with hiring extra teachers to reopen schools with cohorts of 10 students. Nearly all the decisions that need to be made regarding pandemic management are political decisions, and we normally believe that political decisions should have some sort of democratic input. However, at the moment, in almost every democratic country, the leaders making political decisions about who will be exposed to what amount of risk were elected before the COVID crisis. 
 
-Of course, once elected, politicians always end up making decisions without further democratic input that profoundly affect people's lives. The COVID crisis has merely raised the stakes of these decisions, and made the blatantly partisan decisions more viscerally objectionable. But once we've concluded that this happens, and is unfair, where do we go? I think people's slow realisation of their own voicelessness, even in nominally democratic countries, has caused a lot of diffuse anger and resentment over the course of this year. I think one way to remedy this would be to create new democratic processes to give people direct input into decisions that impact their lives. In next month's newsletter I'll try and explore what these processes could look like.  
-
-
+Of course, once elected, politicians always end up making decisions without further democratic input that profoundly affect people's lives. The COVID crisis has merely raised the stakes of these decisions, and made the blatantly partisan decisions more viscerally objectionable. But once we've concluded that this happens, and is unfair, where do we go? I think people's slow realisation of their own voicelessness, even in nominally democratic countries, has caused a lot of diffuse anger and resentment over the course of this year. I think one way to remedy this would be to create new democratic processes to give people direct input into decisions that impact their lives. In next month's newsletter I'll try and explore what these processes could look like.
