@@ -98,15 +98,15 @@ The Canadian left is severely lacking in the field of media. There’s not enoug
 
 **Conclusion**
 
-The very first Super Dialectacular Spectacular was a rousing success. At time of writing we’re still uploading and editing the panel videos, but the information and advice they provide is absolutely incredible. Overall the message seemed to boil down to three main ideas:
+The very first Super Dialecticacular Spectacular was a rousing success. Overall the message seemed to boil down to three main ideas:
 
-<!--\\\\\[if !supportLists]-->- <!--\\\\\[endif]-->We have to understand our history, and the history of others, and move past binary black-and-white thinking when tackling issues or having conversations.
+* We have to understand our history, and the history of others, and move past binary black-and-white thinking when tackling issues or having conversations.
 
-<!--\\\\\[if !supportLists]-->- <!--\\\\\[endif]-->We need to get off the internet and go outside and talk to people. To be good at that, we have to stop trying to turn everyone into perfect socialists and instead form community solidarity—where we act as per our ability, and request as per our need.
+* We need to get off the internet, go outside and talk to people. To be good at that, we have to stop trying to turn everyone into perfect socialists and instead form community solidarity—where we act as per our ability, and request as per our need.
 
-<!--\\\\\[if !supportLists]-->- <!--\\\\\[endif]-->We need to collaborate and amplify each other. We are a community united in common cause, and can’t keep going on in insular communities across the country.
+* We need to collaborate and amplify each other. We are a community united in common cause, and can’t keep going on in insular communities across the country.
 
-Alongside these tenets there were a number of initiatives proposed and suggested, and we need **your** help to decide which one to focus on first. Watch the panels yourselves as they become available, and then go to **[joinidc.co/vote](joinidc.co/vote)** to cast your vote for which idea you thought the best.
+Alongside these tenets there were a number of initiatives proposed and suggested, and we need **your** help to decide which one to focus on first. Watch the panels yourselves and then go to **[joinidc.co/vote](joinidc.co/vote)** to cast your vote for which idea you thought the best.
 
 ## Why 'moderate livelihood' may never mean anything
 
