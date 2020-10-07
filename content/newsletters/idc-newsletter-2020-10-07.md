@@ -135,3 +135,12 @@ Anyone following the management of the pandemic in Ontario might have had doubts
 While it's fun to skewer the Ford government for its contradictory and ascientific COVID policy, I think there's a deeper issue with how society has been able to respond to the COVID crisis. The truth of the matter is that 'the science' only gets you so far. Scientific investigation can answer narrow questions about, for example, the usefulness of mask wearing, or the efficacy of a vaccine. But pandemic management is not simply about collating lists of interventions that work and don't work. Almost every intervention has some cost associated with it and the cost of any given intervention may not be borne by all people equally. I think its possible that one society, looking at the costs associated with keeping children out of school for upwards of a year, might decide they were willing to tolerate the greater risk of transmission associated with class cohorts of 15. Another society might value safety and education equally highly and decide to bear the extra cost associated with hiring extra teachers to reopen schools with cohorts of 10 students. Nearly all the decisions that need to be made regarding pandemic management are political decisions, and we normally believe that political decisions should have some sort of democratic input. However, at the moment, in almost every democratic country, the leaders making political decisions about who will be exposed to what amount of risk were elected before the COVID crisis. 
 
 Of course, once elected, politicians always end up making decisions without further democratic input that profoundly affect people's lives. The COVID crisis has merely raised the stakes of these decisions, and made the blatantly partisan decisions more viscerally objectionable. But once we've concluded that this happens, and is unfair, where do we go? I think people's slow realisation of their own voicelessness, even in nominally democratic countries, has caused a lot of diffuse anger and resentment over the course of this year. I think one way to remedy this would be to create new democratic processes to give people direct input into decisions that impact their lives. In next month's newsletter I'll try and explore what these processes could look like.
+
+## Credits
+
+* Super Dialecticacular Spectacular – Day 1 - loljapes
+* Super Dialecticacular Spectacular – Day 2 - jonkle
+* Why 'moderate livelihood' may never mean anything - jonkle
+* COVID and Democracy: Part 1 - loljapes
+* Web support - snoe, yogthos
+* Typesetting - loljapes
