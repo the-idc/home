@@ -10,6 +10,14 @@ Welcome to the October issue of the IDC newsletter. We missed the usual first-da
 
 ## Super Dialecticacular Spectacular – Day 1
 
+**Nora Loreto – Co-host, [Sandy and Nora Podcast](https://sandyandnora.com/)**
+
+Loreto began her talk by laying out some of the problems she sees with the contemporary Canadian left. She pointed out that most left spaces in Canada are dominated by white settlers who don't practice what they imagine to be the solution to colonialism. Loreto sees the NDP as an example of this phenomena, saying that the NDP prefers to operate within a colonial framework rather than opposing it from without. 
+
+Loreto stated that while she thought unions could be effective institutions to fight colonialism, the left shouldn't expect to be lead by higher-ups within the union movement. In her view, unions can be forces for progressive change but only when forced to be by a muscular left. She argued that much of the current-day institutional left in Canada has its origins in the nineties and said that she feels as if the mentality of the left is still stuck in a post 9/11 universe. 
+
+Loreto said she saw value in the fight for land-back for indigenous people and said the most important input people could have in this fight is to do what land-back organizations ask of them. When asked by the host if there were any international organizations that she found promising, she said that there weren't. However, she did cite her experience working with an Occupy group to provide mutual aid to victims of hurricane Sandy as a more constructive form of political action than lobbying for government intervention. 
+
 **James Wilt – Author of ['Do Androids Dream of Electric Cars?'](https://btlbooks.com/book/do-androids-dream-of-electric-cars)** 
 
 Wilt began his talk by saying that, although he was here to promote the idea of free transit, in the real world we need a push on all fronts in order to create a more just society. Whether this was a touching call for solidarity or a polite way for Wilt to say he rejected the very premise of the super dialecticacular spectacular we will leave for the reader to decide. 
@@ -52,9 +60,11 @@ Avialis offered his advice as to the sorts of leftie media he thinks could succe
 
 **Shawn Vulliez – Co-host, [SRSLY Wrong Podcast](https://srslywrong.com/)**
 
+Vulliez's idea to save the world will be familiar to anyone who's listened to his SRSLY Wrong podcast: library socialism. Vulliez started with the observation that when we think about capitalist institutions that bring people the most enjoyment in their lives, such as shopping malls, we realize that what people like isn't paying for things or participating in the 'free market', but instead the ability to get access to things with relative ease. Vulliez pointed out that the humble institution of the local library is in some ways an improvement on the mall as it allows people access to a certain subset of things they want free of charge. 
 
+Developing his idea, Vulliez said that the current ecological crisis we face is actually a social crisis, underpinned by the fact that we have privileged a particular type of property relation in most of our institutions and laws; namely the idea that someone who possesses something has the right to dispose of it in any way they see fit. Vulliez would prefer us to build institutions around the principle of 'usufruct', items (or information) would be held in common ownership by library-like organizations with people given the right to use, and perhaps even profit, from them, but not the right to destroy them or deny other people the use of items not currently being used by anybody else.
 
-**Nora Loreto – Co-host, [Sandy and Nora Podcast](https://sandyandnora.com/)**
+Vulliez detailed his vision for how the left could organize around achieving library socialism. He said the left should embrace 'an ecology of tactics' (i.e. attempt many things and see what works). He was eager that the left build the institutions now that will protect the vulnerable through turbulent times, be it ecological collapse or revolution. He also touched on his concept of 'sweetie-pie' politics, saying it was useful to engage with existing social institutions in a non-cynical way in order to highlight the gap between the stated goals of given organizations and the actual actions they take in the world. 
 
 ## Super Dialecticacular Spectacular – Day 2
 
