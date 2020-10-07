@@ -23,13 +23,36 @@ Wilt pointed out the following benefits of free transit:
 * Removing the need to collect fares increases the speed of service for certain forms of transport (especially busses)
 * Removing fare collection also decreases the number of unpleasant confrontations between transit workers and members of the public as fare collection often creates flash-points between these two groups. 
 
+He also responded to some of the common critiques he hears about instituting free transport (e.g. But what if homeless people use it?). 
+
 **Mumilaaq Qaqqaq – [MP for Nunavut](https://www.ourcommons.ca/Members/en/mumilaaq-qaqqaq(105927))** 
+
+Qaqqaq began her talk by giving a short introduction of herself. She pointed out that while she is commonly thought of as purely Inuit, she is actually mixed race (her mother is Danish) and she said that this background helped her see the grey areas in issues which other people regard as black-and-white. 
+
+Qaqqaq moved on to give a brief rundown of the various persecutions indigenous people in Nunavut have faced at the hands of Canada in the last hundred years. She mentioned RCMP violence in majority indigenous communities, the government killing of sled dogs, the sixties scoop and the forced relocation of Inuit people from North Quebec to Nunavut in the 1950s. She also touched on present day issues such as indigenous healthcare and the government's treatment of Wet'suwet'en protesters. 
+
+In response to viewer questions, Qaqqaq spoke about what it was like to take her seat in Parliament. She said that in the beginning the experience was so overwhelming she would take the elevator between floors instead of the stairs to get some alone time. She also recounted the experience of having someone in the streets of Ottawa shout racist abuse at her when she was with her family and said she even as an MP she still feels unsafe when travelling alone in Canada outside of Nunavut. 
+
+When asked of international examples she looked to as models of how to handle indigenous issues, Qaqqaq mentioned programs in Greenland and New Zealand that she thought had been well handled. She also asked people interested in these issues to follow her on social media, listen to her podcast and contact her office. 
 
 **Aidan Jonah – Co-founder, [The Canada Files](https://www.thecanadafiles.com/)**
 
+Jonah began his talk by explaining how he came to found The Canada Files. He said he had started in journalism by writing pieces for other news outlets but had become frustrated when he was blocked from covering a student strike because his piece was deemed to be insufficiently neutral. 
+
+Jonah said he thought the left's top priority should be creating a network of left-wing journalists that could support one another and cover Canadian issues from a leftie perspective. He pointed to right-wing projects in America that he believed were able to effectively mobilize people around conservative issues as a potential model. He also highlighted the creation of Harbinger Media Network as a positive development in the podcast space and bemoaned the lack of a similar organization for leftie written media.
+
+Responding to host questions Jonah also gave a critique of mainstream media outlets such as CBC and Global News and gave his advice on how to consume media critically.  
+
+
 **Christo Avialis – Writer and [Youtuber](https://www.youtube.com/c/ChristoAivalisPolitics/videos)** 
 
+The main thesis in Avialis' talk was that leftist content creators on sites like Youtube (which use algorithims to deliver content to users) need to get a lot cleverer about gaming these platforms to get their content to the biggest possible audiences. He pointed out that independent channels covering political news on Youtube are already disfavored by the Youtube algorithm, which preferences videos from mainstream media sources such as cable news channels. Avialis said that right-wing creators had found ways to get around this by cross-promoting one another, as an example he cited the fact the Candace Owen will often appear of Ben Shapiro's channel, which allows the audiences of both people to cross-pollinate.  
+
+Avialis offered his advice as to the sorts of leftie media he thinks could succeed on Youtube. He said the top consideration must be creating something people are actually interested in watching, and said that he saw a gap in the market for shorter (4-10 minute) leftist content on Youtube. He pointed to the Gravel Institute as an organization he thinks could do a good job at counter-programing content from right wing channels such as Prager U. He also gave a number of ways content creators can maximize the chance that the Youtube algorithm will deliver their content to viewers, including tips on how to name videos. 
+
 **Shawn Vulliez – Co-host, [SRSLY Wrong Podcast](https://srslywrong.com/)**
+
+
 
 **Nora Loreto – Co-host, [Sandy and Nora Podcast](https://sandyandnora.com/)**
 
@@ -67,11 +90,11 @@ The Canadian left is severely lacking in the field of media. There’s not enoug
 
 The very first Super Dialectacular Spectacular was a rousing success. At time of writing we’re still uploading and editing the panel videos, but the information and advice they provide is absolutely incredible. Overall the message seemed to boil down to three main ideas:
 
-<!--\\\\[if !supportLists]-->- <!--\\\\[endif]-->We have to understand our history, and the history of others, and move past binary black-and-white thinking when tackling issues or having conversations.
+<!--\\\\\[if !supportLists]-->- <!--\\\\\[endif]-->We have to understand our history, and the history of others, and move past binary black-and-white thinking when tackling issues or having conversations.
 
-<!--\\\\[if !supportLists]-->- <!--\\\\[endif]-->We need to get off the internet and go outside and talk to people. To be good at that, we have to stop trying to turn everyone into perfect socialists and instead form community solidarity—where we act as per our ability, and request as per our need.
+<!--\\\\\[if !supportLists]-->- <!--\\\\\[endif]-->We need to get off the internet and go outside and talk to people. To be good at that, we have to stop trying to turn everyone into perfect socialists and instead form community solidarity—where we act as per our ability, and request as per our need.
 
-<!--\\\\[if !supportLists]-->- <!--\\\\[endif]-->We need to collaborate and amplify each other. We are a community united in common cause, and can’t keep going on in insular communities across the country.
+<!--\\\\\[if !supportLists]-->- <!--\\\\\[endif]-->We need to collaborate and amplify each other. We are a community united in common cause, and can’t keep going on in insular communities across the country.
 
 Alongside these tenets there were a number of initiatives proposed and suggested, and we need **your** help to decide which one to focus on first. Watch the panels yourselves as they become available, and then go to **[joinidc.co/vote](joinidc.co/vote)** to cast your vote for which idea you thought the best.
 
