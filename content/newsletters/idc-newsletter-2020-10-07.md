@@ -103,7 +103,7 @@ The very first Super Dialectacular Spectacular was a rousing success. Overall th
 * We need to get off the internet, go outside and talk to people. To be good at that, we have to stop trying to turn everyone into perfect socialists and instead form community solidarity—where we act as per our ability, and request as per our need.
 * We need to collaborate and amplify each other. We are a community united in common cause, and can’t keep going on in insular communities across the country.
 
-Alongside these tenets there were a number of initiatives proposed and suggested, and we need **your** help to decide which one to focus on first. Watch the panels yourselves and then go to **[joinidc.co/vote](joinidc.co/vote)** to cast your vote for which idea you thought the best.
+Alongside these tenets there were a number of initiatives proposed and suggested, and we need **your** help to decide which one to focus on first. Watch the panels yourselves and then go to **[joinidc.co/vote](https://docs.google.com/forms/d/e/1FAIpQLSfYHZ68upS4-Swu4CIXmn2apNKnWwytI6R8K5PEBYfXUvUIsA/viewform)** to cast your vote for which idea you thought the best.
 
 ## Why 'moderate livelihood' may never mean anything
 
