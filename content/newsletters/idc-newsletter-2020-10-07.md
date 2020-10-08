@@ -8,7 +8,7 @@ date: 2020-10-06T16:16:31.626Z
 
 Welcome to the October issue of the IDC newsletter. We missed the usual first-day-of-the-month publication date for this issue because we wanted to report on an IDC event that took place last weekend. The Super Dialectacular Spectacular was a two-day conference where various Canadian lefties made a case for the issue they see as most important for the left to be working on. You can watch all the presentations from the conference [here](https://www.youtube.com/channel/UCQgLTo9TA3IM1fBfk-eWGfw/videos?app=desktop) (or read our summaries below) and vote for the ideas you like best [here](https://docs.google.com/forms/d/e/1FAIpQLSfYHZ68upS4-Swu4CIXmn2apNKnWwytI6R8K5PEBYfXUvUIsA/viewform) (there are prizes). We also have newsletter contributions from Jonkle and Loljapes.
 
-## Super Dialecticacular Spectacular – Day 1
+## Super Dialectacular Spectacular – Day 1
 
 **Nora Loreto – Co-host, [Sandy and Nora Podcast](https://sandyandnora.com/)**
 
@@ -65,7 +65,7 @@ Developing his idea, Vulliez said that the current ecological crisis we face is 
 
 Vulliez detailed his vision for how the left could organize around achieving library socialism. He said the left should embrace 'an ecology of tactics' (i.e. attempt many things and see what works). He was eager that the left build the institutions now that will protect the vulnerable through turbulent times, be it ecological collapse or revolution. He also touched on his concept of 'sweetie-pie' politics, saying it was useful to engage with existing social institutions in a non-cynical way in order to highlight the gap between the stated goals of given organizations and the actual actions they take in the world. 
 
-## Super Dialecticacular Spectacular – Day 2
+## Super Dialectacular Spectacular – Day 2
 
 **[Semir Bulle](https://twitter.com/SemirBulle) – Co-founder, [Doctors for Defunding the Police](http://doctorsfordefundingpolice.com/)**
 
