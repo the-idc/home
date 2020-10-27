@@ -4,7 +4,7 @@ date: 2020-10-27T00:01:34.382Z
 ---
 Jagmeet Singh recently proposed [a super-wealth tax](https://www.cbc.ca/news/canada/hamilton/jagmeet-singh-ndp-super-wealth-tax-hamilton-1.5277626) that would raise $5.6 billion in the first year, and around $70 billion over the next decade. This money would help offset the current recession providing an alternative path to austerity.
 
-The proposal was [met with enthusiasm](https://www.monbiot.com/2011/11/07/the-self-attribution-fallacy/) by most Canadians, and [similar measures](https://www.youtube.com/watch?v=PoZDe-WTlLs) have been proven to work in the past during the war time. However, some argue against the proposal stating that it punishes success, and will lead to successful entrepreneurs leaving Canada for greener pastures.
+The proposal was [met with enthusiasm](https://www.monbiot.com/2011/11/07/the-self-attribution-fallacy/) by most Canadians, and [similar measures](https://www.youtube.com/watch?v=PoZDe-WTlLs) have been proven to work in the past. However, some argue against the proposal stating that it punishes success, and will lead to successful entrepreneurs leaving Canada for greener pastures.
 
 To see whether this is a legitimate concern we have to consider the factors that lead to success. One popular idea is that success is the result of hard work, skill, and determination. This idea is otherwise known as meritocracy. The individuals who do the work become successful, and thus deserve to reap the rewards of their success.
 
