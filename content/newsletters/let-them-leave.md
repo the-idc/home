@@ -10,7 +10,7 @@ To see whether this is a legitimate concern we have to consider the factors that
 
 However, mounting evidence suggests that the dominant factor in success is actually luck as opposed to any inherent property of the individual. It turns out that being born into a rich family, having the freedom to pursue your interests, being provided with business connections, etc., etc. create the opportunities necessary for success.
 
-Viewing success through the lens of meritocracy paints a false narrative of who becomes successful and why. Meritocracy suggests that successful people have done something extraordinary that can't be accomplished by majority of people as opposed to having simply gotten lucky. In fact, Michael Young originally coined the term to [ridicule the idea of such a society](https://en.wikipedia.org/wiki/TheRiseoftheMeritocracy).
+Viewing success through the lens of meritocracy paints a false narrative of who becomes successful and why. Meritocracy suggests that successful people have done something extraordinary that can't be accomplished by majority of people as opposed to having simply gotten lucky. In fact, Michael Young originally coined the term to [ridicule the idea of such a society](https://en.wikipedia.org/wiki/The_Rise_of_the_Meritocracy).
 
 The reality of the situation is that the merits of the individual are eclipsed by factors that are largely out of their control. People born into money have a head start in life by having more doors open for them. An average person has to spend majority of their week doing hard work just to put food on the table and have a roof over their head. Meanwhile, a rich person is free to pursue their interests and passions without having to worry how they're going to sustain themselves.
 
@@ -22,4 +22,4 @@ Therefore, the fear that successful individuals will leave Canada due to higher 
 
 Furthermore, given the role that luck is the dominant factor in success, it's only logical to distribute the wealth of the country fairly as opposed to allowing it to concentrate with the lucky few.
 
-We'd be much better off with a system that provides empowers majority of the individuals to pursue their interests instead of having to play a lottery to chase success. This system is socialism.
+We'd be much better off with a system that empowers majority of the individuals to pursue their interests instead of having to play a lottery to chase success. This system is socialism.
