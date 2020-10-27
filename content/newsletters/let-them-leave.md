@@ -14,7 +14,7 @@ Viewing success through the lens of meritocracy paints a false narrative of who 
 
 The reality of the situation is that the merits of the individual are eclipsed by factors that are largely out of their control. People born into money have a head start in life by having more doors open for them. An average person has to spend majority of their week doing hard work just to put food on the table and have a roof over their head. Meanwhile, a rich person is free to pursue their interests and passions without having to worry how they're going to sustain themselves.
 
-Unfortunately, successful people themselves often suffer the effects of self-attribution fallacy where they see their success as the product of their hard work. In fact, there is an entire cottage industry peddling self help miracles guaranteed to unlock the path to success by following the same steps that the lucky few followed.
+Unfortunately, successful people themselves often suffer the effects of [self-attribution fallacy](https://www.monbiot.com/2011/11/07/the-self-attribution-fallacy/) where they see their success as the product of their hard work. In fact, there is an entire cottage industry peddling self help miracles guaranteed to unlock the path to success by following the same steps that the lucky few followed.
 
 The notion of meritocracy helps perpetuate an unfair system where most people are not able to realize their full potential. Meanwhile, a small number of successful individuals are placed on a pedestal. We must reject this idea and look success in a wholistic fashion considering the individual along with the opportunities they were afforded on their way to becoming successful.
 
