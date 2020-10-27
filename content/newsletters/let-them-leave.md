@@ -20,6 +20,4 @@ The notion of meritocracy helps perpetuate an unfair system where most people ar
 
 Therefore, the fear that successful individuals will leave Canada due to higher taxes is fundamentally misplaced. Instead of viewing these people leaving as a loss we should see it as an opportunity. A wealth tax will create a way to filter out businesses that do not want to pay their fair share, and cultivate the ones that do.
 
-Furthermore, given the dominant role that luck plays in success, it's only logical to distribute the wealth of the country fairly as opposed to allowing it to concentrate in the hands of the lucky few.
-
-We'd be much better off with a system that empowers the majority of individuals to pursue their interests instead of having to play a lottery to chase success. This system is socialism.
+Furthermore, given the dominant role that luck plays in success, it's only logical to distribute the wealth of the country fairly as opposed to allowing it to concentrate in the hands of the lucky few. We'd be much better off with a system that empowers the majority of individuals to pursue their interests instead of having to play a lottery to chase success. This system is socialism.
