@@ -18,7 +18,7 @@ Unfortunately, successful people themselves often suffer the effects of [self-at
 
 The notion of meritocracy helps perpetuate an unfair system where most people are not able to realize their full potential. Meanwhile, a small number of successful individuals are placed on a pedestal. We must reject this idea and look at success in a holistic fashion, considering the individual along with the opportunities they were afforded on their way to becoming successful.
 
-Therefore, the fear that successful individuals will leave Canada due to higher taxes is fundamentally misplaced. Instead of viewing these people leaving as a loss we should see it as an opportunity. The wealth tax will create a way to filter out businesses that do not want to pay their fair share, and cultivate the ones that do. We should never worry that the successful individuals who want to freeload leave because we know their success was primarily driven by luck. By leaving they're simply creating opportunities for others to become lucky instead.
+Therefore, the fear that successful individuals will leave Canada due to higher taxes is fundamentally misplaced. Instead of viewing these people leaving as a loss we should see it as an opportunity. The wealth tax will create a way to filter out businesses that do not want to pay their fair share, and cultivate the ones that do. We should never worry that the successful individuals who want to freeload leave. By leaving they're simply creating opportunities for others to become lucky instead.
 
 Furthermore, given the role that luck is the dominant factor in success, it's only logical to distribute the wealth of the country fairly as opposed to allowing it to concentrate with the lucky few.
 
