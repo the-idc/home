@@ -2,7 +2,7 @@
 title: Let Them Leave
 date: 2020-10-27T00:01:34.382Z
 ---
-Jagmeet Singh recently proposed a super-wealth tax that would raise $5.6 billion in the first year, and around $70 billion over the next decade. This money would help offset the current recession providing an alternative path to austerity.
+Jagmeet Singh recently proposed [a super-wealth tax](https://www.cbc.ca/news/canada/hamilton/jagmeet-singh-ndp-super-wealth-tax-hamilton-1.5277626) that would raise $5.6 billion in the first year, and around $70 billion over the next decade. This money would help offset the current recession providing an alternative path to austerity.
 
 The proposal was met with enthusiasm by most Canadians, and similar measures have been proven to work in the past during the war time. However, some argue against the proposal stating that it punishes success, and will lead to successful entrepreneurs leaving Canada for greener pastures.
 
