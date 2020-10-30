@@ -1,5 +1,5 @@
 ---
-title: Passive Media’s Actively Racist
+title: Passive Media is Actively Racist
 date: 2020-10-30T01:24:32.947Z
 ---
 <!--StartFragment-->
