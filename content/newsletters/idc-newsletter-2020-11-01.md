@@ -110,4 +110,4 @@ It seems clear to me that if we constrain 'democracy' to the act of having gener
 
 ## Licensing
 
-The IDC Newsletter is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode) license. If using material from the newsletter, please credit the author and provide a link to the relevant newsletter in your attribution.
+The IDC Newsletter is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode) license. If using material from the newsletter, please credit the author and provide a link to the relevant newsletter in your attribution. Any content produced using material from the IDC newsletter must be licensed under the same terms.
