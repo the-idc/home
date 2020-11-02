@@ -8,6 +8,8 @@ date: 2020-10-30T17:32:49.256Z
 
 Welcome to the November issue of the IDC newsletter. This month, we have articles on various facets of the Mi'kmaw fishing conflict by two first-time contributors: Ccarla and Jeffers. We also have the usual inchoate Trot ramblings of Jonkle, Yogthos and Loljapes. 
 
+- - -
+
 ## Passive Media is Actively Racist
 
 On October 17 Global News published an article titled “[Massive fire destroys lobster pound in southern Nova Scotia](https://globalnews.ca/news/7403167/mikmaq-lobster-plant-fire/?fbclid=IwAR0DJOMb5PFYqo57St7zEXphfshMVBlIzkYiHhex2FUIU5jpIRPk41L-2I0)”. While the passive voice used in this headline suggests that the cause of the fire is unknown, the article later states that the burnt-down lobster pound is “the same one that was swarmed, vandalized and ransacked by a large crowd of non-Indigenous commercial fishers” earlier that week. This information, along with Canada’s long history of violence against Indigenous people, makes it pretty clear that racism is the motivating factor behind these attacks. However, the word racism isn’t used once throughout the article.
@@ -17,6 +19,8 @@ With the exception of a singular use of “angry mob” in a caption under a vid
 This conflict isn’t about resources; it’s about white fishermen feeling so entitled to those resources that they are willing to harass and threaten another group of people for acting within their rights. Very few news sources address this. Most article headlines use passive language that focuses on the victimization of the Mi’kmaw people rather than the violence of the white perpetrators. Examples include “[Indigenous people in Nova Scotia exercised their right to catch lobster. Now they’re under attack](https://www.washingtonpost.com/world/the_americas/canada-nova-scotia-indigenous-lobster-fishery/2020/10/24/d7e83f54-12ed-11eb-82af-864652063d61_story.html)”, ["'Terrorizing our people’: N.S. Mi’kmaw fishers have property vandalized, lobsters destroyed](https://globalnews.ca/news/7396039/mikmaw-vehicle-burned-lobster-destroyed-by-commercial-fishermen-sipkenkatik/)”, and  “[RCMP investigating incidents in relation to Mi’kmaq fishery dispute](https://globalnews.ca/news/7350839/rcmp-investigating-incidents-mikmaq-fishery-dispute/)”. The language used in these headlines minimizes the culpability of white society by refusing to identify the white fishermen and erases the generations of racism that settlers have inflicted on Indigenous people.
 
 Although these articles hint at racism, their headlines continue the trend of mainstream media framing the experiences of Indigenous people through a white lens. This is significant because, in our culture of internet scrolling, most people only read the headline and [skim through the rest of the article](https://www.nngroup.com/articles/how-people-read-online/). The headline of an article prompts the reader to look for specific information, and these headlines conform to a narrative of Indigenous victimization rather than settler victimizing. This lets most readers easily avoid having to recognize the reality that racism does exist and that they are complicit in a system that entitles white people to react with violence when confronted with having to respect another group’s autonomy. 
+
+- - -
 
 ## The Treaties of Today
 
@@ -34,6 +38,8 @@ At the end of the Seven Years’ War, the British emerged victorious against the
 
 Canadians are treaty people. Treaty making is a form of international diplomacy, and all Canadians should worry when the government ignores its previous agreements, or attempts to reimagine the terms simply because one nation is now reduced in strength and lives within the imposed borders of the settler state. Remembering 1726, 1752, and 1761 should not fall solely on the Mi'kmaq, but rather be a national project that can reinvigorate Canada's relationship with its Indigenous partners.
 
+- - -
+
 ## COVID Made Canada Care About George Floyd
 
 Back in 1992, [Los Angeles rioted over police brutality against Rodney King](https://en.wikipedia.org/wiki/1992_Los_Angeles_riots#Background). At the time there were a few solidarity marches—[500 students at MIT](https://www.thecrimson.com/article/1992/5/6/500-students-protest-rodney-king-verdict/) plus a hundred from Harvard is about all I can find. When the police murdered George Floyd in 2020, protests sprung up *[everywhere](https://www.youtube.com/watch?v=wm0mCmfWK3M)*—all across the United States, and even in most Canadian provinces.
@@ -45,6 +51,8 @@ At first it sounds so very Canadian for us to protest racist murder-cops in the 
 But for us in Canada, we were doing decently. [Nothing to boast about](https://www.cbc.ca/news/health/coronavirus-canada-long-term-care-deaths-study-1.5626751), but well enough. A significant amount of people could get by without work, since the CERB covered basic necessities and provided personal security by replacing employment. That opened a lot of Canadians up to pursuing the next rung of Maslow’s Hierarchy—friendship, intimacy, and a sense of connection. Usually this takes emotional labour, which is hard to maintain or develop when most of our energy goes towards wage labour. But take away jobs, and suddenly we’re able to care about a topic we’ve been ignoring ever since the police were created. [Who woulda thunk](https://en.wikipedia.org/wiki/Karl_Marx)?
 
 I think when we say to focus on material conditions, a lot of us go straight for the bottom of Maslow’s pyramid and forget to look at the higher rungs as well. Because the reality of the mainstream Canadian is that while one’s very basic physical needs are met, their emotional needs are not. Whether or not they realize it, most Canadians are too tired to make friends and build communities. But if we build that social infrastructure around them, and invite them in, we will make it far easier for mainstream Canadians to care about those they’d otherwise be too tired to help.
+
+- - -
 
 ## Let Them Leave
 
@@ -68,9 +76,11 @@ Therefore, the fear that successful individuals will leave Canada due to higher 
 
 Furthermore, given the dominant role that luck plays in success, it's only logical to distribute the wealth of the country fairly as opposed to allowing it to concentrate in the hands of the lucky few. We'd be much better off with a system that empowers the majority of individuals to pursue their interests instead of having to play a lottery to chase success. This system is socialism.
 
+- - -
+
 ## COVID and Democracy: Part 2
 
-In last month's newsletter I argued that the decisions society has to make around how it manages the COVID pandemic are unavoidably political. I also argued that a lot of the frustration and anger we've seen from members of the public is due to the lack of democratic input into pandemic management decisions. Of course, finding fault is always easier than finding a fix, and criticizing quadrennial elections conducted under a first-past-the-post system is hardly a radical position to take in a socialist newsletter. So I think it's worth having a think about pragmatic ways a society could democratize its crisis management processes.
+In [last month's newsletter](https://1.joinidc.co/newsletters/idc-newsletter-2020-10-07/) I argued that the decisions society has to make around how it manages the COVID pandemic are unavoidably political. I also argued that a lot of the frustration and anger we've seen from members of the public is due to the lack of democratic input into pandemic management decisions. Of course, finding fault is always easier than finding a fix, and criticizing quadrennial elections conducted under a first-past-the-post system is hardly a radical position to take in a socialist newsletter. So I think it's worth having a think about pragmatic ways a society could democratize its crisis management processes.
 
 **Citizens' Assemblies**
 
@@ -86,7 +96,7 @@ Could CAs serve a role during pandemic management? I think they probably could. 
 
 Referendums seem to have a pretty bad reputation at the moment. I think this is probably because of the Brexit referendum, which seems to have traumatized everyone (even some of the politicians who originally claimed to want Brexit). However, I think we should bear in mind that the Brexit referendum was somewhat atypical. Usually referenda have clearly defined options with outcomes that everyone understands, but this wasn't the case with Brexit. In fact, even three years after the vote, its not clear what 'Brexit' will mean for Britain (Canada-style deal? WTO terms? red-white-and-blue Brexit? who can tell?). There are a lot of reasons why this happened, but there's no reason why it has to be a feature of a referendum vote.
 
-I actually think referenda could be very useful democratic tools for pandemic management. It's common for governments to generate a number of policy proposals before deciding on a course of action. If the proposals are all well-defined and possible, why not just let people vote on them instead of letting politicians make the decision? Of course, there's a myriad of 'Yes, Minister'-style shenanigans that would go on amongst the people empowered to develop the policy proposals, but this is already the case with policy making. In a case where all options are one-or-another flavor of bad, politicians might even welcome the ability to say that they're just carrying out a decision made by the electorate, instead of having to take responsibility for the decision themselves. There would obviously be some technical obstacles to overcome, we don't currently have the infrastructure to run regular nation- or region-wide votes on a weekly or monthly basis. But if these were addressed I think referenda could give people a sense of control over decision-making that is currently lacking.
+I actually think referenda could be very useful democratic tools for pandemic management. It's common for governments to generate a number of policy proposals before deciding on a course of action. If the proposals are all well-defined, why not just let people vote on them instead of letting politicians make the decision? Of course, there's a myriad of [*Yes Minister*-style](https://www.youtube.com/watch?v=dIto5mwDLxo&list=PL9186CClz5SosGxKQRAOTxjg6UnKSRf6r&index=5) shenanigans that would go on amongst the people empowered to develop the policy proposals, but this is already the case with policy making. In a case where all options are one-or-another flavor of bad, politicians might even welcome the ability to say that they're just carrying out a decision made by the electorate, instead of having to take responsibility for the decision themselves. There would obviously be some technical obstacles to overcome, we don't currently have the infrastructure to run regular nation- or region-wide votes on a weekly or monthly basis. But if these were addressed I think referenda could give people a sense of control over decision-making that is currently lacking.
 
 **Something else?**
 
@@ -98,6 +108,8 @@ It seems clear to me that if we constrain 'democracy' to the act of having gener
 
 \*\* And, of course, even if a working class movement gets some of its members elected, once they start drawing their MP's salary and enjoying their new social position they stop being a member of the working class in some sense, meaning it might be impossible to ever have truly working class representation in parliament.
 
+- - -
+
 ## Credits
 
 * Passive Media is Actively Racist - ccarla
@@ -106,7 +118,9 @@ It seems clear to me that if we constrain 'democracy' to the act of having gener
 * Let Them Leave - yogthos
 * COVID and Democracy: Part 2 - loljapes
 * Web support - snoe, yogthos
-* Typesetting - loljapes
+* Typesetting - loljapes 
+
+- - -
 
 ## Licensing
 
