@@ -1,6 +1,6 @@
-baseURL = "/"
+baseURL = "https://justiceinternationale.com/"
 languageCode = "en-us"
-title = "IDC1"
+title = "Justice Internationale"
 
 [outputs]
 section = ["HTML", "RSS", "Calendar"]

@@ -1,12 +1,12 @@
 ---
-title: IDC Newsletter 2020/11/01
+title: IDC Newsletter 2020-11-01
 date: 2020-10-30T17:32:49.256Z
 ---
 ![](/images/uploads/idc-logo.png)
 
 # IDC Newsletter 2020-11-01
 
-Welcome to the November issue of the IDC newsletter. This month, we have articles on various facets of the Mi'kmaw fishing conflict by two first-time contributors: Ccarla and Jeffers. We also have the usual inchoate Trot ramblings of Jonkle, Yogthos and Loljapes. 
+Welcome to the November issue of the IDC newsletter. This month, we have articles on various facets of the Mi'kmaw fishing conflict by two first-time contributors: Ccarla and Jeffers. We also have the usual inchoate Trot ramblings of Jonkle, Yogthos and Loljapes.
 
 - - -
 
@@ -118,7 +118,7 @@ It seems clear to me that if we constrain 'democracy' to the act of having gener
 * Let Them Leave - yogthos
 * COVID and Democracy: Part 2 - loljapes
 * Web support - snoe, yogthos
-* Typesetting - loljapes 
+* Typesetting - loljapes
 
 - - -
 

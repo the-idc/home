@@ -1,0 +1,49 @@
+{{partial "header.html" .}}
+
+<main>
+  <section class="services-section pt-100 pb-100">
+    <div class="container">
+      <div class="row">
+        {{ range (.Pages.ByParam "title").ByDate.Reverse }}
+        <div class="col-lg-4 col-md-6">
+          <a href="{{ .Permalink }}">
+          <div class="single-services">
+            <div class="icon">
+              <i style="display: inline-flex;">
+                <img width="40" src="data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTEyIDUxMiIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im00NzYuODc3IDE4OC42OTJjLS44MTQtMy45My0zLjE2OS03LjM3MS02LjUzOS05LjU1MWwtMjczLjEzMy0xNzYuNzMzYy02Ljg4OC00LjQ1Ny0xNi4wNzgtMi41NTMtMjAuNjMgNC4yNzNsLTEzOS4yNDUgMjA4Ljg2NmMtMy41MDkgNS4yNjQtMy4zMzggMTIuMTY1LjQyOCAxNy4yNDhsMTAyLjg5NCAxMzguOTA3LTMwLjQxNSAxMjEuNjU5Yy0xLjEyIDQuNDgxLS4xMTMgOS4yMjggMi43MjkgMTIuODY5IDIuODQzIDMuNjQxIDcuMjA0IDUuNzY5IDExLjgyMyA1Ljc2OWgyNTcuMDY3YzguMjg0IDAgMTUtNi43MTYgMTUtMTV2LTg4LjM3OWwxLjQxOS0uOTQ2YzI5LjI5Mi0xOS41MjggNDYuNzgxLTUyLjIwMyA0Ni43ODEtODcuNDA3di03NS43OTJsMjkuNjE0LTQ0LjQyYzIuMjI2LTMuMzQgMy4wMjEtNy40MzIgMi4yMDctMTEuMzYzem0tMTAxLjA4Mi0zNC45OTItNTUuNjM5IDgzLjQ1OC00NC40ODUtMTkuNzcxIDU5LjgzNi04OS43NTV6bS02NS40NzctNDIuMzY4LTI5Ljk5OSA0NC45OTgtNDkuMjc1LTI0LjYzNyAzMy4zNzQtNTAuMDZ6bS0xMTYuOTg5LTc1LjY5OSA0NS45IDI5LjctMzUuMjI2IDUyLjgzOC00OS4yNzQtMjQuNjM3em0yMjEuNzI3IDI4NC42MzRjMCAyNS4xNS0xMi40OTQgNDguNDk0LTMzLjQyMSA2Mi40NDYtNC44NDYgMy4yMy04LjEyIDUuNDItOC4xMiA1LjQyLTQuMTYxIDIuNzg0LTYuNjU5IDcuNDYtNi42NTkgMTIuNDY3djgxLjRoLTIyMi44NTZsMjcuNDc0LTEwOS44OTVjMS4wODgtNC4zNTIuMTcxLTguOTYyLTIuNDk5LTEyLjU2NmwtMTAwLjgzMy0xMzYuMTI1IDY5LjgxNi0xMDQuNzI0IDEyNS41OTEgNjIuNzk1LTE4LjI1NSAyNy4zODNoLTg4LjM3M2MtOC4yODQgMC0xNSA2LjcxNi0xNSAxNXM2LjcxNiAxNSAxNSAxNWg1NC45OTdsNjAuMTIgMTIwLjI0MWMzLjcwNSA3LjQxIDEyLjcxNSAxMC40MTQgMjAuMTI1IDYuNzA4IDcuNDEtMy43MDUgMTAuNDEzLTEyLjcxNSA2LjcwOC0yMC4xMjRsLTUzLjQxMS0xMDYuODI1aDQuNjhsMTQxLjY5IDYyLjk3M2M2LjY3OCAyLjk2OSAxNC41MjEuNjkyIDE4LjU3My01LjM4Nmw0LjY1My02Ljk4em0tMjIuNTk5LTUwLjk3Ny00NC40ODUtMTkuNzcxIDUzLjAxNC03OS41MjEgNDAuMjg4IDI2LjA2OXoiLz48L3N2Zz4="/>
+              </i>
+            </div>
+            <h3>{{ .Title }}</h3>
+            <p></p>
+          </div>
+          </a>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+
+    <div class="default-shape">
+      <div class="shape-1">
+        <img src="assets/img/shape/4.png" alt="image">
+      </div>
+
+      <div class="shape-2 rotateme">
+        <img src="assets/img/shape/5.svg" alt="image">
+      </div>
+
+      <div class="shape-3">
+        <img src="assets/img/shape/6.svg" alt="image">
+      </div>
+
+      <div class="shape-4">
+        <img src="assets/img/shape/7.png" alt="image">
+      </div>
+
+      <div class="shape-5">
+        <img src="assets/img/shape/8.png" alt="image">
+      </div>
+    </div>
+  </section>
+</main>
+
+{{partial "footer.html" .}}

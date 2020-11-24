@@ -1,3 +1,3 @@
 ---
-title: IDC1
+title: Justice Internationale
 ---
