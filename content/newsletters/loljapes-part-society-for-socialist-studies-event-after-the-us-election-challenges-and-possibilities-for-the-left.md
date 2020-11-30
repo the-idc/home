@@ -1,0 +1,26 @@
+---
+title: "loljapes' part: Society for Socialist Studies event: After the US
+  election, challenges and possibilities for the Left"
+date: 2020-11-30T22:41:13.074Z
+---
+### Vijay Prashad
+
+Prashad used his speech to analyze the foreign policy legacy left by Trump and make some guesses about what we can expect under a Biden presidency. He began by pointing out that although Trump is usually presented as an anomalous president, his foreign policy has essentially been a continuation of the interventionist policies of his predecessors. Prashad cited America's response to the India/Pakistan bombings, the actions taken by America against Venezuela and the resumption of the activities of the [Quadrilateral Security Dialogue](https://en.wikipedia.org/wiki/Quadrilateral_Security_Dialogue) as evidence that Trump had not meaningfully shrank America's global footprint.
+
+Turning to the future, Prashad predicted that Biden will step-up efforts to contain China, which will likely lead to increased tensions between China and the US. Prashad noted that this would be consistent with Obama-era policies such as the 'pivot to Asia' and the [TPP](https://en.wikipedia.org/wiki/Trans-Pacific_Partnership), which both sought to isolate China. Prashad believes Biden will pick up these initiatives and take them farther than Obama managed to. Following this logic, Prashad also believes that Biden will continue to pressure to Venezuela, as it was Obama who first imposed sanctions on the country in [2015](https://en.wikipedia.org/wiki/International_sanctions_during_the_Venezuelan_crisis#2015).
+
+Prashad saw some silver linings on the topics of the Iran nuclear deal and climate change. He said that Trump's inaction on climate change had frayed America's relations with the rest of the world and predicted Biden will attempt to implement climate change action in order to patch up these relations. He also predicted that Biden will take attempt to reinstate the [JCPOA](https://en.wikipedia.org/wiki/Joint_Comprehensive_Plan_of_Action) (a treaty which limits Iran's capability to produce nuclear weapons) partially because the JCPOA is regarded as a signature Obama achievement, and partially because Trump's decision to unilaterally withdraw from the treaty was widely regarded as illegitimate.
+
+Prashad finished by focusing on the role Canada will play in Biden's presidency. He noted that Canada often takes the lead on US-backed diplomatic initiatives in South America. He predicted "more shenanigans from Ottawa" in the form of a "Lima Group Part 2" effort to bring about regime change in Venezuela. He said the left in Canada should attempt to block these initiatives. 
+
+### Denis Pilon
+
+Pilon began his talk with an analysis of the voting results from across America. He said that although the youth and overall turnout were high, the turnout of working class people had gone down compared to the last election. Pilon highlighted that although state-level maps make America seem as though states are deeply polarized between Democrat and Republican, the distinction he found more important was the fact that urban areas tended to lean Democratic while rural areas tended to lean Republican.
+
+Continuing his analysis of the vote, Pilon said that while there is a media narrative that Trump won the 2016 election due to the support of the white working class, the data aren't particularly clear on whether this is true. Pilon said that in general, the white working class have dropped out of the political process altogether, although its possible that the Republican party has managed to maintain slightly more white working class voters than the Democrats by making cultural appeals to the group
+
+### Shama Rangwala
+
+Rangwala began by referencing the claim from the the book *Undoing the Demos* (by Wendy Brown) that under neoliberalism people are atomized into individuals of exchange, this was a theme she returned to a number of times in her talk. She said that she believed that politics in America is "intrinsically centrist" and therefore predicted that Biden will seek to reach across the aisle to Republicans more than he will consult the left of the Democratic party. Rangwala said that she had been surprised by the level of support for Biden given the fact there had been so little emphasis in his campaign on policies that would materially benefit people. She highlighted what she called the "spectacle of vote counting" saying that the TV coverage of the vote counting process served to comfort people in spite of the fact that the fragmented nature of election regulations in the US made voter suppression increasingly easy. She also commented on the use of 'I Voted' stickers saying that in America voting is a "hyper visible fetish that covers the necro fashion of the constitution" and claimed that the purpose of the stickers is to mark individuals as part of an in-group, which serves to create a "group illusion of a demos". 
+
+Rangwala concluded by saying that in the previous presidential election Trump had managed to create a demos arranged around himself and said that the left should seek to build a true demos.
