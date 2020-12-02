@@ -2,7 +2,7 @@
 title: Society for Socialist Studies - jonkle's part
 date: 2020-12-02T14:20:08.353Z
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -42,9 +42,9 @@ date: 2020-12-02T14:20:08.353Z
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -613,9 +613,9 @@ date: 2020-12-02T14:20:08.353Z
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -634,61 +634,41 @@ date: 2020-12-02T14:20:08.353Z
 	font-family:"Arial",sans-serif;
 	mso-ansi-language:EN;}
 </style>
-<!\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
 After the 2020 US election, the Society for Socialist Studies hosted a webinar on November 13, 2020 to answer questions from six socialist panelists on what was next for the Left in terms of challenges and opportunities. Each panelist gave their opinion, which will be summarized below and then followed by our own takeaway from the event.
 
- 
+### Margaret Kimberly
 
-Margaret Kimberly, senior editor of Black Agenda Report, was the first speaker. She said that the world stops for American elections, and especially this one, thanks to the COVID-19 pandemic and resulting economic crisis. The result was and is an American horror show: high unemployment; mediocre outcomes from the world’s most expensive healthcare system; a divided government; and a new president compromised by corporate influence.
-
- 
+Kimberley said that the world stops for American elections, and especially this one, thanks to the COVID-19 pandemic and resulting economic crisis. The result was and is an American horror show: high unemployment; mediocre outcomes from the world’s most expensive healthcare system; a divided government; and a new president compromised by corporate influence.
 
 This is a trend for the Left—being disappointed and having to settle for a lesser evil, while comforting themselves with lies about “holding feet to fire.” According to Kimberley, most of the Left is a biased Democrat illusion that convinces people to not want what they actually do want, especially with regards to foreign policy.
 
- 
-
 Kimberley recommends that the Left’s first job should be to strictly define who we are and what we stand for—we cannot allow people who act in opposition to us claim to have the same causes.
-
- 
 
 She found examples of this challenge in the George Floyd protests, which were a huge accomplishment, but unfortunately happened during an election year, and instead of having a material impact got sucked into the horror show. Elections take the life out of movements, and to prevent our adversaries—because all people-politician relationships are adversarial—from co-opting our movements we have to maintain them outside of electoral years.
 
- 
-
 Kimberley’s example of a success is Bolivia, who proved imperialism can be stopped through organization outside of election years, even when the mainstream Western media lied and people usually considered progressives supported the coup.
 
- 
+### Dimitri Lascaris
 
-Dimitri Lascaris, class lawyer and runner-up in the 2020 Green Party of Canada leadership contest, spoke second. He reflected on his experience volunteering on Barack Obama’s campaign in 2008 as a canvasser in poor black neighbourhoods, only to realize near election night that he had been duped. Despite his initially progressive appearance, Obama said nothing on Operation Cast Lead in Israel, but spoke vociferously in support of bank bailouts.
-
- 
+Lascaris reflected on his experience volunteering on Barack Obama’s campaign in 2008 as a canvasser in poor black neighbourhoods, only to realize near election night that he had been duped. Despite his initially progressive appearance, Obama said nothing on Operation Cast Lead in Israel, but spoke vociferously in support of bank bailouts.
 
 Lascaris got duped again in 2015 with the election of Alexei Cyprus in Greece. The country had been facing crippling austerity at the time, and despite public demand to end it Cyprus instead pushed harder austerity measures into effect.
 
- 
-
 In 2020 Lascaris was not duped. Joe Biden is a fraud without a progressive bone in his body. He is basically Trump, but smarter—he adheres to American exceptionalism so much that he could be even worse than Trump in terms of foreign policy. During his time as Obama’s vice-president he supported a nuclear modernization program despite the US being under a de-armament agreement, which prompted the Bulletin of Atomic Scientists to move the Doomsday Clock closer to midnight than anytime other than the Cuban Missile Crisis.
-
- 
 
 Basically, Lascaris said, America’s not turning away from any of the Trump administration’s decisions. He is very frustrated and worried about how Canadians are succumbing to complacency just because Biden won. The fight has only begun—we got rid of Trump, now we must get rid of Biden.
 
- 
+### Gary Dimski
 
-Gary Dimski spoke third. He described four aspects of the election and what they mean. First, there has been a separation of financial markets from reality—despite being initially rocked by COVID and facing lots of volatility trading, markets are doing fine. They have kept up a steady flow of crocodile tears about credit risk, though.
+Dimski described four aspects of the election and what they mean. First, there has been a separation of financial markets from reality—despite being initially rocked by COVID and facing lots of volatility trading, markets are doing fine. They have kept up a steady flow of crocodile tears about credit risk, though.
 
- 
-
-Second, Dymski reminded the audience that trade war is class war. There has been no positive change in trade policy between the Obama and Trump years. Portsmouth, Ohio, was a region struggling with high unemployment—presumably from jobs getting offshored—and massive opiod issues cheered on Trump’s election night because he had promised to rejuvenate Appalachia. But Portsmouth improved from local community organizing, not from the Trump administration.
-
- 
+Second, Dimski reminded the audience that trade war is class war. There has been no positive change in trade policy between the Obama and Trump years. Portsmouth, Ohio, was a region struggling with high unemployment—presumably from jobs getting offshored—and massive opiod issues cheered on Trump’s election night because he had promised to rejuvenate Appalachia. But Portsmouth improved from local community organizing, not from the Trump administration.
 
 Dimski’s third point was that the American Civil war is not over. Riding maps between 2020 and 1860 are surprisingly similar. FDR’s election flipped most of the country, but a particular belt through the Southern states has remained Democrat. Nixon took control of this region in the 1960s through his Southern Strategy, which appealed to poor white southerners angry about black voting rights. But the Democratic belt has been maintained—because it’s predominantly black. But because regions like these are so consistent, they’re often under-supported—in Obama’s administration, he did next to nothing for foreclosures in California because he knew they’d vote for him anyways.
-
- 
 
 Dimski closed by describing the moment we are in as a moment where the contradictions in the financial regime of global capitalism are laid bare. As Gramsci said, “the old order is dead; the new order cannot yet be born. In the interregnum, all manner of morbid things occur.”
 
