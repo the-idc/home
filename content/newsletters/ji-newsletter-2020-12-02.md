@@ -126,10 +126,11 @@ In hindsight, framing the event around the American election seems like a misste
 
 ## Credits
 
-* We must own our own tools - yogthos
+* We must own our tools - yogthos
 * Society for Socialist Studies event - jonkle, loljapes
 * Event tipoff - MegW
 * Web support - snoe, yogthos
+* Editing - loljapes, yogthos
 * Typesetting - loljapes
 
 - - -
