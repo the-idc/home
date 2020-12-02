@@ -58,7 +58,7 @@ It's time for us to get serious about owning our tools and start using communica
 
 ## After the US election, challenges and possibilities for the Left: A Society for Socialist Studies event
 
-On November 13, 2020, the Society for Socialist Studies (who have the somewhat serpentine acronym: SSS) hosted a webinar titled 'After the US election, challenges and possibilities for the Left'. The event consisted of speeches from six speakers. Jonkle and loljapes both attended and give a summary of what was said, and their general thoughts on the event, here.
+On November 13, 2020, the Society for Socialist Studies (who have the somewhat serpentine acronym: SSS) hosted a webinar titled ['After the US election, challenges and possibilities for the Left'](https://www.youtube.com/watch?v=FjocovdMwEM&feature=youtu.be). The event consisted of speeches from six speakers. Jonkle and loljapes both attended and give a summary of what was said, and their general thoughts on the event, here.
 
 ### Margaret Kimberly
 
