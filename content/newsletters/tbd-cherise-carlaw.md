@@ -1,0 +1,31 @@
+---
+title: TBD (Cherise Carlaw)
+date: 2020-12-30T21:12:19.444Z
+---
+<!--StartFragment-->
+
+It’s safe to say that most of us hoped that if COVID-19 was going to destroy our social lives and kill a bunch of people, it could at least have the decency to shut down short-term Airbnb rentals too. But no. Thanks to its near-monopoly on the short-term rental market, Airbnb is [recovering from COVID-19](https://fortune.com/2020/06/30/airbnbceo-brian-chesky-bookings-rentals-recovery-2020-ipo-coronavirus-pandemic/) much faster than most other businesses. Their stock has shot up [146%](https://investorplace.com/2020/12/up-146-ipo-take-time-airbnb-stock/) since the company went public at the beginning of December. 
+
+
+
+Which makes it even harder to believe that, before Airbnb became the gentrification juggernaut that it is today, it was just meant to be a quick money maker for three guys struggling to make rent.
+
+
+
+In October 2007, Airbnb founders Brian Chesky and Joe Gebbia found out that their rent would be [increased by 25%](https://www.youtube.com/watch?v=M6GBqqk2mY4&t=532s). Without steady employment, Chesky and Gebbia had to think of a quick way to make some cash. So they bought an air mattress and rented out the vacant room in their apartment on weekends for extra money. Like the underdogs of a feel-good rags-to-riches story, they earned enough money for next month’s rent, evading homelessness and making lifelong friends along the way. 
+
+
+
+A heartwarming origin story, but we know Airbnb didn’t stop there. While Chesky and Gebbia’s original vision involved homeowners renting out spare rooms for extra cash, the reality is that Airbnb has engorged the short term rental market, [artificially deflating vacancy rates](https://atlantic.ctvnews.ca/short-term-rentals-make-it-tougher-for-nova-scotians-to-find-a-place-to-live-1.4818833) and unapologetically [decimating affordable housing](https://files.epi.org/pdf/157766.pdf).
+
+
+
+Airbnb in itself is morally neutral and could have been useful in communities without hotels or for people renting out an extra room in their home to help pay their mortgage. However, a significant portion of Airbnb hosts own [at least ten properties and 81 percent](https://ipropertymanagement.com/research/airbnb-statistics) of Airbnb’s revenue comes from whole-unit rentals where the owner is not present during the guest’s stay. Significant portions of residentially coded buildings are being used as short-term rentals, and under the conditions set by capitalism neither Airbnb nor their hosts are really doing anything society perceives as wrong. Hosts can dismiss their monopolization of the housing market as a shrewd step in self-preservation that ensures that their family is well provided for. Similarly, Airbnb can ignore hosts’ abuse of their app in favour of making profits because, under capitalism, they are morally bound to their stakeholders and no one else. 
+
+
+
+ As depressing as it sounds, the fate of Airbnb was pretty much sealed by the moral code of our market economy. Western capitalism is a pyramid scheme in that no matter someone’s wealth, they always feel beholden to a higher economic power and vulnerable to poverty, making it necessary to exploit the people below them. Capitalism’s natural laws motivate us to exploit each other, so that even the most well-meaning apps will eventually contribute to that exploitation. The only way out is to avoid market-based strategies altogether, and to dismantle a system that rewards exploitative behaviour and prioritizes profit over people. 
+
+
+
+<!--EndFragment-->
