@@ -1,5 +1,5 @@
 ---
-title: "Airbnb: A Case Study of Poorphobia (ccarla)"
+title: "Airbnb: The Economics of Poorphobia (ccarla)"
 date: 2020-12-30T21:12:19.444Z
 ---
 <!--StartFragment-->
