@@ -1,0 +1,7 @@
+img[src*="ji-logo-small.png"] {
+    width: 200px;
+    height: 200px;
+}
+body > main > section > .container {
+ width: 700pt;
+}
