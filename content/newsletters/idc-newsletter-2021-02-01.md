@@ -66,7 +66,7 @@ In any sane society, Alexandra Elbakyan (the founder of Sci-Hub) and the anonymo
 
 \* Although according to [this source](http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=PerseusLatinTexts&getid=1&query=Cic.%20Fam.%209.4), it seems like this might have been landscaping, rather than philosophical, advice
 
-\*\* An exciting element of using Sci-Hub and LibGen is that they are continually changing their URL (I presume due to legal issues), which makes it slightly difficult to link to them - just use a search engine if you want to find this week's URL.  
+\*\* An exciting element of using Sci-Hub and LibGen is that they are continually changing their URL (I presume due to legal issues), which makes it slightly difficult to link to them—just use a search engine if you want to find this week's URL.  
 
 - - -
 
