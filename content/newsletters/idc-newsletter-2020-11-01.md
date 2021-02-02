@@ -1,12 +1,12 @@
 ---
-title: IDC Newsletter 2020-11-01
+title: JI Newsletter 2020-11-01
 date: 2020-10-30T17:32:49.256Z
 ---
 ![](/images/uploads/idc-logo.png)
 
-# IDC Newsletter 2020-11-01
+# JI Newsletter 2020-11-01
 
-Welcome to the November issue of the IDC newsletter. This month, we have articles on various facets of the Mi'kmaw fishing conflict by two first-time contributors: Ccarla and Jeffers. We also have the usual inchoate Trot ramblings of Jonkle, Yogthos and Loljapes.
+Welcome to the November issue of the JI newsletter. This month, we have articles on various facets of the Mi'kmaw fishing conflict by two first-time contributors: Ccarla and Jeffers. We also have the usual inchoate Trot ramblings of Jonkle, Yogthos and Loljapes.
 
 - - -
 
@@ -124,4 +124,4 @@ It seems clear to me that if we constrain 'democracy' to the act of having gener
 
 ## Licensing
 
-The IDC Newsletter is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode) license. If using material from the newsletter, please credit the author and provide a link to the relevant newsletter in your attribution. Any content produced using material from the IDC newsletter must be licensed under the same terms.
+The JI Newsletter is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode) license. If using material from the newsletter, please credit the author and provide a link to the relevant newsletter in your attribution. Any content produced using material from the JI newsletter must be licensed under the same terms.

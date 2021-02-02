@@ -1,5 +1,5 @@
 ---
-title: IDC Newsletter 2021/02/01
+title: JI Newsletter 2021/02/01
 date: 2021-02-02T03:32:07.489Z
 ---
 ![](/images/uploads/ji-logo-small.png)

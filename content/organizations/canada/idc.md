@@ -1,14 +1,14 @@
 ---
-title: The International Department of Citizenship
+title: Justice Internationale
 region: canada
 admin_include: true
-short_name: IDC1
+short_name: JI
 location: Nationwide
 min_time:
-website: https://joinidc.co
+website: https://justiceinternationale.com/
 social_media:
 email: theidc@protonmail.com
 phone:
 ---
 
-IDC a leftist organizing body dedicated to coordinating and supporting citizen projects which lay the local groundwork for revolution.
+JI a leftist organizing body dedicated to coordinating and supporting citizen projects which lay the local groundwork for revolution.
