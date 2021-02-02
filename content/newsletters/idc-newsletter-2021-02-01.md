@@ -2,7 +2,7 @@
 title: IDC Newsletter 2021/02/01
 date: 2021-02-02T03:32:07.489Z
 ---
-![](blob:https://justiceinternationale.com/9c6b95ce-34f9-426f-a8e8-5feeb85ac2ea)
+![](/images/uploads/ji-logo-small.png)
 
 - - -
 
@@ -32,7 +32,7 @@ It is important to note that the political process fundamentally requires public
 
 The situation following the 2020 election continues to stay volatile due to mass unemployment, food insecurity, and mass evictions. Neither party cares about solving the underlying economic problems, and instead creates scapegoats to blame for the problems. We're now seeing the ultimate result of such politics starting to manifest itself as sectarian violence. A model the US themselves developed is [predicting a civil war](https://www.abc.net.au/triplej/programs/hack/model-predicting-united-states-disorder-now-points-to-civil-war/12365280).
 
-Let's now examine some uncomfortable parallels present on the Canadian political landscape. [Duverger's law holds that that single-ballot plurality-rule elections](https://en.wikipedia.org/wiki/Duverger%27s_law), and this is precisely what we're seeing happen in Canada, where we now have two dominant parties that trade places every few years. It has also been shown that [a majority-rule democracy can be forced to vote in favor of any set of policies by constructing a series of intermediate policy sets, each of which a majority of voters will prefer to the preceding policy set](https://en.wikipedia.org/wiki/McKelvey%E2%80%93Schofield_chaos_theorem).
+Let's now examine some uncomfortable parallels present on the Canadian political landscape. [Duverger's law](https://en.wikipedia.org/wiki/Duverger%27s_law) holds that single-ballot plurality-rule elections, such as first-past-the-post, favor a two party system. This precisely what we're seeing in Canada where we have two dominant parties that trade places every few years. It has also been shown that a majority-rule democracy is [vulnerable to manipulation](https://en.wikipedia.org/wiki/McKelvey%E2%80%93Schofield_chaos_theorem).
 
 Both the Liberal and Conservative parties represent the interests of wealthy Canadians. Decades of policy passed by these parties have decimated the Canadian public sector, cut social services, deregulated industry, and dismantled many worker protections. The situation has reached the point where the [100 richest families now own more than the bottom 6 million families](https://north99.org/2019/12/20/richest-100-canadians-have-more-wealth-than-bottom-6-million-families-combined-thats-a-serious-problem/) while [nearly half the population can barely pay their bills](https://globalnews.ca/news/4870779/canadians-financial-insolvency-2019-mnp-ipsos-poll/).
 
