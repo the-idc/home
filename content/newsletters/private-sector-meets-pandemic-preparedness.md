@@ -10,7 +10,7 @@ Turns out that privatization was one major factor in this equation. Harper led c
 
 Businesses must invest their effort into actions that produce immediate and consistent profit or risk becoming bankrupt. Meanwhile, corporations have a further responsibility to their shareholders to demonstrate consistent profit to make their shares grow. Once again this incentive is at odds with spending time producing something that produces no immediate profit.
 
-Incidentally, this is also the reason why we did not have sufficient PPE at the start of the pandemic or the necessary testing capacity. Storing large amounts of protective gear is an expense that's hard to justify. Unfortunately, once you do need this gear it's needed quickly and in large volumes.
+Incidentally, this is also the reason why we did not have sufficient PPE at the start of the pandemic or the necessary testing capacity. Storing large amounts of protective gear is an expense that's hard to justify. Ford government discarded [90% of Ontario’s PPE stockpile](https://www.theglobeandmail.com/canada/article-doug-ford-overrode-ontarios-top-doctor-on-covid-19-tests-overwhelming/) when it came to power presumably seeing it as dead weight. Unfortunately, once you do need this gear it's needed quickly and in large volumes.
 
 What the pandemic is illustrating is that the goal of generating continuous profit is directly at odds with the goal of having a robust system. Robustness requires having buffers and planning for the unexpected. However, these same buffers are seen as inefficiency from the profit perspective. This contradiction is one of the factors leading to recurring economic crashes in capitalist economies.
 
