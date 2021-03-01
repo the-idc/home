@@ -98,7 +98,7 @@ Canada could use this moment to reappraise patent law (which even pre-pandemic w
 * Private Sector Meets Pandemic Preparedness - yogthos
 * Patently absurd: IP in the age of COVID - loljapes
 * Web support - snoe, yogthos
-* Editing - loljapes
+* Editing - loljapes, yogthos
 * Typesetting - loljapes
 
 - - -
