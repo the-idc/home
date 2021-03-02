@@ -8,7 +8,7 @@ date: 2021-03-01T22:21:39.688Z
 
 Welcome to the March issue of the Justice Internationale newsletter.
 
-In this issue of the newsletter; 
+In this issue of the newsletter; Yogthos examines what caused Canada to be so unprepared for the pandemic and Loljapes covers how intellectual property law is hampering the fight against COVID.
 
 - - -
 
