@@ -4,7 +4,7 @@ title: "#StopRogers"
 
 [Petition](https://forms.gle/GafrU3So1JmN3UGb9)
 
-[On Twitter](https://twitter.com/joinji)
+[Mission Accomplished Announcement](https://www.reddit.com/r/canadaleft/comments/m75gx3/humbled_to_confirm_our_petition_to_block)
 
 [On Twitter](https://twitter.com/joinji)
 
