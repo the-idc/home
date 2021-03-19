@@ -25,6 +25,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Content", name: "body", widget: "markdown", required: true}
   - name: "publications"
     label: "Publication"
     folder: "content/publications"
