@@ -19,6 +19,12 @@ collections:
       - {label: "Name", name: "title", widget: "string", required: true}
       - {label: "Publication Date", name: "date", widget: "date", required: true}
       - {label: "Content", name: "body", widget: "markdown", required: true}
+  - name: "c"
+    label: "Campaigns"
+    folder: "content/c"
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
   - name: "publications"
     label: "Publication"
     folder: "content/publications"
