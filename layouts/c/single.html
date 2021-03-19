@@ -1,0 +1,94 @@
+<html>
+  <head>
+    <title>{{ .Title }}</title>
+    <style>
+html,body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #3d3b3c;
+  font-family: sans-serif;
+  height: 100%;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.name {
+  color: white;
+  margin-bottom: 1.5rem;
+  font-weight: 500;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+
+main {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+main p {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50vw;
+  height: 3.2rem;
+  margin: 0.5rem 0;
+  border: 0.1rem solid white;
+  background-color: white;
+  color: #3d3b3c;
+  transition: color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s,
+              border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s,
+              background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s;
+}
+
+main p:hover {
+  background-color: #3d3b3c;
+  color: white;
+}
+
+main a {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  color: inherit;
+  text-decoration: none;
+}
+main a:visited {
+}
+
+footer {
+  color: white;
+}
+
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <a href="/">
+        <img src="/logo.svg" style="height: 8rem; margin: 1rem 0;">
+      </a>
+      <div class="name">{{ .Title }}</div>
+    </header>
+    <main>
+      {{ .Content }}
+    </main>
+    <footer>
+      <a href="/">Justice Internationale</a>
+    </footer>
+  </body>
+</html>
