@@ -4,10 +4,12 @@ title: "#StopRogers"
 
 [Petition](https://forms.gle/GafrU3So1JmN3UGb9)
 
-[Mission Accomplished Announcement](https://www.reddit.com/r/canadaleft/comments/m75gx3/humbled_to_confirm_our_petition_to_block)
+[Please Follow Our Twitter for Updates](https://www.twitter.com/joinji)
 
-[On Twitter](https://twitter.com/joinji)
+[Petition Success Announcement](https://www.reddit.com/r/canadaleft/comments/m75gx3/humbled_to_confirm_our_petition_to_block)
 
-[On Twitter](https://twitter.com/joinji)
+[Petition Launch Announcement](https://www.reddit.com/r/canadaleft/comments/m6hruw/the_petition_to_block_rogersshaw_and_nationalize/)
 
-[On Twitter](https://twitter.com/joinji)
+[The Tweet That Started it All](https://twitter.com/JoinJI/status/1371496130802950148?s=20)
+
+[Join Us!](https://forms.gle/xibjzx5XoouUYdDL9)
