@@ -2,7 +2,7 @@
 title: Wetlands, MZOs, and Corruption in Ontario
 date: 2021-03-24T23:28:58.626Z
 ---
-While Ontario government has shown itself to be be completely ineffectual serving the interest of the public while handling the pandemic, it has been active serving the interests of wealthy elites. Just recently, Ford government [used a Ministerial Zoning Orders to push through six development deals](https://www.cbc.ca/news/canada/toronto/ford-mzos-toronto-development-1.5942671) in Markham, Caledon, Vaughan, Clarington and New Tecumseth. These developments will result in destruction of local wetlands. These wetlands serve as a nesting ground for migratory birds.
+While Ontario government has shown itself to be be completely ineffectual serving the interest of the public handling the pandemic, it has been active serving the interests of wealthy elites. Just recently, Ford government [used a Ministerial Zoning Orders to push through six development deals](https://www.cbc.ca/news/canada/toronto/ford-mzos-toronto-development-1.5942671) in Markham, Caledon, Vaughan, Clarington and New Tecumseth. These developments will result in destruction of local wetlands. These wetlands serve as a nesting ground for migratory birds.
 
 It has also been revealed that [three of six of the MZOs signed in secret benefit a single company called Flato, owned by a Doug Ford PC donor and insider](https://twitter.com/EmmaMci/status/1369424233613393927). Another major benefactor of this deal is Cortel Group owned by [Mario Cortellucci](https://twitter.com/RahRahRaina/status/1352258104818339841) who is an influential far right figure and a major Ford donor.
 
