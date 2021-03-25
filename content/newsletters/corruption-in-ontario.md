@@ -10,7 +10,7 @@ MZO fiasco is not an isolated incident. Earlier this year, Ford government initi
 
 Provincial government made a major decision to bulldoze a natural habitat without consulting the public or even consulting local government. Mayor of Aurora made [this](https://twitter.com/TMrakas/status/1374459816173707270) statement regarding the development. Ford government's attack on the environment led to [mass resignations](https://www.thestar.com/news/gta/2020/12/07/doug-ford-government-defends-conservation-authority-changes-in-wake-of-mass-greenbelt-council-resignations.html) from the government-appointed Greenbelt advisory body.
 
-While Ford government's abuses are egregious, it is important to note that previous Liberal government had its own share of scandals that ultimately led to its downfall. No matter what party is in power, we see the same pattern of the government putting interests of a wealthy minority over those of the working majority. 
+While Ford government's abuses are egregious, it is important to note that previous Liberal government had its own share of scandals that ultimately led to its downfall. No matter what party is in power, we see the same pattern of the government putting interests of a wealthy minority over those of the working majority and our environment. 
 
 Our system of governance is said to be democratic. Yet, our governments do not appear to represent the interests of the people. Instead, our system appears to function as a kleptocracy in practice. Ford government is aggressively destroying our environment despite public outcry is just one example in a long pattern of abuse of power vested in our officials.
 
