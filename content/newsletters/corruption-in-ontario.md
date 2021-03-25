@@ -1,5 +1,5 @@
 ---
-title: Corruption in Ontario
+title: Wetlands, MZOs, and Corruption in Ontario
 date: 2021-03-24T23:28:58.626Z
 ---
 While Ontario government has shown itself to be be completely ineffectual serving the interest of the public while handling the pandemic, it has been active serving the interests of wealthy elites. Just recently, Ford government [used a Ministerial Zoning Orders to push through six development deals](https://www.cbc.ca/news/canada/toronto/ford-mzos-toronto-development-1.5942671) in Markham, Caledon, Vaughan, Clarington and New Tecumseth. These developments will result in destruction of local wetlands. These wetlands serve as a nesting ground for migratory birds.
