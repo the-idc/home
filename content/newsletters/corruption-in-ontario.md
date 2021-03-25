@@ -12,7 +12,7 @@ Provincial government made a major decision to bulldoze a natural habitat withou
 
 While Ford government's abuses are egregious, it is important to note that previous Liberal government had its own share of scandals that ultimately led to its downfall. No matter what party is in power, we see the same pattern of the government putting interests of a wealthy minority over those of the working majority and our environment. 
 
-Our system of governance is said to be democratic. Yet, our governments do not appear to represent the interests of the people and often act as a kleptocracy. Ford government is aggressively destroying our environment despite public outcry is just one example in a long pattern of abuse of power vested in our officials.
+Our system of governance is said to be democratic. Yet, our governments do not appear to represent the interests of the people and often act as a kleptocracy. Ford government is aggressively pursuing destruction of our environment despite public outcry is just one example in a long pattern of abuse of power vested in our officials.
 
 Our first past the post system is directly at odds with democracy because it discriminates against third parties.First past the post elections artificially inflate representation of large parties while weakening smaller ones. Since the dominant party will win sole representation it may not even seem worth the effort to vote. A party that wins the largest number of votes, even less than a majority, wins 100% representation. Meanwhile, other parties receive 0% representation regardless of their actual support. This participation in the political process is discouraged.
 
