@@ -1,8 +1,9 @@
 ---
 title: "#StopRogers"
 ---
-
 [Petition](https://forms.gle/GafrU3So1JmN3UGb9)
+
+[Demand the Competition Bureau Stop the Merger](https://www.competitionbureau.gc.ca/eic/site/cb-bc.nsf/frm-eng/GH%c3%89T-83KK9Y)
 
 [Follow Us on Twitter for News in Between Announcements Here](https://www.twitter.com/joinji)
 
