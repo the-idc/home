@@ -1,5 +1,5 @@
 ---
-title: JI Endorsements
+title: Endorsements
 ---
 [Markiel Simpson for BNS](https://twitter.com/joinji/status/1374734246145822725)
 
