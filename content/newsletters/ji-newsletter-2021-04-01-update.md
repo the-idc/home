@@ -8,7 +8,7 @@ date: 2021-04-08T20:22:24.058Z
 
 Welcome to the April issue of the Justice Internationale newsletter. Rotate your screen by 45 degrees to enjoy the newsletter in our new 'Ever Given' format. 
 
-In this issue of the newsletter; An update on our Stop Rogers campaign, Jacob Mitchell reviews the recent webinar with Niki Ashton and Jeremy Corbyn put on by Progressive International (no relation), Yogthos covers Conservative party corruption in Ontario and Loljapes interviews members of the Workers' Liberation Coalition, a mutual aid group based in Alberta. 
+In this issue of the newsletter; an update on our Stop Rogers campaign, Jacob Mitchell reviews the recent webinar with Niki Ashton and Jeremy Corbyn put on by Progressive International (no relation), Yogthos covers Conservative party corruption in Ontario and Loljapes interviews members of the Workers' Liberation Coalition, a mutual aid group based in Alberta. 
 
 - - -
 
