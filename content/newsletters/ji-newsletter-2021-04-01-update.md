@@ -8,7 +8,25 @@ date: 2021-04-08T20:22:24.058Z
 
 Welcome to the April issue of the Justice Internationale newsletter. Rotate your screen by 45 degrees to enjoy the newsletter in our new 'Ever Given' format. 
 
-In this issue of the newsletter; Jacob Mitchell reviews the recent webinar with Niki Ashton and Jeremy Corbyn put on by Progressive International (no relation), Yogthos covers Conservative party corruption in Ontario and Loljapes interviews members of the Workers' Liberation Coalition, a mutual aid group based in Alberta. 
+In this issue of the newsletter; An update on our Stop Rogers campaign, Jacob Mitchell reviews the recent webinar with Niki Ashton and Jeremy Corbyn put on by Progressive International (no relation), Yogthos covers Conservative party corruption in Ontario and Loljapes interviews members of the Workers' Liberation Coalition, a mutual aid group based in Alberta. 
+
+- - -
+
+## Stop Rogers Status Update
+
+A few weeks ago we launched our Stop Rogers petition and were blown away by your response. In less than 24 hours we had nearly 1,000 signatures and people from the left and right of the political spectrum were vocally supporting not just the sentiment that the Canadian telecom industry must be stopped, but over 91% of those who signed the petition were calling for nationalization. We knew this wasn’t a standard list-building petition, or something to get politicians to make a one time speech over, so we stopped promoting the petition and immediately got to work with allies like Leadnow, North99, and a few MPs to build a concrete game plan to truly effect change.
+
+After several meetings and late nights, we are delighted to announce our teamwork has created a brand new line of defence against the exploitation of Canadians: The Fees Are Too Damn High Party of Canada. Part serious consumer advocacy and defence, part tongue-in-cheek political party (not officially though), the Fees Are Too Damn High Party (TDH) is a people-powered movement against the tele-cartels exploiting Canadians with fees that are too damn high.
+
+Our first action is clear, we must stop the Rogers-Shaw merger and to do that we must build a roster of allies and talent, both within and without the new party.
+
+Within TDH, we need volunteers to help us with memes, to share content, and to contact politicians or other influencers at the municipal, provincial, and federal levels. We need your passion and frustration to guide strategy and content production, never mind the comradely benefit of having your presence in our organizing Discord.
+
+Outside TDH, we need to attract and connect a wide net of allies. From those who helped advise on the creation of TDH like Leadnow, North99, and Justice Internationale, to other organizations that represent Canadians such as unions, technical advocacy groups, and even small business associations. You can help us prioritize who to contact next and join our meetings to guide the organizational philosophy.
+
+It is unconscionable that Canadians should have to pay the highest telecoms fees in the world while simultaneously being the ones who originally paid for much of the infrastructure. We know that better is possible, and we believe we have the skill and tactics to wage a winning war of resistance against the tele-cartels that have profiteered off this essential service for far too long. TDH is a transpartisan entity – we seek and welcome support from all sides – but as a founding organization, Justice Internationale is committed to nationalization through expropriation of the tele-cartel assets and we ask you to join TDH to strengthen that vision of the fledgling party.
+
+Thank you for your support of Justice Internationale and for being the fire which lit this match. The Fees Are Too Damn High! And with your help, we’ll tear down the tele-cartels and focus that momentum on taking down some other big dogs...
 
 - - -
 
