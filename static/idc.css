@@ -19,3 +19,7 @@ img {
   margin: auto;
   display: block;
 }
+
+.services-section a {
+  text-decoration: none;
+}
