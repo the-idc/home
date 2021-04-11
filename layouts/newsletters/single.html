@@ -9,7 +9,7 @@
 
           {{ range where (where .Site.Pages "Section" "articles") ".Params.newsletter" .Title }}
           <hr>
-          <h2><a href="{{ .Permalink | relURL }}" title="{{ .Title }}">{{ .Title }}</a></h2>
+          <h2 id="{{ .Title | urlize }}"><a href="{{ .Permalink | relURL }}" title="{{ .Title }}">{{ .Title }}</a></h2>
           {{ .Content }}
           {{ end }}
 
