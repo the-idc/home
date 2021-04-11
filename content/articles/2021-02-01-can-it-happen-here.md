@@ -3,6 +3,7 @@ title: Can it Happen Here?
 newsletter: JI Newsletter 2021/02/01
 date: 2021-02-02T03:32:07.489Z
 author: yogthos
+position: 1
 ---
 
 As we watched unprecedented events unfold south of the border at the US capitol this month we couldn't help but ask whether the same could happen here in Canada.

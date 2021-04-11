@@ -3,6 +3,7 @@ title: Making Knowledge Free
 newsletter: JI Newsletter 2021/02/01
 date: 2021-02-02T03:32:07.489Z
 author: loljapes
+position: 2
 ---
 
 Cicero once wrote "If you have a garden and a library, you have everything you need"*. The effort to provide every human a garden seems sadly stalled at the moment, however, there are a few people who can legitimately claim to be providing a library to every (internet connected) human on the planet. Unfortunately, the efforts of these people to liberate human knowledge are under threat from a collection of scientific publishers who have brought legal action in India in an attempt to shut down Sci-Hub and Library Genesis (LibGen). If this lawsuit succeeds, two of the greatest libraries ever assembled will shut down, kneecapping the ability of citizens, journalists and scientists alike to access information about the world around them.
