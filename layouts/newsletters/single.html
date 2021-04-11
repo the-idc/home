@@ -15,6 +15,7 @@
 
           <hr>
 
+          {{ if ne 0 (len (where (where .Site.Pages "Section" "articles") ".Params.newsletter" .Title)) }}
           <h2> Credits</h2>
 
           <ul>
@@ -26,6 +27,7 @@
           <li>{{ . }}</li>
           {{ end }}
           </ul>
+          {{ end }}
 
           {{ partial "license.html" .}}
         </div>
