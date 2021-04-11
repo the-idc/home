@@ -6,7 +6,7 @@
       <div class="row">
         {{ range (.Pages.ByParam "title").ByParam "position" }}
         <div class="col-lg-4 col-md-6">
-          <a href="{{ .Permalink }}">
+          <a href="{{ .Permalink | relURL }}">
           <div class="single-services">
             <div class="icon">
               <i style="display: inline-flex;">

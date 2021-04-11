@@ -33,7 +33,7 @@
         {{ range ((.Pages.ByParam "title").ByParam "event_date").Reverse }}
         {{ $slug :=  (.RelPermalink | relURL | anchorize) }}
         <div class="col-lg-4 col-md-6" id="{{ $slug }}">
-          <a href="{{ .Permalink }}">
+          <a href="{{ .Permalink | relURL }}">
             <div class="single-services">
               <div class="icon">
                 <i class="flaticon-promotion"></i>
