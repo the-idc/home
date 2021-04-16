@@ -27,6 +27,18 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string", required: true}
       - {label: "Content", name: "body", widget: "markdown", required: true}
+  - name: "articles"
+    label: "Articles"
+    folder: "content/articles"
+    slug: "{{ slug }}"
+    create: true
+    fields:
+      - {lable: "Title", name: "title", widget: "string", required: true}
+      - {label: "Publication Date", name: "date", widget: "date", required: true}
+      - {label: "Credits", name: "credits", widget: "list", allow_add: true}
+      - {label: "Newsletter Title (Must match exactly)", name: "newsletter", widget: "string"}
+      - {label: "Newsletter Article Position", name: "position", widget: "number", min: 1, value_type: "int"}
+      - {label: "Content", name: "body", widget: "markdown", required: true}
   - name: "publications"
     label: "Publication"
     folder: "content/publications"
