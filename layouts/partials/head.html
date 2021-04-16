@@ -70,7 +70,7 @@
 {{define "breadcrumb"}}
   {{ if and (.e) (ne .e .h) }}
     {{ template "breadcrumb" dict "e" .e.Parent "h" .h }}
-    <li><a href="{{.e.Permalink}}">{{ .e.Title }}</a></li>
+    <li><a href="{{ .e.Permalink | relURL }}">{{ .e.Title }}</a></li>
   {{end}}
 {{end}}
 

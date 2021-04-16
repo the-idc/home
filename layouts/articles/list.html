@@ -4,7 +4,7 @@
   <section class="services-section pt-100 pb-100">
     <div class="container">
       <div class="row">
-        {{ range (.Pages.ByParam "title").ByParam "position" }}
+        {{ range (.Pages.ByParam "title").ByDate.Reverse }}
         <div class="col-lg-4 col-md-6">
           <a href="{{ .Permalink | relURL }}">
           <div class="single-services">
@@ -14,14 +14,14 @@
               </i>
             </div>
             <h3>{{ .Title }}</h3>
-            <p></p>
+            <p>{{ .Params.author }}</p>
+            <p>{{ .Params.newsletter }}</p>
           </div>
           </a>
         </div>
         {{ end }}
       </div>
     </div>
-
     <div class="default-shape">
       <div class="shape-1">
         <img src="assets/img/shape/4.png" alt="image">

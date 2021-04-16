@@ -1,0 +1,39 @@
+{{partial "header.html" .}}
+<link rel="stylesheet" href="/assets/css/article.css">
+<main>
+  <section class="project-details-area ptb-100">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 col-md-12">
+          {{ .Content }}
+
+          {{ range sort (where (where .Site.Pages "Section" "articles") ".Params.newsletter" .Title) ".Params.position" }}
+          <hr>
+          <h2 id="{{ .Title | urlize }}"><a href="{{ .Permalink | relURL }}" title="{{ .Title }}">{{ .Title }}</a></h2>
+          {{ .Content }}
+          {{ end }}
+
+          <hr>
+
+          {{ if ne 0 (len (where (where .Site.Pages "Section" "articles") ".Params.newsletter" .Title)) }}
+          <h2> Credits</h2>
+
+          <ul>
+          {{ range sort (where (where .Site.Pages "Section" "articles") ".Params.newsletter" .Title) ".Params.position" }}
+          <li>{{ .Title }} - {{ .Params.author }}</li>
+          {{ end }}
+
+          {{ range .Params.credits }}
+          <li>{{ . }}</li>
+          {{ end }}
+          </ul>
+          {{ end }}
+
+          {{ partial "license.html" .}}
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+{{partial "footer.html" .}}
