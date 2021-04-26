@@ -30,7 +30,7 @@ collections:
   - name: "articles"
     label: "Articles"
     folder: "content/articles"
-    slug: "{{ slug }}"
+    slug: "{{slug}}"
     create: true
     fields:
       - {lable: "Title", name: "title", widget: "string", required: true}
