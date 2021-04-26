@@ -1,5 +1,5 @@
 ---
-title: Why we can't have sick leave
+title: Why We Can't Have  Paid Sick Leave
 date: 2021-04-26T15:11:07.174Z
 ---
 As the pandemic continues to rage across Ontario, many are wondering why the government refuses to take many obvious measures that have been [continuously encouraged](https://pressprogress.ca/3-times-doug-ford-ignored-health-experts-advice-about-how-to-keep-ontario-safe-from-covid-19/) by experts and medical professionals. The government even [overrode the experts](https://www.theglobeandmail.com/canada/article-doug-ford-overrode-ontarios-top-doctor-on-covid-19-tests-overwhelming/) without any medical basis, and paid sick leave has been repeatedly [voted down](https://www.hrreporter.com/focus-areas/compensation-and-benefits/ontario-conservatives-vote-down-paid-sick-days/355346) by the Conservative government.
