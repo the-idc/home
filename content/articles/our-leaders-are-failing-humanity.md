@@ -1,8 +1,7 @@
 ---
 title: Our Leaders are Failing Humanity
 date: 2021-05-02T02:19:27.439Z
-credits:
-  - Sameer Gupta
+author: Sameer Gupta
 newsletter: JI Newsletter 2021-05-01
 position: 2
 ---
