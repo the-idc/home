@@ -1,7 +1,7 @@
 ---
 title: Courage at the NDP convention
 date: 2021-05-02T02:23:04.668Z
-credits: loljapes
+author: loljapes
 newsletter: JI Newsletter 2021-05-01
 position: 1
 ---
