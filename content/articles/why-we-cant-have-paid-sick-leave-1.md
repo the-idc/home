@@ -1,7 +1,7 @@
 ---
 title: Why We Can't Have Paid Sick Leave
 date: 2021-05-02T02:14:02.361Z
-credits: yogthos
+author: yogthos
 newsletter: JI Newsletter 2021-05-01
 position: 3
 ---
