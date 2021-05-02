@@ -18,6 +18,7 @@ collections:
     fields:
       - {label: "Name", name: "title", widget: "string", required: true}
       - {label: "Publication Date", name: "date", widget: "date", required: true}
+      - {label: "Credits", name: "credits", widget: "list", allow_add: true}
       - {label: "Content", name: "body", widget: "markdown", required: true}
   - name: "c"
     label: "Campaigns"
@@ -35,7 +36,7 @@ collections:
     fields:
       - {lable: "Title", name: "title", widget: "string", required: true}
       - {label: "Publication Date", name: "date", widget: "date", required: true}
-      - {label: "Credits", name: "credits", widget: "list", allow_add: true}
+      - {label: "Author", name: "author", widget: "string", required: true}
       - {label: "Newsletter Title (Must match exactly)", name: "newsletter", widget: "string"}
       - {label: "Newsletter Article Position", name: "position", widget: "number", min: 1, value_type: "int"}
       - {label: "Content", name: "body", widget: "markdown", required: true}
