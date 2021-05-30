@@ -1,0 +1,25 @@
+---
+title: Canada Must Rethink Its Energy Production
+date: 2021-05-30T23:50:05.247Z
+author: yogthos
+newsletter: Canada Must Rethink Its Energy Production
+position: 1
+---
+International Energy Agency (IEA) has [recently stated](https://arstechnica.com/tech-policy/2021/05/all-fossil-fuel-exploration-needs-to-end-this-year-iea-says/) that all fossil fuel exploration needs to end this year. IEA has traditionally promoted a conservative energy policy focused on fossil fuel extraction, and such statement highlights that fossil fuel contribution to global warming truly is a dire threat. Despite that, Canada continues to ignore global climate crisis and double down on fossil fuel extraction as a major part of the economy.
+
+Recently, Enbridge ended up in the news when Michigan governor [called for shutdown of line 5](https://calgary.ctvnews.ca/enbridge-will-continue-operating-line-5-until-a-court-stops-them-1.5425311) that runs through US. Activists in US are also calling for shutdown of ine 3 and it appears that Biden administration [may follow through]((https://www.cbc.ca/news/canada/calgary/enbridge-line-3-june-construction-protest-1.6044021)) on that. First Nations groups in Canada [backed](https://www.ctvnews.ca/canada/ontario-first-nations-group-backs-line-5-shutdown-slams-ottawa-for-fighting-back-1.5417773) shutdown of line 5 as well. Despite that, Liberal government has thrown its weight behind the pipeline with our ambassador calling shutdown [a threat to Canada's national energy security](https://www.cbc.ca/news/politics/hillman-enbridge-pipeline-ontario-quebec-1.6017317). Despite repeated platitudes from our Liberal government regarding climate action it continues to be a staunch proponent of fossil fuel extraction and has done nothing to shift our economy away from it.
+
+Not only are we continuing to double down on fossil fuel extraction, we're also failing to prepare ourselves to deal with the disruptions caused by climate change. That fact that a single pipeline shutting down can have a catastrophic impact on our energy security clearly shows that the system is both fragile and unreliable. There is no slack or redundancy built into it, and a single unexpected event can have devastating impact on our entire country.
+
+This problem has to be considered from perspective of climate change that's currently unfolding. We've already seen massive fires hit both Australia and US last year. Similar kinds of fires are [projected to become a risk](http://www.fao.org/3/xii/0207-b3.htm) in Canadian Boreal forests in the near future. This is just one type of a disruptive event looming on the horizon. As weather patterns change we'll see more events such as the recent Texas cold snap, droughts, hurricanes, floodings, pandemics, and other kinds of disasters. Our global economy is not structured to account for these disasters, and that translates to disruption of lives for millions of people whenever such events occur.
+
+Canada needs to start treating climate breakdown seriously and to refocus our economy locally. We need to strive to create a self-sufficient localized economy that can withstand global disruptions. Such refocusing will also make a direct positive contribution towards reducing impact of climate change as it will reduce the need for shipping goods to and from Canada. Localizing our economy will also benefit Canadian workers by creating jobs in Canada and development of new industries. We must immediately shift our economy from fossil fuel extraction and invest in clean energy sector to replace fossils. The world is running out of time, and Canada must do its part to address the crisis.
+
+
+
+
+
+
+
+
+
