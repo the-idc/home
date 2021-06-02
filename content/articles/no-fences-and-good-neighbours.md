@@ -1,0 +1,44 @@
+---
+title: "No Fences and Good Neighbours: "
+date: 2021-06-02T02:13:17.224Z
+author: Sameer Gupta
+newsletter: JI Newsletter 2021-06-01
+position: 3
+---
+In the end, the Israeli campaign of collective punishment against Palestine ended not with a bang - but with the occupiers announcing an unconditional, unilateral ceasefire. 
+
+
+
+While the [status quo](https://www.hrw.org/report/2021/04/27/threshold-crossed/israeli-authorities-and-crimes-apartheid-and-persecution) on the ground remains largely unchanged in the occupied territories,  the implications of this latest conflagration are profound. Apartheid Israel remains engulfed by political turmoil, as the moral, political and military defeat suffered by the Israelis in the recent round of fighting has only deepened the crisis and exposed to a new generation of observers what Palestinians and their allies have known for more than a century; Zionism is a colonial project, and despite our government’s insistence to the contrary, there is no moderate approach to the systematic dispossession and erasure of an indigenous population from a territory they’ve always occupied. 
+
+
+
+When it comes to analyzing the rightward turn of Israel in the years following the signing of the Oslo accords in 1993 much attention is paid to the right-wing Likud and especially its longtime leader Benjamin Netanyahu. It is true that Likud has been the principle force behind the mainstreaming of extremist elements in Israeli political discourse - however, the eagerness of establishment liberals to blame Netanyahu and his coalition of rogue actors for the collapse of the so-called peace process conveniently overlooks the broader history of Israel’s efforts to undermine the emergence of an independent Palestinian politics.
+
+
+
+Take for example the illegal annexation of East Jerusalem, recognized by the UN as the future capital of an independent Palestine, which was carried out in 1967 by the government of Levi Eshkol, Israel’s third Prime Minister and the founder of the Israeli Labour Party. Here too, is where Israel’s widely condemned practice of building illegal settlements on occupied land has its roots. 
+
+
+
+Meanwhile the right of return for the victims of the Nakba and their descendents, which comprises a core pillar of any acceptable peace agreement for the vast majority of Palestinians, is simply a [non-starter](https://www.hrw.org/report/2021/04/27/threshold-crossed/israeli-authorities-and-crimes-apartheid-and-persecution#_ftn91) for any Zionist party in Israel. And despite the UN affirming the right of return for Palestinian refugees, Zionists of all stripes [oppose](https://electronicintifada.net/content/right-return-and-right-choice/4903) such a move on the grounds that the return of Palestinians to the land they were ethnically cleansed from in 1948 would render Jews a minority in a majority Palestinian state - a notion that is antithetical to the mainstream Zionist conception of democratic Israel as a Jewish homeland. 
+
+
+
+This tension between democracy and the Jewish character of the state is perfectly encapsulated within the stubborn contradiction that the Palestinian question presents for the Zionist project; while one group’s right of return as recognized under international law is systematically denied, the 1950 Law of Return offers full rights of citizenship upon immigration to another group purely on the basis of creed. And while Israel and its allies [readily exploit](https://www.amazon.ca/Holocaust-Industry-Reflections-Exploitation-Suffering/dp/1781685614) the dark history of Jewish suffering in order to silence critics of Zionism at home and abroad, exhortations that we never forget the victims of antisemitism offer a stark contrast with the Zionist [demands](https://www.972mag.com/nakbalaw/) that Palestinians forget their own catastrophe and with it their efforts to seek justice. 
+
+
+
+In short, what is ignored by those sympathetic to the rhetoric of “sensitive” Zionists like Yitzhak Rabin or author Amos Oz who purported to support Palestinian aspirations of freedom is that this embedded inequity - the basis for the logic of Israeli apartheid - is part of the foundational premise of Israel itself. The implicit favoured status of one nation (coupled with an ongoing effort to marginalize the other) has functioned to produce societies of extremes, whether that be in terms of ideology, wealth, poverty, power or violence, and reflects a fundamental insecurity that drives Israel’s refusal to entertain any Palestinian presence between the Jordan and the Sea that it cannot exercise ultimate authority over.
+
+
+
+Indeed, it was what Edward Said once referred to as "the ritual demands for psychological security" that left the Israeli political establishment paralyzed as the apartheid project - for decades soberly managed under the watchful eye of Israel's imperial patrons in the west - has became the electoral vehicle for a litany of rogue, right-wing revanchists in the wake of Oslo. 
+
+
+
+The Oslo Accords, hailed in the west as [“the triumph of hope over history”](https://www.nytimes.com/1993/09/14/world/mideast-accord-overview-rabin-arafat-seal-their-accord-clinton-applauds-brave.html), were a good example of this.  With the benefit of hindsight, it is clear now that the laughably one-sided deal did little but facilitate the co-option of the Palestinian Liberation Organization (PLO), which through the establishment of the Palestinian Authority (PA) as merely “the representative of the Palestinian people” was soon transformed from the central pillar of Palestinian political agency into Israel’s police force in the occupied territories. Today, the Palestinian Authority is a [decrepit fiefdom](https://www.jpost.com/israel-news/palestinians-launch-campaign-to-oust-illegitimate-abbas-669666) whose influence does not extend much further than its headquarters in Ramallah.
+
+
+
+And while the failure of Oslo to deliver peace coupled with the psychological surrender of the “Greater Israel” that animated certain right-wing factions helped The historic displays of solidarity between Palestinians in the region and around the world rightly terrified the apartheid regime. Not only did the resistance who rose up not only in the occupied territories, but united in struggle shifted
