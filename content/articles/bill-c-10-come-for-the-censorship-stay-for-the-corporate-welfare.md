@@ -3,7 +3,7 @@ title: "Bill C-10: Come for the censorship, stay for the corporate welfare"
 date: 2021-06-02T01:07:25.466Z
 author: loljapes
 newsletter: JI Newsletter 2021-06-01
-position: 2
+position: 3
 ---
 One of the iron truths of the current political moment is that everyone loathes the collection of internet and social media companies that can collectively be described as the 'web giants' and we all enjoy thinking of ways to take money off them. That fact is clearly informing how the Liberals are deciding to brand their current controversial efforts to amend the broadcasting act. Heritage Minister Steven Guilbeault has been given the job of shepherding Bill C-10 through parliament and has portrayed the bill as an effort to regularize the treatment of companies like Netflix and Amazon by getting them to do the same things Canadian broadcasters are already required to do by law.
 
