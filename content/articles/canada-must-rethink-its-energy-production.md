@@ -3,7 +3,7 @@ title: Canada Must Rethink Its Energy Production
 date: 2021-05-30T23:50:05.247Z
 author: yogthos
 newsletter: JI Newsletter 2021-06-01
-position: 1
+position: 2
 ---
 The International Energy Agency (IEA) has [recently stated](https://arstechnica.com/tech-policy/2021/05/all-fossil-fuel-exploration-needs-to-end-this-year-iea-says/) that all fossil fuel exploration needs to end this year. The IEA has traditionally promoted a conservative energy policy focused on fossil fuel extraction so such a statement highlights that the fossil fuel contribution to global warming truly is a dire threat. Despite that, Canada continues to ignore the global climate crisis and double down on fossil fuel extraction as a major part of its economy.
 
