@@ -25,4 +25,4 @@ With the benefit of hindsight, it is clear now that the laughably one-sided deal
 
 The large-scale uprisings of Palestinians across historic Palestine, including in many Israeli cities, are indicative of how successful the leadership of the resistance factions in Gaza have been in restoring a sense of shared struggle. What hasn't been widely reported in the west is that the first rockets from Gaza were making good on a promise made to the besieged Palestinians of East Jerusalem five days earlier by the enigmatic Mohammad Deif, commander of Hamas's al-Qassam Brigades: “If the aggression against our people…doesn’t stop immediately, the enemy will pay an expensive price.”
 
-As the promised retaliation for the Israeli provocations came, Palestinian residents could be heard cheering and chanting "we are the sons of Deif."
+As the promised retaliation for the Israeli provocations came, Palestinian residents could be heard cheering and [chanting](https://podcastaddict.com/episode/123660331) "we are the sons of Deif."
