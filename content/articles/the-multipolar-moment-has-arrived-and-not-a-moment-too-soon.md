@@ -2,7 +2,7 @@
 title: The Multipolar Moment Has Arrived, and Not a Moment Too Soon
 date: 2021-07-02T03:45:00.307Z
 author: Sameer Gupta
-newsletter: The Multipolar Moment Has Arrived, and Not a Moment Too Soon
+newsletter: JI Newsletter 2021-07-01
 position: 3
 ---
 What does the future look like for the ‘[Empire of Chaos](https://www.counterpunch.org/2014/12/19/empire-of-chaos/)’? The recent flurry of meetings among the transatlantic powers in Europe will likely prove to be a pivotal moment in answering that question. As the world's leading imperial powers came together to articulate what the path forward would be for the besieged 'rules based order', the frequently deployed slogan of [Build Back Better](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/12/fact-sheet-president-biden-and-g7-leaders-launch-build-back-better-world-b3w-partnership/) serves to highlight the bruised egos of a transatlantic bureaucracy smarting from the twin traumas of Donald Trump and Brexit, their countries enveloped by simmering social crisis at the hands of a financialized economy whose depredations continue to linger more than a decade on from the 2008 crash. 
