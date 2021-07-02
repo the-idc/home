@@ -5,7 +5,7 @@ author: Sameer Gupta
 newsletter: The Multipolar Moment Has Arrived, and Not a Moment Too Soon
 position: 3
 ---
-What does the future look like for the ‘[Empire of Chaos](https://www.counterpunch.org/2014/12/19/empire-of-chaos/)’? The recent flurry of meetings amongst the transatlantic powers in Europe will likely prove to be a pivotal moment in answering that question. As the world's leading imperial powers came together to articulate what the path forward would be for the besieged 'rules based order', the endless rhetoric about Building Back Better traditional managers smarting from the twin traumas of Donald Trump and Brexit, enveloped by simmering social crisis at the hands of a financialized economy whose depredations continue to linger more than a decade on from the 2008 crash. 
+What does the future look like for the ‘[Empire of Chaos](https://www.counterpunch.org/2014/12/19/empire-of-chaos/)’? The recent flurry of meetings amongst the transatlantic powers in Europe will likely prove to be a pivotal moment in answering that question. As the world's leading imperial powers came together to articulate what the path forward would be for the besieged 'rules based order', the frequently deployed slogan of [Build Back Better](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/12/fact-sheet-president-biden-and-g7-leaders-launch-build-back-better-world-b3w-partnership/) serves to highlight the bruised egos of a transatlantic bureaucracy smarting from the twin traumas of Donald Trump and Brexit, their countries enveloped by simmering social crisis at the hands of a financialized economy whose depredations continue to linger more than a decade on from the 2008 crash. 
 
 
 
@@ -21,7 +21,7 @@ That this decidedly unimaginative rhetoric was nonetheless enough for the usual 
 
 
 
-But what of Biden’s long-heralded shift left, toward policies which could at least be considered social democratic in nature? Those who still held out in the hope that the tireless campaigning on behalf of the Democrats by ordinary people across the country would be rewarded with a bonafide redistributive agenda for the working class didn’t have to wait long for their hopes to be dashed. The $15 minimum wage increase? Gone. Debt relief of any kind? Non-starter. Border camps have merely been rebranded, continuing to hold thousands in squalid conditions. And despite Democratic majorities in Congress and the support of a significant majority of Americans, there remains no momentum in Washington for any form of universal healthcare coverage. 
+But what of Biden’s long-heralded shift left, toward policies which could at least be considered social democratic in nature? Those who still held out in the hope that the tireless campaigning on behalf of the Democrats by ordinary people across the country would be rewarded with a bonafide redistributive agenda for the working class didn’t have to wait long for their hopes to be dashed. The $15 minimum wage increase? Gone. Debt relief of any kind? Non-starter. Border camps have merely been rebranded, [continuing to hold thousands](https://www.bbc.com/news/world-us-canada-57561760) in squalid conditions. And despite Democratic majorities in Congress and the support of a significant majority of Americans, there remains no momentum in Washington for any form of universal healthcare coverage. 
 
 
 
