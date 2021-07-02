@@ -2,7 +2,7 @@
 title: Conspiracy Theories in Mainstream Media
 date: 2021-06-28T21:19:28.860Z
 author: yogthos
-newsletter: Conspiracy Theories in Mainstream Media
+newsletter: JI Newsletter 2021-07-01
 position: 1
 ---
 The news cycle has recently refocused on the theory that the COVID-19 pandemic is the result of a lab leak in Wuhan. The coverage ranges from suggestions that the lab was merely studying the virus to more sinister insinuations that it was intentionally designed as some sort of a bioweapon.
