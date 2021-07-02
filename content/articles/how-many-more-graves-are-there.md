@@ -2,8 +2,8 @@
 title: "How many more graves are there? "
 date: 2021-07-01T23:20:20.842Z
 author: loljapes
-newsletter: test
-position: 1
+newsletter: JI Newsletter 2021-07-01
+position: 2
 ---
 Over the past month Canadians have suddenly become experts in the various types of gravesites associated with Indian residential schools. This began with the rediscovery of a grave site at Kamloops, B.C., containing 215 bodies. The discovery was made using ground-penetrating radar and subsequent scans in other places have turned up 751 unmarked graves in Marieval, Saskatchewan, and 182 unmarked graves in Cranbrook, B.C..
 
