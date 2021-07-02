@@ -53,7 +53,7 @@ The begrudging concession of the US on the question of vaccine patent waivers (w
 
 
 
-This budding South-South consciousness reflects the growing capacity of the would-be victims of capitalism to resist domination, a fearful prospect for managers of empire like Biden’s Secretary of State Antony Blinken. And so even as the west becomes more transparently authoritarian in some respects, our movements here in the imperial core must seize on the space created by this emerging axis of resistance in the global south.  And in order to help those fighting subjugation at the hands of western imperialism, it is imperative that we first accelerate ongoing efforts to organize mass movements capable of demonstrating resilient leadership of large-scale working class mobilizations in response to the present (and future) crises we face. 
+This budding South-South consciousness reflects the growing capacity of the would-be victims of capitalism to resist domination, a fearful prospect for managers of empire like Biden’s Secretary of State Antony Blinken. And so even as the west becomes [more transparently authoritarian](https://unlimitedhangout.com/2021/06/investigative-reports/who-is-a-terrorist-in-bidens-america/) in some respects, our movements here in the imperial core must seize on the space created by this emerging axis of resistance in the global south.  And in order to help those fighting subjugation at the hands of western imperialism, it is imperative that we first accelerate ongoing efforts to organize mass movements capable of demonstrating resilient leadership of large-scale working class mobilizations in response to the present (and future) crises we face. 
 
 
 
