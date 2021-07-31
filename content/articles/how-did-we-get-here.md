@@ -25,7 +25,7 @@ If any of this sounds alarmist to you then consider that midwestern drought in U
 
 Unfortunately, we're not all in this together. Billionaire class continues to direct stupendous resources towards their vanity projects instead of pitching in to solve our common problems. Billionaire space race is a perfect example of such activity with private individuals using wealth comparable to that of entire nations in order to repeat public sector achievements of 1960s. These resources were hijacked from the rest of humanity and should instead be directed towards ensuring our collective survival while there is still time to act.
 
-You might be wondering how all of this was allowed to happen. After all we knew this was the trajectory we were on since at least 1970s. Why weren't we transitioning our economies towards sustainability and protecting our environment?
+At this point, you might rightly be wondering how and why all of this was allowed to happen. After all we knew this was the trajectory we were on since at least 1970s. Why weren't we transitioning our economies towards sustainability and protecting our environment?
 
 There are of course many factors at play here, but one of fundamental problems is that we've structured our global economy around capitalism. Economic growth and consumerism are the two pillars of this system. Companies must produce goods in order to continue operating, and this fact creates perverse incentives for commodity production.
 
