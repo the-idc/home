@@ -33,4 +33,4 @@ We need to shift gears towards an economic model where production is seen as a c
 
 Another recent [study](https://www.sciencedirect.com/science/article/pii/S0959378020307512) states that despite population growth, 2050 global energy use could be reduced to 1960s levels. Doing that would once again necessitate radical demand-side changes to reduce consumption to levels of sufficiency. Finally, the [2000-watt society](https://en.wikipedia.org/wiki/2000-watt_society) in Switzerland shows that it's perfectly possible for people to live a comfortable lifestyle using only 48kWh of energy per day.
 
-Solutions to our problems exist and they are well understood. All we need is the political will to implement them. Let's not choose to go extinct just because we were too lazy to rise up and fight for our future and the future of our children.
+Solutions to our problems exist and they are well understood. All we need is the political will to implement them. Let's not choose to go extinct just because we were too unsure of ourselves to rise up and fight for our future and the future of our children.
